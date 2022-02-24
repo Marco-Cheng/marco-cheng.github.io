@@ -72,4 +72,4 @@ highlight_name: true
 
 * #### **CURRICULUM VITAE (CV)**
 
-{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}You can download my CV here :){{< /staticref >}}.
+  * {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}You can download my CV here :){{< /staticref >}}.
