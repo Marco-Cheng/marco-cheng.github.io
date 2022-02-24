@@ -24,9 +24,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Marco-Cheng
-  - icon: weixin
-    icon_pack: fab
-    link: Marco_Z_Cheng
   - display:
       header: true
     icon: twitter
@@ -37,13 +34,12 @@ organizations:
     url: https://iiis.tsinghua.edu.cn/
 education:
   courses: []
-email: ""
+email: marco.cheng712@gmail.com
 superuser: true
 highlight_name: true
 ---
+Zerui Cheng is a junior year undergrad student of Yao Class (the pilot class of computer science in Tsinghua founded by Turing Award winner A.C.C Yao), majoring in Computer Science. His research interests include blockchain, cryptocurrencies and algorithms, aiming on building a more secure and more energy-efficient blockchain system. He is also an experienced and proud competitive programmer with notable achievements , including gold medalist in ICPC (International Collegiate Programming Contest) Regional and silver medalist in ICPC East Continental Final of Asia.  Also, he is a problem setter of NOI (Chinese National Olympiad in Informatics) in 2021. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
