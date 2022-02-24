@@ -38,12 +38,24 @@ email: marco.cheng712@gmail.com
 superuser: true
 highlight_name: true
 ---
+* **WHO AM I ?**
+
 Zerui Cheng is a junior-year undergrad student majoring in Computer Science in Tsinghua University. He is a member of Yao Class, an undergraduate honor program founded by Turing Award winner Andrew Chi-Chih Yao. 
+
+
+
+* **THEORY: SCIENTIFIC RESEARCH**
 
 His research interests include blockchain, cryptocurrencies and algorithms, aiming on building a more secure and more energy-efficient blockchain system. Since sophomore-year, he has been advised by Prof. Zhixuan Fang to conduct undergrad-level research, and he is the co-first author of a research paper currently in submission.
 
-He is also an expertised and proud competitive programmer with notable achievements, where randomized algorithms and optimization of search algorithms are his most proficient skills.  He has won a Gold Medal in ICPC (International Collegiate Programming Contest) Regional, a Silver Medal in ICPC East Continental Final of Asia and two Gold Medals in CCPC (Chinese Collegiate Programming Contest).  And he ranks 16/182781 worldwide (and 2nd in China) on the well-reputed programming platform Hackerrank <https://www.hackerrank.com/leaderboard>. Besides, he is also an experienced problem setter for competitive programming contests. He is the main author of Codeforces Round #447 <https://codeforces.com/contest/894>, the author of several problems of the Programming Contest of Tsinghua University, and he is fortunate to be a member of the problem setting committee of NOI (Chinese National Olympiad in Informatics) in 2021. 
 
 
+* **PRACTICE: COMPETITIVE PROGRAMMING**
+
+He is also an expertised and proud competitive programmer with notable achievements, where randomized algorithms and optimization of search algorithms are his most proficient skills.  He has won a Gold Medal in ICPC (International Collegiate Programming Contest) Regional, a Silver Medal in ICPC East Continental Final of Asia and two Gold Medals in CCPC (Chinese Collegiate Programming Contest).  And he ranks 16/182781 worldwide (and 2nd in China) on the well-reputed programming platform Hackerrank, where you can access the leaderboard <https://www.hackerrank.com/leaderboard> for more details. Besides, he is also an experienced problem setter for competitive programming contests. He is the main author of Codeforces Round #447 (the link to which is <https://codeforces.com/contest/894>) , the author of several problems of the Programming Contest of Tsinghua University, and he is fortunate to be a member of the problem setting committee of NOI (Chinese National Olympiad in Informatics) in 2021. 
+
+
+
+* **CURRICULUM VITAE (CV)**
 
 {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}You can download my CV here :){{< /staticref >}}.
