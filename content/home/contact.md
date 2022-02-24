@@ -32,8 +32,8 @@ content:
       icon_pack: fab
       name: Find me on Twitter
       link: 'https://twitter.com/ZeruiCheng'
-    - icon: envelope
-      icon_pack: fas
+    - icon: weixin
+      icon_pack: fab
       name: Find me on WeChat by ID Marco_Z_Cheng
       link: 'https://wechat.com'
 
