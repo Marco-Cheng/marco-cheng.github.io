@@ -17,19 +17,21 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: marco.cheng712@gmail.com
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/Marco-Cheng
+  - icon: weixin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: Marco_Z_Cheng
+  - display:
+      header: true
+    icon: twitter
+    link: https://twitter.com/ZeruiCheng
+    icon_pack: fab
 organizations:
   - name: IIIS, Tsinghua University (清华大学 交叉信息研究院)
     url: https://iiis.tsinghua.edu.cn/
