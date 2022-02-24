@@ -1,8 +1,8 @@
 ---
 title: Zerui Cheng
-role: Junior Student of Yao Class (the pilot class in computer science founded
-  by Turing Award winner Andrew Chi-Chih Yao), IIIS (the Institute for
-  Interdisciplinary Information Sciences), Tsinghua University
+role: Junior Year Student of Yao Class (the pilot class in computer science
+  founded by Turing Award winner Andrew Chi-Chih Yao), IIIS (the Institute for
+  Interdisciplinary Information Sciences),
 avatar_filename: t019kju4125-u033ymyjxha-674473a6a9a3-512.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
