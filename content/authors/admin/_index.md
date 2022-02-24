@@ -43,14 +43,14 @@ highlight_name: true
 * #### **WHO AM I ?**
 
   * Zerui Cheng is a junior-year undergrad student majoring in Computer Science in Tsinghua University. 
-  * He is a member of Yao Class, an undergraduate honor program founded by Turing Award winner Andrew Chi-Chih Yao. 
+  * He is a member of [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), an undergraduate honor program founded by Turing Award winner [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/). 
 
 
 * #### **SCIENTIFIC RESEARCH**
 
   * His research interests include blockchain, cryptocurrencies and algorithms, aiming on building a more secure and more energy-efficient blockchain system. 
   * Since sophomore-year, he has been advised by [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/) to conduct undergrad-level research in Tsinghua University, and he is the co-first author of a research paper currently in submission. 
-  * He is fortunate to be accepted as a student intern in 2022 Spring advised by [Prof. Fan Zhang](fanzhang.me) in Duke University and [Prof. Dawn Song ](https://people.eecs.berkeley.edu/~dawnsong/)in the University of California, Berkeley.
+  * He is fortunate to be accepted as a student intern in the Spring of 2022, advised by [Prof. Fan Zhang](fanzhang.me) in Duke University and [Prof. Dawn Song ](https://people.eecs.berkeley.edu/~dawnsong/)in the University of California, Berkeley.
 
 
 
@@ -65,8 +65,8 @@ highlight_name: true
 
 * #### **SOCIAL WORK**
 
-  * He is now the vice president of IIIS Students' Union in Tsinghua University.
-  * He is now a member of the Algorithm Association in Tsinghua University.
+  * He is the vice president of IIIS Students' Union in Tsinghua University.
+  * He is a member of the Algorithm Association in Tsinghua University.
   * He was a volunteer for the 110th anniversary of Tsinghua University.
 
 
