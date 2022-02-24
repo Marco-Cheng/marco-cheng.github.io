@@ -30,11 +30,11 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: Twitter ID: @ZeruiCheng
+      name: Find me on Twitter
       link: 'https://twitter.com/ZeruiCheng'
     - icon: envelope
       icon_pack: fas
-      name: WeChat ID: Marco_Z_Cheng
+      name: Find me on WeChat by ID Marco_Z_Cheng
       link: 'https://wechat.com'
 
 design:
