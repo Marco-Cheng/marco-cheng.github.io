@@ -39,20 +39,29 @@ highlight_name: true
 ---
 * #### **WHO AM I ?**
 
-Zerui Cheng is a junior-year undergrad student majoring in Computer Science in Tsinghua University. He is a member of Yao Class, an undergraduate honor program founded by Turing Award winner Andrew Chi-Chih Yao. 
+  Zerui Cheng is a junior-year undergrad student majoring in Computer Science in Tsinghua University. He is a member of Yao Class, an undergraduate honor program founded by Turing Award winner Andrew Chi-Chih Yao. 
 
 
 
 * #### **SCIENTIFIC RESEARCH**
 
-His research interests include blockchain, cryptocurrencies and algorithms, aiming on building a more secure and more energy-efficient blockchain system. Since sophomore-year, he has been advised by [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/) to conduct undergrad-level research in Tsinghua University, and he is the co-first author of a research paper currently in submission. He is fortunate to be accepted as a student intern in 2022 Spring advised by [Prof. Fan Zhang](fanzhang.me) in Duke University and [Prof. Dawn Song ](https://people.eecs.berkeley.edu/~dawnsong/)in the University of California, Berkeley.
+  His research interests include blockchain, cryptocurrencies and algorithms, aiming on building a more secure and more energy-efficient blockchain system. Since sophomore-year, he has been advised by [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/) to conduct undergrad-level research in Tsinghua University, and he is the co-first author of a research paper currently in submission. He is fortunate to be accepted as a student intern in 2022 Spring advised by [Prof. Fan Zhang](fanzhang.me) in Duke University and [Prof. Dawn Song ](https://people.eecs.berkeley.edu/~dawnsong/)in the University of California, Berkeley.
 
 
 
 * #### **COMPETITIVE PROGRAMMING**
 
-He is also an expertised and proud competitive programmer with notable achievements, where randomized algorithms and optimization of search algorithms are his most proficient skills.  He has won a Gold Medal in ICPC (International Collegiate Programming Contest) Regional, a Silver Medal in ICPC East Continental Final of Asia and two Gold Medals in CCPC (Chinese Collegiate Programming Contest).  And he ranks 16/182781 worldwide (and 2nd in China) on the well-reputed programming platform Hackerrank, where you can access the [leaderboard](https://www.hackerrank.com/leaderboard) for more details. Besides, he is also an experienced problem setter for competitive programming contests. He is the main author of [Codeforces Round #447](https://codeforces.com/contest/894), the author of several problems of the Programming Contest of Tsinghua University, and he is fortunate to be a member of the problem setting committee of NOI (Chinese National Olympiad in Informatics) in 2021. 
+  He is also an expertised and proud competitive programmer with notable achievements, where randomized algorithms and optimization of search algorithms are his most proficient skills.  He has won a Gold Medal in ICPC (International Collegiate Programming Contest) Regional, a Silver Medal in ICPC East Continental Final of Asia and two Gold Medals in CCPC (Chinese Collegiate Programming Contest).  And he ranks 16/182781 worldwide (and 2nd in China) on the well-reputed programming platform Hackerrank, where you can access the [leaderboard](https://www.hackerrank.com/leaderboard) for more details. Besides, he is also an experienced problem setter for competitive programming contests. He is the main author of [Codeforces Round #447](https://codeforces.com/contest/894), the author of several problems of the Programming Contest of Tsinghua University, and he is fortunate to be a member of the problem setting committee of NOI (Chinese National Olympiad in Informatics) in 2021. 
 
+
+
+* #### **SOCIAL WORK**
+
+  He is now the vice president of IIIS Students' Union in Tsinghua University.
+
+  He is now a member of the Algorithm Association in Tsinghua University.
+
+  He was a volunteer for the 110th anniversary of Tsinghua University.
 
 
 * #### **CURRICULUM VITAE (CV)**
