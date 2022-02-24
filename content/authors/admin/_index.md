@@ -46,4 +46,4 @@ He is also an expertised and proud competitive programmer with notable achieveme
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}You can download my CV here :){{< /staticref >}}.
