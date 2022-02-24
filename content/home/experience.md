@@ -25,7 +25,7 @@ experience:
   - title: Student Intern
     company: Duke University
     company_url: ''
-    company_logo: 
+    company_logo: duke.jpg
     location: North Carolina, the USA
     date_start: '2022-02-18'
     date_end: ''
@@ -34,8 +34,8 @@ experience:
   - title: Undergraduate Student
     company: Tsinghua University
     company_url: ''
-    company_logo: 
-    location: Beijing, Chin
+    company_logo: tsinghua.jpg
+    location: Beijing, China
     date_start: '2019-08-14'
     date_end: ''
     description: Undergrad study majoring in Computer Science
