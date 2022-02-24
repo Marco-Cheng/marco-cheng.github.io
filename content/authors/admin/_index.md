@@ -60,7 +60,7 @@ highlight_name: true
   * He is the vice president of IIIS Students' Union in Tsinghua University.
   * He is a member of the Algorithm Association in Tsinghua University.
   * He was a volunteer for the 110th anniversary of Tsinghua University.
-* #### LEISURE TIME
+* #### AVOCATION
 
   * Fan of NBA, Formula 1 and European Soccer.
   * Favorite sporting stars include Stephen Curry (NBA), Lewis Hamilton (F1) and Marco Reus (Bundesliga).
