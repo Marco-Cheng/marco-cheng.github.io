@@ -67,4 +67,6 @@ highlight_name: true
 
 * #### **CURRICULUM VITAE (CV)**
 
-  {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}You can download my CV here. {{< /staticref >}} For the details of the projects listed in my CV, feel free to contact me via email :)
+  {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}You can download my CV here. {{< /staticref >}} 
+  
+  For the details of the projects listed in my CV, feel free to contact me via email :)
