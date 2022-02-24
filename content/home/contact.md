@@ -26,8 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: marco.cheng712@gmail.com
-  WeChat ID: Marco_Z_Cheng
-  QQ: 1279753568
+
   contact_links:
     - icon: twitter
       icon_pack: fab
