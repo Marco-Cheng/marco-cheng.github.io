@@ -25,18 +25,19 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
+  
   email: marco.cheng712@gmail.com
-  WeChat ID: Marco_Z_Cheng
-  QQ: 1279753568
+
   contact_links:
+    - icon: weixin
+      icon_pack: fab
+      name: Wechat ID: Marco_Z_Cheng
+      link: 'https://wechat.com/'
+
     - icon: twitter
       icon_pack: fab
-      name: DM Me
+      name: Twitter ID: @ZeruiCheng
       link: 'https://twitter.com/ZeruiCheng'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
 
 design:
   columns: '2'
