@@ -32,8 +32,8 @@ content:
       icon_pack: fab
       name: Twitter ID: @ZeruiCheng
       link: 'https://twitter.com/ZeruiCheng'
-    - icon: weixin
-      icon_pack: fab
+    - icon: envelope
+      icon_pack: fas
       name: WeChat ID: Marco_Z_Cheng
       link: 'https://wechat.com'
 
