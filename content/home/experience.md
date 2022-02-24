@@ -8,7 +8,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 100
 
 title: Experience
 subtitle:
