@@ -34,32 +34,6 @@ experience:
     date_end: ''
     description: Research Intern on Blockchain Advised by Prof. Fan Zhang
 
- - title: Vice President
-    company: Students' Union of the IIIS, Tsinghua University
-    company_url: 'https://iiis.tsinghua.edu.cn/'
-    company_logo: iiis
-    location: Shanghai, China
-    date_start: '2021-10-01'
-    date_end: ''
-    description: Vice President of IIIS Students' Union
-
-  - title: 	Research Intern
-    company: Shanghai Qizhi Institute
-    company_url: 'https://sqz.ac.cn/'
-    company_logo: qizhi
-    location: Shanghai, China
-    date_start: '2021-07-05'
-    date_end: '2021-08-04'
-    description: Research Intern on Blockchain Advised by Prof. Zhixuan Fang
-
-  - title: Student Expert
-    company: China Computer Federation
-    company_url: 'https://www.noi.cn/'
-    company_logo: ccf
-    location: Yuyao, China
-    date_start: '2021-07-23'
-    date_end: '2021-07-29'
-    description: Problem Setter and Monitor of Chinese National Olympiad in Informatics 2021
         
   - title: Undergraduate Student
     company: Tsinghua University
@@ -71,6 +45,6 @@ experience:
     description: Undergrad Study Majoring in Computer Science
 
 design:
-  columns: '5'
+  columns: '2'
 ​---
 ---
