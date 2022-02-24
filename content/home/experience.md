@@ -8,7 +8,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 100
+weight: 40
 
 title: Experience
 subtitle:
@@ -41,7 +41,7 @@ experience:
     location: Shanghai, China
     date_start: '2021-10-01'
     date_end: ''
-    description: ''
+    description: Vice President of IIIS Students' Union
 
   - title: 	Research Intern
     company: Shanghai Qizhi Institute
@@ -50,16 +50,16 @@ experience:
     location: Shanghai, China
     date_start: '2021-07-05'
     date_end: '2021-08-04'
-    description: Research Intern on Blockchain Advised by Prof. Zhixuan Fang, Themed "Proof-of-Useful-Work on Public Chain"
+    description: Research Intern on Blockchain Advised by Prof. Zhixuan Fang
 
-  - title: Student Expert (Problem Setter)
+  - title: Student Expert
     company: China Computer Federation
     company_url: 'https://www.noi.cn/'
     company_logo: ccf
     location: Yuyao, China
     date_start: '2021-07-23'
     date_end: '2021-07-29'
-    description: Student Expert, Problem Setter and Monitor of NOI (Chinese National Olympiad in Informatics) 2021
+    description: Problem Setter and Monitor of Chinese National Olympiad in Informatics 2021
         
   - title: Undergraduate Student
     company: Tsinghua University
