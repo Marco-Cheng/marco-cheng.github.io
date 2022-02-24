@@ -34,7 +34,7 @@ organizations:
 education:
   courses:
     - year: ""
-      course: BEng (2019- )
+      course: B.Eng. (2019- )
       institution: the Insititute for Interdisciplinary Sciences (IIIS), Tsinghua University
 email: marco.cheng712@gmail.com
 superuser: true
