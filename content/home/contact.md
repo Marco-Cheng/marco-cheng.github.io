@@ -31,12 +31,12 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
+      name: Twitter ID: @ZeruiCheng
       link: 'https://twitter.com/ZeruiCheng'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+    - icon: weixin
+      icon_pack: fab
+      name: WeChat ID: Marco_Z_Cheng
+      link: 'https://wechat.com'
 
 design:
   columns: '2'
