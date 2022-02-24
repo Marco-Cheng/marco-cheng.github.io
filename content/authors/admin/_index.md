@@ -1,8 +1,8 @@
 ---
 title: Zerui Cheng (程泽瑞)
-role: Junior Year Student of Yao Class (the pilot class of computer science in
-  Tsinghua founded by Turing Award winner A.C.C Yao), Researcher in Blockchain
-  and Proud Competitive Programmer
+role: Junior-year Student of Yao Class (an undergrad honor program of computer
+  science in Tsinghua founded by Turing Award winner A.C.C Yao), Researcher in
+  Blockchain and Proud Competitive Programmer
 avatar_filename: avatar.jpg
 bio: "My research interests include blockchain, cryptocurrencies and algorithms,
   aiming on building a more secure and more energy-efficient blockchain system.
@@ -30,7 +30,7 @@ social:
     link: https://twitter.com/ZeruiCheng
     icon_pack: fab
 organizations:
-  - name: IIIS, Tsinghua University             (清华大学 交叉信息研究院)
+  - name: IIIS, Tsinghua University
     url: https://iiis.tsinghua.edu.cn/
 education:
   courses: []
@@ -38,8 +38,12 @@ email: marco.cheng712@gmail.com
 superuser: true
 highlight_name: true
 ---
-Zerui Cheng is a junior year undergrad student of Yao Class (the pilot class of computer science in Tsinghua founded by Turing Award winner A.C.C Yao), majoring in Computer Science. His research interests include blockchain, cryptocurrencies and algorithms, aiming on building a more secure and more energy-efficient blockchain system. He is also an experienced and proud competitive programmer with notable achievements , including gold medalist in ICPC (International Collegiate Programming Contest) Regional and silver medalist in ICPC East Continental Final of Asia.  Also, he is a problem setter of NOI (Chinese National Olympiad in Informatics) in 2021. 
+Zerui Cheng is a junior-year undergrad student majoring in Computer Science in Tsinghua University. He is a member of Yao Class, an undergraduate honor program founded by Turing Award winner Andrew Chi-Chih Yao. 
+
+His research interests include blockchain, cryptocurrencies and algorithms, aiming on building a more secure and more energy-efficient blockchain system. Since sophomore-year, he has been advised by Prof. Zhixuan Fang to conduct undergrad-level research, and he is the co-first author of a research paper currently in submission.
+
+He is also an expertised and proud competitive programmer with notable achievements, where randomized algorithms and optimization of search algorithms are his most proficient skills.  He has won a Gold Medal in ICPC (International Collegiate Programming Contest) Regional, a Silver Medal in ICPC East Continental Final of Asia and two Gold Medals in CCPC (Chinese Collegiate Programming Contest).  And he ranks 16/182781 worldwide (and 2nd in China) on the well-reputed programming platform Hackerrank <https://www.hackerrank.com/leaderboard>. Besides, he is also an experienced problem setter for competitive programming contests. He is the main author of Codeforces Round #447 <https://codeforces.com/contest/894>, the author of several problems of the Programming Contest of Tsinghua University, and he is fortunate to be a member of the problem setting committee of NOI (Chinese National Olympiad in Informatics) in 2021. 
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
