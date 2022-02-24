@@ -30,7 +30,7 @@ social:
     link: https://twitter.com/ZeruiCheng
     icon_pack: fab
 organizations:
-  - name: IIIS, Tsinghua University (清华大学 交叉信息研究院)
+  - name: IIIS, Tsinghua University             (清华大学 交叉信息研究院)
     url: https://iiis.tsinghua.edu.cn/
 education:
   courses: []
