@@ -60,7 +60,11 @@ highlight_name: true
   * He is the vice president of IIIS Students' Union in Tsinghua University.
   * He is a member of the Algorithm Association in Tsinghua University.
   * He was a volunteer for the 110th anniversary of Tsinghua University.
-*
+* #### LEISURE TIME
+
+  * Fan of NBA, Formula 1 and European Soccer.
+  * Favorite sporting stars include Stephen Curry (NBA), Lewis Hamilton (F1) and Marco Reus (Bundesliga).
+  * Also fan of stand-up comedies (including both Chinese style cross-talk and American style talk show).
 * #### **CURRICULUM VITAE (CV)**
 
   {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Download Zerui Cheng's CV here :){{< /staticref >}}.
