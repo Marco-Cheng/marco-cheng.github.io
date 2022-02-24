@@ -17,7 +17,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: marco.cheng712@gmail.com
+    link: "#contact"
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com
