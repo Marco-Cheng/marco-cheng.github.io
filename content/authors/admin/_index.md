@@ -12,7 +12,8 @@ interests:
   - Blockchain
   - Cryptocurrencies
   - Game Theory
-  - Security Analysis
+  - Algorithms
+  - Privacy and Security
 social:
   - icon: envelope
     icon_pack: fas
