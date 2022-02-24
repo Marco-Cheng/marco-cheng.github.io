@@ -62,11 +62,11 @@ highlight_name: true
   * He was a volunteer for the 110th anniversary of Tsinghua University.
 * #### **LEISURE TIME**
 
-  I'm a fan of NBA, European soccer and Formula 1. And my favorite sports stars include Stephen Curry (NBA), Lewis Hamilton (F1) and Marco Reus (Bundesliga). Also, I'm a fan of stand-up comedy (both Chinese style cross-talk and Western style talk-show).
-
-
+  * Fan of NBA, European soccer and Formula 1. 
+  * Favorite sports stars include Stephen Curry (NBA), Lewis Hamilton (F1) and Marco Reus (Bundesliga)
+  * Also fan of stand-up comedy (both Chinese style cross-talk and Western style talk-show).
 * #### **CURRICULUM VITAE (CV)**
 
   {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}You can download my CV here. {{< /staticref >}} 
-  
+
   For the details of the projects listed in my CV, feel free to contact me via email :)
