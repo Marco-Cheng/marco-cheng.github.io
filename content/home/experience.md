@@ -69,6 +69,6 @@ experience:
     description: Undergrad Study Majoring in Computer Science
 
 design:
-  columns: '2'
+  columns: '5'
 ​---
 ---
