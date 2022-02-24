@@ -51,10 +51,10 @@ highlight_name: true
   * He is fortunate to be accepted as a research intern on blockchain in the spring of 2022, advised by [Prof. Fan Zhang](fanzhang.me) in Duke University and [Prof. Dawn Song ](https://people.eecs.berkeley.edu/~dawnsong/)in the University of California, Berkeley.
 * #### **COMPETITIVE PROGRAMMING**
 
-  * He is also an expertised and proud competitive programmer with notable achievements, where randomized algorithms and optimization of search algorithms are his most proficient skills. 
-  * He has won a Gold Medal in ICPC (International Collegiate Programming Contest) Regional, a Silver Medal in ICPC East Continental Final of Asia and two Gold Medals in CCPC (Chinese Collegiate Programming Contest).
-  * He ranks 16/182781 worldwide (and 2nd in China) on the well-reputed online programming platform Hackerrank, and you can access the [leaderboard](https://www.hackerrank.com/leaderboard) for more details. 
-  * Besides, he is also an experienced problem setter for competitive programming contests. He is the main author of [Codeforces Round #447](https://codeforces.com/contest/894) and a problem setter of NOI (Chinese National Olympiad in Informatics) in 2021. 
+  * He is also an expertised and proud competitive programmer ([What is competitive programming?](https://en.wikipedia.org/wiki/Competitive_programming)), where randomized algorithms and optimization of search algorithms are his most proficient skills. 
+  * For offline contests, he has won a Gold Medal in ICPC (International Collegiate Programming Contest) Regional, a Silver Medal in ICPC East Continental Final of Asia and two Gold Medals in CCPC (Chinese Collegiate Programming Contest). He is also a two-time silver medalist of Chinese National Olympiad in Informatics (both in 2017 and 2018).
+  * For online contests, he ranks 16/182781 worldwide (and 2nd in China) on the well-reputed online programming platform [Hackerrank](https://www.hackerrank.com/), and you can access the [leaderboard](https://www.hackerrank.com/leaderboard) for more details.  He also competes on [Codeforces](https://codeforces.com/) ([see my profile here](https://codeforces.com/profile/Marco_L_T)) and [CSAcademy](https://csacademy.com/) ([see my profile here](https://csacademy.com/user/Marco_L_T)).
+  * Besides, he is also an experienced problem setter for competitive programming contests. He sets and tests a number of problems for various contests. For example, he is the main author of [Codeforces Round #447](https://codeforces.com/contest/894) and a problem setter of Chinese National Olympiad in Informatics in 2021. 
 * #### **SOCIAL WORK**
 
   * He is the vice president of IIIS Students' Union in Tsinghua University.
