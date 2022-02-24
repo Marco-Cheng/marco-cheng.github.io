@@ -32,7 +32,10 @@ organizations:
   - name: IIIS, Tsinghua University
     url: https://iiis.tsinghua.edu.cn/
 education:
-  courses: []
+  courses:
+    - year: ""
+      course: BEng
+      institution: the Insititute for Interdisciplinary Sciences (IIIS), Tsinghua University
 email: marco.cheng712@gmail.com
 superuser: true
 highlight_name: true
