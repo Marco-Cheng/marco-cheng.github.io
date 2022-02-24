@@ -9,9 +9,10 @@ bio: "My research interests include blockchain, cryptocurrencies and algorithms,
   I'm also an experienced and proud competitive programmer with notable
   achievements. "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Blockchain
+  - Cryptocurrencies
+  - Game Theory
+  - Security Analysis
 social:
   - icon: envelope
     icon_pack: fas
