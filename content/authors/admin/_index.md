@@ -44,32 +44,22 @@ highlight_name: true
 
   * Zerui Cheng is a junior-year undergrad student majoring in Computer Science in Tsinghua University. 
   * He is a member of [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), an undergraduate honor program founded by Turing Award winner [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/). 
-
-
 * #### **SCIENTIFIC RESEARCH**
 
   * His research interests include blockchain, cryptocurrencies and algorithms, aiming on building a more secure and more energy-efficient blockchain system. 
   * Since sophomore-year, he has been advised by [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/) to conduct undergrad-level research in Tsinghua University, and he is the co-first author of a research paper currently in submission. 
   * He is fortunate to be accepted as a student intern in the Spring of 2022, advised by [Prof. Fan Zhang](fanzhang.me) in Duke University and [Prof. Dawn Song ](https://people.eecs.berkeley.edu/~dawnsong/)in the University of California, Berkeley.
-
-
-
 * #### **COMPETITIVE PROGRAMMING**
 
   * He is also an expertised and proud competitive programmer with notable achievements, where randomized algorithms and optimization of search algorithms are his most proficient skills. 
   * He has won a Gold Medal in ICPC (International Collegiate Programming Contest) Regional, a Silver Medal in ICPC East Continental Final of Asia and two Gold Medals in CCPC (Chinese Collegiate Programming Contest).
   * He ranks 16/182781 worldwide (and 2nd in China) on the well-reputed online programming platform Hackerrank, where you can access the [leaderboard](https://www.hackerrank.com/leaderboard) for more details. 
   * Besides, he is also an experienced problem setter for competitive programming contests. He is the main author of [Codeforces Round #447](https://codeforces.com/contest/894) and a problem setter of NOI (Chinese National Olympiad in Informatics) in 2021. 
-
-
-
 * #### **SOCIAL WORK**
 
   * He is the vice president of IIIS Students' Union in Tsinghua University.
   * He is a member of the Algorithm Association in Tsinghua University.
   * He was a volunteer for the 110th anniversary of Tsinghua University.
-
-
 * #### **CURRICULUM VITAE (CV)**
 
-  {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}You can download my CV here :){{< /staticref >}}.
+  {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}You can download my CV here. {{< /staticref >}} For the details of the projects listed in my CV, feel free to contact me via email :)
