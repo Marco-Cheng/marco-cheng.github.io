@@ -1,11 +1,12 @@
 ---
 title: Zerui Cheng (程泽瑞)
 role: Junior Year Student of Yao Class (the pilot class of computer science in
-  Tsinghua founded by Turing Award winner A.C.C Yao), Researcher in Blockchain,
-  Proud Competitive Programmer
+  Tsinghua founded by Turing Award winner A.C.C Yao), Researcher in Blockchain
+  and Proud Competitive Programmer
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "My research interests include blockchain, cryptocurrencies and algorithms,
+  aiming on building a more secure and more energy-efficient blockchain system.
+  I'm also an experienced competitive programmer with notable achievements. "
 interests:
   - Artificial Intelligence
   - Computational Linguistics
