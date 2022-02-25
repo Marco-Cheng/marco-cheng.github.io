@@ -15,4 +15,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-It's the course project of *Numerical Analysis* instructed by Prof. Wenjian Yu. In this work, I put forward, analyzed and implemented an algorithm for a specific kind of graph matching problem with restrictions on edges. You can find the write-up [here](https://zerui-cheng.com/uploads/algo-write-up.pdf) (only available in Chinese).
+It's the course project of *Numerical Analysis* instructed by Prof. Wenjian Yu. 
+
+In this work, I put forward, analyzed and implemented an algorithm for a specific kind of graph matching problem with restrictions on edges. 
+
+You can find the write-up [here](https://zerui-cheng.com/uploads/algo-write-up.pdf) (only available in Chinese).
