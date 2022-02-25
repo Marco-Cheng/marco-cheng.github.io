@@ -6,9 +6,13 @@ draft: false
 featured: false
 authors:
   - Zerui Cheng
+tags:
+  - number theory
+  - linear algebra
+  - randomization
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-It's the course project of <Numerical Analysis> instructed by Prof. Wenjian Yu. In this work, I put forward and implemented an algorithm for a specific kind of graph matching problem with restrictions on edges. You can find the write-up [here](zerui-cheng.com/uploads/algo-write-up.pdf) (only available in Chinese).
+It's the course project of *Numerical Analysis* instructed by Prof. Wenjian Yu. In this work, I put forward, analyzed and implemented an algorithm for a specific kind of graph matching problem with restrictions on edges. You can find the write-up [here](zerui-cheng.com/uploads/algo-write-up.pdf) (only available in Chinese).
