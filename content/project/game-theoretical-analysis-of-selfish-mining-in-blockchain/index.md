@@ -6,6 +6,10 @@ featured: false
 authors:
   - Zerui Cheng
   - Shutong Qu
+tags:
+  - game theory
+  - blockchain
+  - security
 image:
   filename: featured
   focal_point: Smart
