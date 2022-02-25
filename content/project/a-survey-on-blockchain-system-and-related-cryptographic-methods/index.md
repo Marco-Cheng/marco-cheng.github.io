@@ -5,9 +5,13 @@ draft: false
 featured: false
 authors:
   - Zerui Cheng
+tags:
+  - blockchain
+  - cryptography
+  - cryptocurrency
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-It's the course project of <Fundamentals of Cryptography> instructed by Prof. Yilei Chen. It's a survey on the blockchains and related cryptographic methods. You can find the write-up [here](zerui-cheng.com/uploads/survey-write-up.pdf) and the presentation slides [here](zerui-cheng.com/uploads/survey-slides.pdf).
+It's the course project of *Fundamentals of Cryptography* instructed by Prof. Yilei Chen. It's a survey on the blockchains and related cryptographic methods. You can find the write-up [here](zerui-cheng.com/uploads/survey-write-up.pdf) and the presentation slides [here](zerui-cheng.com/uploads/survey-slides.pdf).
