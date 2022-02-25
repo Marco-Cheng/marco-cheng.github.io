@@ -48,7 +48,7 @@ highlight_name: true
 
   * His research interests include blockchain, cryptocurrencies and algorithms, aiming on building a more secure and more energy-efficient blockchain system. 
   * Since sophomore-year, he has been advised by [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/) to conduct scientific research on blockchain in Tsinghua University, and it's the initiation and enlightenment of his stepping into scientific research.
-  * He is fortunate to be accepted as a research intern on blockchain in the spring of 2022, advised by [Prof. Fan Zhang](fanzhang.me) in Duke University and [Prof. Dawn Song ](https://people.eecs.berkeley.edu/~dawnsong/)in the University of California, Berkeley.
+  * He is fortunate to be accepted as a research intern on blockchain in the spring of 2022, advised by [Prof. Fan Zhang](https://fanzhang.me) in Duke University and [Prof. Dawn Song ](https://people.eecs.berkeley.edu/~dawnsong/)in the University of California, Berkeley.
 * #### **COMPETITIVE PROGRAMMING**
 
   * He is also an expertised and proud competitive programmer ([What is competitive programming?](https://en.wikipedia.org/wiki/Competitive_programming)), where randomized algorithms and optimization of search algorithms are his most proficient skills. 
