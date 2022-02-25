@@ -6,6 +6,7 @@ featured: false
 authors:
   - Zerui Cheng
   - Shutong Qu
+  - Zhixuan Fang
 tags:
   - game theory
   - blockchain
