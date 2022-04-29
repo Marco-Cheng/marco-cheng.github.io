@@ -48,7 +48,7 @@ highlight_name: true
 * #### **SCIENTIFIC RESEARCH**
 
   * His research interests include blockchain, cryptocurrencies and algorithms, aiming on building a more secure and more energy-efficient blockchain system. 
-  * Since sophomore-year, he has been advised by [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/) to conduct scientific research on blockchain in Tsinghua University, and it's the initiation and enlightenment of his stepping into scientific research. During this period, he completed his first academic paper (on a framework linking crowdsourcing work to Proof-of-Work to serve as a new Proof-of-Useful-Work scheme) and it's in submission now.
+  * Since sophomore-year, he has been advised by [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/) to conduct scientific research on blockchain in Tsinghua University, and it's the initiation and enlightenment of his stepping into scientific research. During this period, he completed his first academic research paper (on a framework linking crowdsourcing work to Proof-of-Work to serve as a new Proof-of-Useful-Work scheme) and it's in submission now.
   * He is fortunate to be invited to serve as a reviewer for IEEE JSAC Special Issue (Intelligent Blockchain) 2022.
   * He is fortunate to be accepted as a research intern on blockchain across the spring and summer of 2022, advised by [Prof. Fan Zhang](https://fanzhang.me) in Duke University and [Prof. Dawn Song ](https://people.eecs.berkeley.edu/~dawnsong/)in the University of California, Berkeley. His research currently focuses on EIP-1559 and bridge protocols.
   
