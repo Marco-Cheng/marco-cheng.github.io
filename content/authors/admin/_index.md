@@ -77,4 +77,6 @@ highlight_name: true
 
   Should you have any further questions, feel free to drop an email at [marco.cheng712@gmail.com](marco.cheng712@gmail.com).
   
-  Last revised on: April 29, 2022
+  
+  
+* Last revised on: April 29, 2022
