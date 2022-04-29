@@ -4,8 +4,7 @@ date: 2022-02-25T01:00:33.802Z
 draft: false
 featured: false
 authors:
-  - Canhui Chen*
-  - Zerui Cheng*
+  - Canhui Chen*, Zerui Cheng*
   - Shutong Qu
   - Zhixuan Fang
 image:
