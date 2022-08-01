@@ -3,15 +3,12 @@ title: Zerui Cheng (程泽瑞)
 role: Junior-year Student of Yao Class, Researcher in Blockchain and Proud
   Competitive Programmer
 avatar_filename: avatar.jpg
-bio: "My research interests include blockchain, cryptocurrencies and algorithms,
-  aiming on building a more secure and more energy-efficient blockchain system.
-  I'm also an experienced and proud competitive programmer with notable
-  achievements. "
+bio: "My research interests mainly lie in the intersection of blockchain, mechanism and incentive design, as well as game theory. I'm also an experienced and proud competitive programmer with some notable achievements. "
+
 interests:
-  - Blockchain
-  - Cryptocurrencies
+  - Blockchain and Cryptocurrencies
+  - Mechanism Design and Incentive Design
   - Game Theory
-  - Algorithms
 
 social:
   - icon: envelope
@@ -47,10 +44,10 @@ highlight_name: true
   
 * #### **SCIENTIFIC RESEARCH**
 
-  * His research interests include blockchain, cryptocurrencies and algorithms, aiming on building a more secure and more energy-efficient blockchain system. 
+  * His research interests include blockchain, mechanism and incentive design, and game theory.
   * Since sophomore-year, he has been advised by [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/) to conduct scientific research on blockchain in Tsinghua University, and it's the initiation and enlightenment of his stepping into scientific research. During this period, he completed his first academic research paper (on a framework linking crowdsourcing work to Proof-of-Work to serve as a new Proof-of-Useful-Work scheme) and it's in submission now.
   * He is fortunate to be invited to serve as a reviewer for IEEE JSAC Special Issue (Intelligent Blockchain) 2022.
-  * He is fortunate to be accepted as a research intern on blockchain across the spring and summer of 2022, advised by [Prof. Fan Zhang](https://fanzhang.me) in Duke University and [Prof. Dawn Song ](https://people.eecs.berkeley.edu/~dawnsong/)in the University of California, Berkeley. His research currently focuses on EIP-1559 and bridge protocols.
+  * He is fortunate to be accepted as a research intern on blockchain across the spring and summer of 2022, advised by [Prof. Fan Zhang](https://fanzhang.me) in Duke University and [Prof. Dawn Song ](https://people.eecs.berkeley.edu/~dawnsong/)in the University of California, Berkeley. His research currently focuses on analysis and simulation of side contracts in Ethereum, design and implementation of cross-chain bridge protocols.
   
 * #### **COMPETITIVE PROGRAMMING**
 
@@ -79,4 +76,4 @@ highlight_name: true
   
   
   
-* Last revised on: April 29, 2022
+* Last revised on: Aug 1, 2022
