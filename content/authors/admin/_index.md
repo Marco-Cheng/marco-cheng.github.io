@@ -1,9 +1,9 @@
 ---
 title: Zerui Cheng (程泽瑞)
-role: Junior-year Student of Yao Class, Researcher in Blockchain and Proud
+role: Rising Senior-year Student of Tsinghua University, Researcher in Blockchain and Proud
   Competitive Programmer
 avatar_filename: avatar.jpg
-bio: "My research interests mainly lie in the intersection of blockchain, mechanism and incentive design, as well as game theory. I'm also an experienced and proud competitive programmer with some notable achievements. "
+bio: "I’m a rising senior-year undergrad in Yao Class, IIIS, Tsinghua University. My research interests mainly lie in the intersection of blockchain, mechanism and incentive design, as well as game theory. I'm also an experienced and proud competitive programmer with some notable achievements. "
 
 interests:
   - Blockchain and Cryptocurrencies
@@ -39,7 +39,7 @@ highlight_name: true
 ---
 * #### **WHO AM I?**
 
-  * Zerui Cheng is a junior-year undergrad student majoring in Computer Science in Tsinghua University. 
+  * Zerui Cheng is a rising senior-year undergrad student majoring in Computer Science in Tsinghua University. 
   * He is a member of [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), an undergraduate honor program founded by Turing Award winner [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/). 
   
 * #### **SCIENTIFIC RESEARCH**
@@ -72,7 +72,7 @@ highlight_name: true
 
   {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Download Zerui Cheng's CV here :){{< /staticref >}}.
 
-  Should you have any further questions, feel free to drop an email at [marco.cheng712@gmail.com](marco.cheng712@gmail.com).
+  I'm currently looking for a PhD position in blockchain related areas. Should you have any further questions on the projects or want to talk about possible collaboration, feel free to drop an email at [marco.cheng712@gmail.com](marco.cheng712@gmail.com).
   
   
   
