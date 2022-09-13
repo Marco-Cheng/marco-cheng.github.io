@@ -45,7 +45,13 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
 * #### **SHORT BIOGRAPHY**
 
-  I’m a 4th-year undergraduate at the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of IIIS, Tsinghua University, and the recipient of the highest honor [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) for my undergraduate achievements. I am a curious, proactive, and aspirant student with a broad range of research interests, especially the techniques and theories that can potentially have fantastic real-world impacts. My current research lies in an intersection of blockchain, applied cryptography, data processing and analysis, and mechanism design. I'm also an experienced competitive programmer with notable achievements.
+  I’m a 4th-year undergraduate in the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of IIIS, Tsinghua University, and the recipient of the highest honor [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) for my undergraduate achievements. I am a curious, proactive, and aspirant student with a broad range of research interests, especially the techniques and theories that can potentially have fantastic real-world impacts. My current research lies in an intersection of blockchain, applied cryptography, data processing and analysis, and mechanism design. I'm also an experienced competitive programmer with notable achievements.
+
+  
+
+  For more information, {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}you can download my CV here :){{< /staticref >}}.
+
+  I'm currently looking for a PhD position in blockchain-related areas. Should you have any further questions on the projects or want to talk about possible collaboration, feel free to drop an email at [marco.cheng712@gmail.com](marco.cheng712@gmail.com).
 
   
 
@@ -67,39 +73,39 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
   * My research interests include blockchain, mechanism and incentive design, and applied cryptography.
   
-  * Since sophomore year, he has been advised by [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/) to conduct scientific research on blockchain at Tsinghua University, and it's the initiation and enlightenment of his stepping into scientific research. During this period, he completed his first academic research paper (on a framework linking crowdsourcing work to Proof-of-Work to serve as a new Proof-of-Useful-Work scheme) and it's in submission now.
+  * Since sophomore year, I have been advised by [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/) to conduct scientific research on blockchain at Tsinghua University, and it's the initiation and enlightenment of my stepping into scientific research. During this period, I completed my first academic research paper (on a framework linking crowdsourcing with Proof-of-Work to serve as a new Proof-of-Useful-Work scheme) .
   
-  * He is fortunate to be invited to serve as a reviewer for IEEE JSAC Special Issue (Intelligent Blockchain) 2022.
+  * I was fortunate to be invited to serve as a reviewer for IEEE JSAC Special Issue (Intelligent Blockchain) 2022.
   
-  * He is fortunate to be accepted as a research intern on blockchain in the spring and summer of 2022, advised by [Prof. Fan Zhang](https://fanzhang.me) at Duke University and [Prof. Dawn Song ](https://people.eecs.berkeley.edu/~dawnsong/)at the University of California, Berkeley. His research currently focuses on the analysis and simulation of side contracts in Ethereum, and the design and implementation of cross-chain bridge protocols.
+  * I was fortunate to be accepted as a research intern on blockchain in the spring and summer of 2022, advised by [Prof. Fan Zhang](https://fanzhang.me) at Duke University and [Prof. Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/) at the University of California, Berkeley. I carried out research on two projects during the internship, one was the analysis and simulation of side contracts against EIP-1559 in Ethereum (it's still in progress now), and the other was the design and implementation of cross-chain bridge protocols (the paper was accepted to ACM CCS 2022 and it's my first-ever publication).
   
     
   
 * #### **COMPETITIVE PROGRAMMING**
 
-  * He is also an experienced and proud competitive programmer ([What is competitive programming?](https://en.wikipedia.org/wiki/Competitive_programming)), where randomized algorithms and optimization of search algorithms are his most proficient skills. 
+  * I am also an experienced and proud competitive programmer ([What is competitive programming?](https://en.wikipedia.org/wiki/Competitive_programming)), where randomized algorithms and optimization of search algorithms are my most proficient skills. 
   
-  * For offline contests, he has won a Gold Medal in ICPC (International Collegiate Programming Contest) Regional, a Silver Medal in ICPC East Continental Final of Asia, and two Gold Medals in CCPC (Chinese Collegiate Programming Contest). He is also a two-time silver medalist of Chinese National Olympiad in Informatics (both in 2017 and 2018).
+  * For offline contests, I have won a Gold Medal in ICPC (International Collegiate Programming Contest) Regional, a Silver Medal in ICPC East Continental Final of Asia, and two Gold Medals in CCPC (Chinese Collegiate Programming Contest). I'm also a two-time silver medalist of the Chinese National Olympiad in Informatics (both in 2017 and 2018).
   
-  * For online contests, he ranks 16/182781 worldwide (and 2nd in China) on the well-reputed online programming platform [Hackerrank](https://www.hackerrank.com/), and you can access the [leaderboard](https://www.hackerrank.com/leaderboard) for more details.  He also competes on [Codeforces](https://codeforces.com/) ([see my profile here](https://codeforces.com/profile/Marco_L_T)) and [CSAcademy](https://csacademy.com/) ([see my profile here](https://csacademy.com/user/Marco_L_T)).
+  * For online contests, I rank 16/182781 worldwide (and 2nd in China) on the well-reputed online programming platform [Hackerrank](https://www.hackerrank.com/), and you can access the [leaderboard](https://www.hackerrank.com/leaderboard) for more details.  I also compete on [Codeforces](https://codeforces.com/) ([see my profile here](https://codeforces.com/profile/Marco_L_T)) and [CSAcademy](https://csacademy.com/) ([see my profile here](https://csacademy.com/user/Marco_L_T)).
   
-  * Besides, he is also an experienced problem setter for competitive programming contests. He sets and tests a number of problems for various contests. For example, he is the main author of [Codeforces Round #447](https://codeforces.com/contest/894) and a problem setter of the Chinese National Olympiad in Informatics in 2021. 
+  * Besides, I'm also an experienced problem setter for competitive programming contests. I have set and tested a number of problems for various contests. For example, I'm the main author of [Codeforces Round #447](https://codeforces.com/contest/894) and a problem setter of the Chinese National Olympiad in Informatics in 2021. 
   
     
   
 * #### **SOCIAL WORK**
 
-  * He is the vice president of IIIS Students' Union in Tsinghua University.
+  * I'm the vice president of IIIS Students' Union at Tsinghua University.
   
-  * He is a member of the Algorithm Association in Tsinghua University.
+  * I'm a member of the Algorithm Association at Tsinghua University.
   
-  * He was a volunteer for the 110th anniversary of Tsinghua University.
+  * I was a volunteer for the 110th anniversary of Tsinghua University.
   
     
   
 * #### AVOCATION
 
-  * Fan of NBA, Formula 1, and European Soccer. Favorite sporting stars include Stephen Curry (Golden State Warriors, NBA), Lewis Hamilton (Mercedes, F1), Charles Leclerc (Ferrari, F1) and Marco Reus (BVB Dortmund, Bundesliga). 
+  * Fan of NBA, Formula 1, and European Soccer. My favorite sporting stars include Stephen Curry (Golden State Warriors, NBA), Lewis Hamilton (Mercedes, F1), Charles Leclerc (Ferrari, F1) and Marco Reus (BVB Dortmund, Bundesliga). 
   
   * Fan of stand-up comedies (including both Chinese-style cross-talk and American-style talk shows) and musicals. My favorite stars include Guo Degang and Hu Lan (Hooligan). Favorite musicals include "Hamilton" and "Les Miserables".
   
@@ -108,12 +114,6 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
   * Amateur but enthusiastic basketball player, although I don't have strong skills :(
   
     
-  
-* #### **CURRICULUM VITAE (CV)**
-
-  {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Download Zerui Cheng's CV here :){{< /staticref >}}.
-
-  I'm currently looking for a PhD position in blockchain-related areas. Should you have any further questions on the projects or want to talk about possible collaboration, feel free to drop an email at [marco.cheng712@gmail.com](marco.cheng712@gmail.com).
   
   
   
