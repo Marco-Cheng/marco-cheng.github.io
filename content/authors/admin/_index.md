@@ -37,17 +37,35 @@ email: marco.cheng712@gmail.com
 superuser: true
 highlight_name: true
 ---
-* #### **WHO AM I?**
+# Welcome to Zerui (Marco) Cheng's homepage~
 
-  * Zerui Cheng is a rising senior-year undergrad student majoring in Computer Science in Tsinghua University. 
+The pronunciation of "Zerui" is similar to "the ray". You can also call me by Marco instead :)
+
+
+
+* #### **SHORT BIOGRAPHY**
+
+  I’m a 4th-year undergraduate at the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of IIIS, Tsinghua University, and the recipient of the highest honor [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) for my undergraduate achievements. I am a curious, proactive, and aspirant student with a broad range of research interests, especially the techniques and theories that can potentially have fantastic real-world impacts. My current research lies in an intersection of blockchain, applied cryptography, data processing and analysis, and mechanism design. I'm also an experienced competitive programmer with notable achievements.
+
   
-  * He is a member of [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), an undergraduate honor program founded by Turing Award winner [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/). 
+
+* #### RECENT HIGHLIGHTS
+
+  * [Sep 2022] I feel honored and extremely excited to receive this year's [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) for my undergraduate achievements. 
+  
+  * [Aug 2022] Our paper "zkBridge: Trustless Cross-chain Bridges Made Practical" is accepted to ACM CCS 2022! 
+  
+  * [Aug 2022] I participated in IC3 Blockchain Camp, and our group "Client Security" won 1st place in the Hackathon!
+  
+  * [Jun 2022] I participated in Google Code Jam 2022 and was happy to finish in the top 0.5% among all participants worldwide.
+  
+  * [May 2022] I served as the reviewer of 2 papers in IEEE JSAC Blockchain Special Issue. 
   
     
   
 * #### **SCIENTIFIC RESEARCH**
 
-  * His research interests include blockchain, mechanism and incentive design, and game theory.
+  * My research interests include blockchain, mechanism and incentive design, and applied cryptography.
   
   * Since sophomore-year, he has been advised by [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/) to conduct scientific research on blockchain in Tsinghua University, and it's the initiation and enlightenment of his stepping into scientific research. During this period, he completed his first academic research paper (on a framework linking crowdsourcing work to Proof-of-Work to serve as a new Proof-of-Useful-Work scheme) and it's in submission now.
   
@@ -87,6 +105,8 @@ highlight_name: true
   
   * Fan of music, especially those in musicals or in "Gu-Feng" (ancient Chinese) style.
   
+  * Amateur but enthusiastic basketball player, although I don't have strong skills :(
+  
     
   
 * #### **CURRICULUM VITAE (CV)**
@@ -97,4 +117,4 @@ highlight_name: true
   
   
   
-* Last revised on: Aug 1, 2022
+* Last revised on: Sep 12, 2022
