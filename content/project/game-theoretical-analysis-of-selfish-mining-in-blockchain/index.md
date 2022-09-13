@@ -1,5 +1,5 @@
 ---
-title: Game Theoretical Analysis of Selfish Mining in Blockchain
+title: [Research Project] Game Theoretical Analysis of Selfish Mining in Blockchain
 date: 2022-02-25T00:02:13.716Z
 draft: false
 featured: false

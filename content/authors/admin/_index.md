@@ -49,9 +49,7 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
   
 
-  For more information, {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}you can download my CV here :){{< /staticref >}}.
-
-  I'm currently looking for a PhD position in blockchain-related areas. Should you have any further questions on the projects or want to talk about possible collaboration, feel free to drop an email at [marco.cheng712@gmail.com](marco.cheng712@gmail.com).
+   {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Download my CV here for more information :){{< /staticref >}}.
 
   
 
@@ -113,8 +111,13 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
   
   * Amateur but enthusiastic basketball player, although I don't have strong skills :(
   
-    
   
   
   
-* Last revised on: Sep 12, 2022
+  
+  
+  I'm currently looking for a PhD position in blockchain-related areas. Should you have any further questions on the projects or want to talk about possible collaboration, feel free to drop an email at [marco.cheng712@gmail.com](marco.cheng712@gmail.com).
+  
+  
+  
+* ##### Last revised on: Sep 12, 2022

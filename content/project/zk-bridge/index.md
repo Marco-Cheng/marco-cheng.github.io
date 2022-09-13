@@ -1,5 +1,5 @@
 ---
-title: "zkBridge: Trustless Cross-chain Bridges Made Practical"
+title: "[Academic Paper] zkBridge: Trustless Cross-chain Bridges Made Practical"
 date: 2022-02-25T01:00:33.802Z
 draft: false
 featured: false
@@ -10,6 +10,7 @@ authors:
   - Fan Zhang 
   - Yupeng Zhang 
   - Yongzheng Jia 
+  - Dan Boneh
   - Dawn Song
 
 image:
@@ -17,4 +18,5 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-This work is on a cross-chain bridge which combines zk-proof and related mechanism design. We also aim on a practical full implementation of the bridge. In submission now and more details should be revealed soon.
+This work is on a trustless universal cross-chain bridge which leverages zk-SNARKs for better security. We also aim on a practical full implementation of the bridge. It has been accepted to ACM CCS 2022 and will appear soon.
+

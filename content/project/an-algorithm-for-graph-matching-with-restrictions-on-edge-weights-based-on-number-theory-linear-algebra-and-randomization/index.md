@@ -1,5 +1,5 @@
 ---
-title: An Algorithm for Graph Matching with Restrictions on Edge Weights, Based
+title: [Course Project] An Algorithm for Graph Matching with Restrictions on Edge Weights, Based
   on Number Theory, Linear Algebra and Randomization
 date: 2022-02-25T00:33:58.784Z
 draft: false

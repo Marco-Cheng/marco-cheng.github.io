@@ -1,5 +1,5 @@
 ---
-title: A Survey on Blockchain System and Related Cryptographic Methods
+title: [Course Project] A Survey on Blockchain System and Related Cryptographic Methods
 date: 2022-02-25T00:31:25.934Z
 draft: false
 featured: false
