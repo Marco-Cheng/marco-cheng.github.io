@@ -1,5 +1,5 @@
 ---
-title: "[Academic Paper] zkBridge: Trustless Cross-chain Bridges Made Practical"
+title: "zkBridge: Trustless Cross-chain Bridges Made Practical"
 date: 2022-02-25T01:00:33.802Z
 draft: false
 featured: false
