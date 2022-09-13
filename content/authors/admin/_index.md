@@ -1,13 +1,14 @@
 ---
 title: Zerui Cheng (程泽瑞)
-role: 4th-year Undergraduate Majoring in Computer Science, Member of the Honored  [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) Program in Tsinghua University, Researcher in Blockchain and Web3, Experienced Competitive Programmer
+role: 4th-year Undergraduate Majoring in Computer Science at the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of Tsinghua University, Researcher in Blockchain and Web3, Experienced Competitive Programmer
 avatar_filename: avatar.jpg
-bio: "I’m a rising senior-year undergrad in Yao Class, IIIS, Tsinghua University. My research interests mainly lie in the intersection of blockchain, mechanism and incentive design, as well as game theory. I'm also an experienced and proud competitive programmer with some notable achievements. "
+
+bio: "I’m a 4th-year undergraduate at the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of IIIS, Tsinghua University, and the recipient of the highest honor [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) for my undergraduate achievements. I am a curious, proactive, and aspirant student with a broad range of research interests, especially the techniques and theories that can potentially have fantastic real-world impacts. My current research lies in an intersection of blockchain, applied cryptography, data processing and analysis, and mechanism design. I'm also an experienced competitive programmer with notable achievements. "
 
 interests:
   - Blockchain and Cryptocurrencies
   - Mechanism Design and Incentive Design
-  - Game Theory
+  - Applied Cryptography
 
 social:
   - icon: envelope
