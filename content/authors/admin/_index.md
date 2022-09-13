@@ -115,9 +115,4 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
   
   
   
-  
-  I'm currently looking for a PhD position in blockchain-related areas. Should you have any further questions on the projects or want to talk about possible collaboration, feel free to drop an email at [marco.cheng712@gmail.com](marco.cheng712@gmail.com).
-  
-  
-  
 * ##### Last revised on: Sep 12, 2022

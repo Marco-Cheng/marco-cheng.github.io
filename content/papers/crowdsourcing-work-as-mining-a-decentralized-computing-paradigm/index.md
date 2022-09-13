@@ -6,7 +6,7 @@ featured: false
 authors:
   - Canhui Chen*, Zerui Cheng*
   - Shutong Qu
-  - Zhixuan Fang
+  - Zhixuan Fang (*: equal contribution)
 image:
   filename: featured
   focal_point: Smart
