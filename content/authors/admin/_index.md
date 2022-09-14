@@ -87,7 +87,7 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
   
   * For online contests, I rank 16/182781 worldwide (and 2nd in China) on the well-reputed online programming platform [Hackerrank](https://www.hackerrank.com/), and you can access the [leaderboard](https://www.hackerrank.com/leaderboard) for more details.  I also compete on [Codeforces](https://codeforces.com/) ([see my profile here](https://codeforces.com/profile/Marco_L_T)) and [CSAcademy](https://csacademy.com/) ([see my profile here](https://csacademy.com/user/Marco_L_T)).
   
-  * Besides, I'm also an experienced problem setter for competitive programming contests. I have set and tested a number of problems for various contests. For example, I'm the main author of [Codeforces Round #447](https://codeforces.com/contest/894) and a problem setter of the Chinese National Olympiad in Informatics in 2021. 
+  * Besides, I'm also an experienced problem setter for competitive programming contests. I have set and tested a number of problems for various contests. For example, I'm the main author of [Codeforces Round #447](https://codeforces.com/blog/entry/55858) ([problemset here](https://codeforces.com/contest/894)) and a problem setter of the Chinese National Olympiad in Informatics in 2021. 
   
     
   
