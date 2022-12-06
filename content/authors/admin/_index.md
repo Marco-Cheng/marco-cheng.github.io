@@ -16,7 +16,7 @@ social:
     link: "#contact"
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com
+    link: https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/Marco-Cheng
@@ -55,6 +55,8 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
 * #### RECENT HIGHLIGHTS
 
+  * [Oct 2022] I felt honored to receive this year's Scholarship for Comprehensive Excellence at Tsinghua University!
+  
   * [Sep 2022] I felt honored and extremely excited to receive this year's [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) for my undergraduate achievements!
   
   * [Aug 2022] Our paper "zkBridge: Trustless Cross-chain Bridges Made Practical" was accepted to ACM CCS 2022! 
@@ -71,11 +73,11 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
   * My research interests include blockchain, mechanism and incentive design, and applied cryptography.
   
-  * Since sophomore year, I have been advised by [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/) to conduct scientific research on blockchain at Tsinghua University, and it's the initiation and enlightenment of my stepping into scientific research. During this period, I completed my first academic research paper (on a framework linking crowdsourcing with Proof-of-Work to serve as a new Proof-of-Useful-Work scheme) .
+  * Since sophomore year, I have been advised by [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/) to conduct scientific research on blockchain at Tsinghua University, and it's the initiation and enlightenment of my stepping into scientific research. During this period, I completed [my first academic research paper](https://arxiv.org/pdf/2211.06669.pdf) (on a framework linking crowdsourcing with Proof-of-Work to serve as a new Proof-of-Useful-Work scheme) .
   
   * I was fortunate to be invited to serve as a reviewer for IEEE JSAC Special Issue (Intelligent Blockchain) 2022.
   
-  * I was fortunate to be accepted as a research intern on blockchain in the spring and summer of 2022, advised by [Prof. Fan Zhang](https://fanzhang.me) at Duke University and [Prof. Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/) at the University of California, Berkeley. I carried out research on two projects during the internship, one was the analysis and simulation of side contracts against EIP-1559 in Ethereum (it's still in progress now), and the other was the design and implementation of cross-chain bridge protocols (the paper was accepted to ACM CCS 2022 and it's my first-ever publication).
+  * I was fortunate to be accepted as a research intern on blockchain in the spring and summer of 2022, advised by [Prof. Fan Zhang](https://fanzhang.me) at Duke University and [Prof. Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/) at the University of California, Berkeley. I carried out research on two projects during the internship, one was the analysis and simulation of side contracts against EIP-1559 in Ethereum, and the other was the design and implementation of cross-chain bridge protocols (the [paper](https://dl.acm.org/doi/10.1145/3548606.3560652) was accepted to ACM CCS 2022 and it's my first-ever publication).
   
     
   
@@ -93,7 +95,7 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
   
 * #### **SOCIAL WORK**
 
-  * I'm the vice president of IIIS Students' Union at Tsinghua University.
+  * I'm a member of the Presidium of Yao Class Students' Union at Tsinghua University.
   
   * I'm a member of the Algorithm Association at Tsinghua University.
   
