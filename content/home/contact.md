@@ -34,7 +34,7 @@ content:
       link: 'https://twitter.com/ZeruiCheng'
     - icon: weixin
       icon_pack: fab
-      name: WeChat ID Marco_Z_Cheng
+      name: WeChat ID available upon request
       link: 'https://wechat.com'
 
 design:
