@@ -32,6 +32,10 @@ content:
       icon_pack: fab
       name: Find me on Twitter
       link: 'https://twitter.com/ZeruiCheng'
+    - icon: weibo
+      icon_pack: fab
+      name: Find me on Weibo
+      link: 'https://weibo.com/zeruicheng'
     - icon: weixin
       icon_pack: fab
       name: WeChat ID available upon request
