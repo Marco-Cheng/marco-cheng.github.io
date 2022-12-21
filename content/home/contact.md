@@ -15,14 +15,6 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
   
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
 
   # Contact details (edit or remove options as required)
   email: marco.cheng712@gmail.com
@@ -30,11 +22,11 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: Find me on Twitter
+      name: Find me on Twitter @ZeruiCheng
       link: 'https://twitter.com/ZeruiCheng'
     - icon: weibo
       icon_pack: fab
-      name: Find me on Weibo
+      name: Find me on Weibo @zeruicheng
       link: 'https://weibo.com/zeruicheng'
     - icon: weixin
       icon_pack: fab
