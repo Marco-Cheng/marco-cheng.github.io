@@ -22,11 +22,11 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: Find me on Twitter: https://twitter.com/ZeruiCheng
+      name: Find me on Twitter by ID ZeruiCheng
       link: 'https://twitter.com/ZeruiCheng'
     - icon: weibo
       icon_pack: fab
-      name: Find me on Weibo: https://weibo.com/zeruicheng
+      name: Find me on Weibo by ID ZeruiCheng
       link: 'https://weibo.com/zeruicheng'
     - icon: weixin
       icon_pack: fab
