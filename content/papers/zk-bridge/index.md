@@ -18,5 +18,5 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-This work is on a trustless universal cross-chain bridge which leverages zk-SNARKs for better security. We also aim on a practical full implementation of the bridge. It has been accepted to ACM CCS 2022 and will appear soon.
+This work is on a trustless universal cross-chain bridge that leverages zk-SNARKs for better security. We also aim at a practical full implementation of the bridge. It has been published at ACM CCS 2022. [The website for the project](https://zkbridge.org )  [Link to the paper](https://arxiv.org/pdf/2210.00264.pdf ) 
 
