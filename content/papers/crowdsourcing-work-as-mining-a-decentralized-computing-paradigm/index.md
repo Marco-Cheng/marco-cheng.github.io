@@ -12,4 +12,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-This work is on a new mechanism for how to utilize the mining power of PoW blockchain to reduce energy waste without sacrificing security or decentralization. And thanks to the new design, the blockchain can both serve as a decentralized and secure ledger (storage functionality) and a distributed cloud-computing platform (computation functionality), which further exploits the strength of decentralization and computation in PoW, and is a great step compared with current blockchains. We further prove the security of our design and implement the system in Golang. [Link to the paper](https://arxiv.org/pdf/2211.06669.pdf) 
+This work is on a new mechanism for how to utilize the mining power of PoW blockchain to reduce energy waste without sacrificing security or decentralization. And thanks to the new design, the blockchain can both serve as a decentralized and secure ledger (storage functionality) and a distributed cloud-computing platform (computation functionality), which further exploits the strength of decentralization and computation in PoW, and is a great step compared with current blockchains. We further prove the security of our design and implement the system in Golang. 
+
+[Link to the paper](https://arxiv.org/pdf/2211.06669.pdf) 
