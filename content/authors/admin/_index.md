@@ -55,7 +55,7 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
 * #### RECENT HIGHLIGHTS
 
-  * [Jan 2023] I‘m fortunate to be selected as a participant in this year's TV program <Super Brain: Season 10> on Jiangsu channel (broadcast at 21:10 every Friday, Beijing time). Stay tuned for my performance!
+  * [Jan 2023] I‘m fortunate to be selected as a participant in this year's TV program <Super Brain: Season 10> on Jiangsu channel (broadcast at 21:10 every Friday, Beijing time). Check more information through [my Weibo account](https://weibo.com/zeruicheng) and stay tuned for my performance!
   
   * [Oct 2022] I felt honored to receive this year's Scholarship for Comprehensive Excellence at Tsinghua University!
   
