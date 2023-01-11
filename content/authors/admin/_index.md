@@ -55,6 +55,8 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
 * #### RECENT HIGHLIGHTS
 
+  * [Jan 2023] I‘m fortunate to be selected as a participant in this year's TV program <Super Brain: Season 10> on Jiangsu channel (broadcast at 21:10 every Friday, Beijing time). Stay tuned for my performance!
+  
   * [Oct 2022] I felt honored to receive this year's Scholarship for Comprehensive Excellence at Tsinghua University!
   
   * [Sep 2022] I felt honored and extremely excited to receive this year's [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) for my undergraduate achievements!
@@ -83,9 +85,9 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
   
 * #### **COMPETITIVE PROGRAMMING**
 
-  * I am also an experienced and proud competitive programmer ([What is competitive programming?](https://en.wikipedia.org/wiki/Competitive_programming)), where randomized algorithms and optimization of search algorithms are my most proficient skills. 
+  * I am also an experienced and proud competitive programmer ([What is competitive programming?](https://en.wikipedia.org/wiki/Competitive_programming)), where I regard randomized algorithms and optimization of search algorithms as my most proficient skills. 
   
-  * For offline contests, I have won a Gold Medal in ICPC (International Collegiate Programming Contest) Regional, a Silver Medal in ICPC East Continental Final of Asia, and two Gold Medals in CCPC (Chinese Collegiate Programming Contest). I'm also a two-time silver medalist of the Chinese National Olympiad in Informatics (both in 2017 and 2018).
+  * For offline contests, I have won a Gold Medal in ICPC (International Collegiate Programming Contest) Regional, a Silver Medal in ICPC East Asia Continental Final of, and two Gold Medals in CCPC (Chinese Collegiate Programming Contest). I'm also a two-time silver medalist of the Chinese National Olympiad in Informatics (both in 2017 and 2018).
   
   * For online contests, I rank 16/182781 worldwide (and 2nd in China) on the well-reputed online programming platform [Hackerrank](https://www.hackerrank.com/), and you can access the [leaderboard](https://www.hackerrank.com/leaderboard) for more details.  I also compete on [Codeforces](https://codeforces.com/) ([see my profile here](https://codeforces.com/profile/Marco_L_T)) and [CSAcademy](https://csacademy.com/) ([see my profile here](https://csacademy.com/user/Marco_L_T)).
   
@@ -95,9 +97,9 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
   
 * #### **SOCIAL WORK**
 
-  * I'm a member of the Presidium of Yao Class Students' Union at Tsinghua University.
+  * I'm now a member of the Presidium of Yao Class Students' Union at Tsinghua University, where I served as the vice president from Oct 2021 to Nov 2022.
   
-  * I'm a member of the Algorithm Association at Tsinghua University.
+  * I'm a member of the Algorithm Association at Tsinghua University. And I served as the problem setter and coordinator of a number of contests (including National Olympiad in Informatics (2021), Tsinghua University Programming Contest (2020, 2021, 2022)).
   
   * I was a volunteer for the 110th anniversary of Tsinghua University.
   
@@ -117,4 +119,4 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
   
   
   
-* ##### Last revised on: Dec 25, 2022
+* ##### Last revised on: Jan 11, 2023
