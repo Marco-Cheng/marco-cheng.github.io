@@ -57,6 +57,8 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
   * [Jan 2023] I‘m fortunate to be selected as a participant in this year's TV program <Super Brain: Season 10> on Jiangsu channel (broadcast at 21:10 every Friday, Beijing time). Check more information through [my Weibo account](https://weibo.com/zeruicheng) and stay tuned for my performance!
   
+  * [Nov 2022] After serving as the vice president of IIIS Students' Congress for a year, I was honored to receive the most votes in the election and become a member of the newly-elected Presidium of IIIS Students' Congress!
+  
   * [Oct 2022] I felt honored to receive this year's Scholarship for Comprehensive Excellence at Tsinghua University!
   
   * [Sep 2022] I felt honored and extremely excited to receive this year's [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) for my undergraduate achievements!
@@ -97,7 +99,7 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
   
 * #### **SOCIAL WORK**
 
-  * I'm now a member of the Presidium of Yao Class Students' Union at Tsinghua University, where I served as the vice president from Oct 2021 to Nov 2022.
+  * I'm now a member of the Presidium of IIIS Yao Class Students' Congress (a superset of Students' Union) at Tsinghua University, where I served as the vice president from Oct 2021 to Nov 2022.
   
   * I'm a member of the Algorithm Association at Tsinghua University. And I served as the problem setter and coordinator of a number of contests (including National Olympiad in Informatics (2021), Tsinghua University Programming Contest (2020, 2021, 2022)).
   
