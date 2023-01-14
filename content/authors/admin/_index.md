@@ -49,13 +49,13 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
   
 
-   {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Download my CV here for more information :){{< /staticref >}}.
+   {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Check my CV here for more information :){{< /staticref >}}.
 
   
 
 * #### RECENT HIGHLIGHTS
 
-  * [Jan 2023] I‘m fortunate to be selected as a participant in this year's TV program <Super Brain: Season 10> on Jiangsu channel (broadcast at 21:10 every Friday, Beijing time). Check more information through [my Weibo account](https://weibo.com/zeruicheng) and stay tuned for my performance!
+  * [Jan 2023] I‘m fortunate to be selected as a participant in this year's TV program <Super Brain: Season 10> on Jiangsu channel (broadcast at 21:10 every Friday, Beijing time). Stay tuned for my performance!
   
   * [Nov 2022] After serving as the vice president of IIIS Students' Congress for a year, I was honored to receive the most votes in the election and become a member of the newly-elected Presidium of IIIS Students' Congress!
   
