@@ -3,7 +3,7 @@ title: Zerui Cheng (程泽瑞)
 role: 4th-year Undergraduate Majoring in Computer Science at the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of Tsinghua University, Researcher in Blockchain, Experienced Competitive Programmer
 avatar_filename: avatar.jpg
 
-bio: "I’m a 4th-year undergraduate at the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of IIIS, Tsinghua University, and the recipient of the highest honor [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) for my undergraduate achievements. I am a curious, proactive, and aspirant student with a broad range of research interests, especially the techniques and theories that can potentially have fantastic real-world impacts. My current research lies in an intersection of blockchain, data processing and analysis, and mechanism design. I'm also an experienced competitive programmer with notable achievements. "
+bio: "4th-year undergraduate at the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of IIIS, Tsinghua University, Incoming Ph.D. student at Princeton University starting Fall 2023. "
 
 interests:
   - Blockchain and Cryptocurrencies
@@ -44,7 +44,13 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
 * #### **SHORT BIOGRAPHY**
 
-  I’m a 4th-year undergraduate in the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of IIIS, Tsinghua University, and an incoming Ph.D. student at Princeton University. I was the recipient of the highest honor [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) for my undergraduate achievements. I enjoy learning and exploring the techniques and theories that can potentially have fantastic real-world impacts. My current research lies in an intersection of blockchain, applied cryptography, data processing and analysis, and mechanism design. I'm also an experienced competitive programmer with notable achievements.
+  I’m a 4th-year undergraduate in the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of IIIS, Tsinghua University, and an incoming Ph.D. student at Princeton University starting in Fall 2023. 
+
+  I was the recipient of the highest honor [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) for my undergraduate achievements. 
+
+  I enjoy learning and exploring the techniques and theories that can potentially have fantastic real-world impacts. My current research lies in an intersection of blockchain, applied cryptography, data processing and analysis, and mechanism design. 
+
+  I'm also an experienced competitive programmer with notable achievements.
 
   
 
@@ -71,18 +77,6 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
   * [May 2022] I served as the reviewer of 2 papers in IEEE JSAC Blockchain Special Issue. 
   
     
-  
-* #### AVOCATION
-
-  * Fan of NBA, Formula 1, and European Soccer. My favorite sporting stars include Stephen Curry (Golden State Warriors, NBA), Lewis Hamilton (Mercedes, F1), Charles Leclerc (Ferrari, F1) and Marco Reus (BVB Dortmund, Bundesliga). 
-  
-  * Fan of stand-up comedies (including both Chinese-style cross-talk and American-style talk shows) and musicals. My favorite stars include Guo Degang and Hu Lan (Hooligan). Favorite musicals include "Hamilton" and "Les Miserables".
-  
-  * Fan of music, especially those in musicals or in "Gu-Feng" (ancient Chinese) style.
-  
-  * Amateur but enthusiastic basketball player, although I don't have strong skills :(
-  
-  
   
   
   
