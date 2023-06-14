@@ -1,6 +1,6 @@
 ---
 title: Zerui Cheng (程泽瑞)
-role: 4th-year Undergraduate Majoring in Computer Science at the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of Tsinghua University, Researcher in Blockchain, Experienced Competitive Programmer
+role: Incoming Ph.D. student at Princeton University starting Fall 2023, B.Eng at the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of Tsinghua University, Blockchain Researcher, Former Competitive Programmer
 avatar_filename: avatar.jpg
 
 bio: "Incoming Ph.D. student at Princeton University starting Fall 2023, B.Eng at the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of Tsinghua University "
