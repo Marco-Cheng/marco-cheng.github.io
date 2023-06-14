@@ -3,7 +3,7 @@ title: Zerui Cheng (程泽瑞)
 role: 4th-year Undergraduate Majoring in Computer Science at the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of Tsinghua University, Researcher in Blockchain, Experienced Competitive Programmer
 avatar_filename: avatar.jpg
 
-bio: "4th-year undergraduate at the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of IIIS, Tsinghua University, Incoming Ph.D. student at Princeton University starting Fall 2023. "
+bio: "Incoming Ph.D. student at Princeton University starting Fall 2023, B.Eng at the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of Tsinghua University "
 
 interests:
   - Blockchain and Cryptocurrencies
@@ -46,7 +46,7 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
   I’m a 4th-year undergraduate in the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of IIIS, Tsinghua University, and an incoming Ph.D. student at Princeton University starting in Fall 2023. 
 
-  I was the recipient of the highest honor [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) for my undergraduate achievements. 
+  I was the recipient of the highest honor [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) and Yao Class summa cum laude for my undergraduate achievements. 
 
   I enjoy learning and exploring the techniques and theories that can potentially have fantastic real-world impacts. My current research lies in an intersection of blockchain, applied cryptography, data processing and analysis, and mechanism design. 
 
@@ -60,6 +60,10 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
 * #### RECENT HIGHLIGHTS
 
+  * [Jun 2023] I felt humbled to receive the Yao Class departmental summa cum laude for my undergraduate achievements.
+  
+  * [Feb 2023] I accepted the offer from Princeton University and will be an incoming Ph.D. student at Princeton University starting in Fall 2023. Princeton is always my dream school and I'm really looking forward to the adventure in the next 5 years!
+  
   * [Jan 2023] I‘m fortunate to be selected as a participant in this year's TV program <Super Brain: Season 10> on Jiangsu channel (broadcast at 21:10 every Friday, Beijing time). Stay tuned for my performance!
   
   * [Nov 2022] After serving as the vice president for a year, I was honored to receive the equally most votes in the election and become the co-president of our department's Students' Congress!
@@ -70,14 +74,8 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
   
   * [Aug 2022] Our paper "zkBridge: Trustless Cross-chain Bridges Made Practical" was accepted to ACM CCS 2022! 
   
-  * [Aug 2022] I participated in IC3 Blockchain Camp held by Cornell University, and our group "Client Security" won 1st place in the Hackathon!
-  
-  * [Jun 2022] I participated in Google Code Jam 2022 and was happy to finish in the top 0.5% among all participants worldwide.
-  
-  * [May 2022] I served as the reviewer of 2 papers in IEEE JSAC Blockchain Special Issue. 
-  
     
   
   
   
-* ##### Last revised on: Apr 12, 2023
+* ##### Last revised on: Jun 14, 2023
