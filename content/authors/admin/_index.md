@@ -44,11 +44,13 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
 * #### **SHORT BIOGRAPHY**
 
-  I’m a 4th-year undergraduate in the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of IIIS, Tsinghua University, and an incoming Ph.D. student at Princeton University starting in Fall 2023. 
+  I’m an incoming Ph.D. student at Princeton University starting in Fall 2023. Previously, I received B.Eng. from the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of IIIS, Tsinghua University. I was the recipient of [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) (the highest honor for a Yao Class student), Yao Class summa cum laude, and Tsinghua University excellent diploma thesis for my undergraduate achievements. 
 
-  I was the recipient of the highest honor [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) and Yao Class summa cum laude for my undergraduate achievements. 
+  
 
   I enjoy learning and exploring the techniques and theories that can potentially have fantastic real-world impacts. My current research lies in an intersection of blockchain, applied cryptography, data processing and analysis, and mechanism design. 
+
+  
 
   I'm also an experienced competitive programmer with notable achievements.
 
@@ -60,7 +62,11 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
 * #### RECENT HIGHLIGHTS
 
-  * [Jun 2023] I felt humbled to receive the Yao Class departmental summa cum laude for my undergraduate achievements.
+  * [Jun 2023] I successfully graduated from Yao Class, Tsinghua University with B.Eng. degree in June! 
+  
+    I felt happy and excited to receive the Tsinghua University excellent diploma thesis for my graduation dissertation. 
+  
+    And I felt humbled to be awarded the Yao Class summa cum laude for my undergraduate achievements.
   
   * [Feb 2023] I accepted the offer from Princeton University and will be an incoming Ph.D. student at Princeton University starting in Fall 2023. Princeton is always my dream school and I'm really looking forward to the adventure in the next 5 years!
   
@@ -78,4 +84,4 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
   
   
   
-* ##### Last revised on: Jun 14, 2023
+* ##### Last revised on: Jul 5, 2023
