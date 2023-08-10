@@ -1,7 +1,7 @@
 ---
 title: Zerui Cheng (程泽瑞)
 role: Incoming Ph.D. student at Princeton University starting Fall 2023, B.Eng at the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of Tsinghua University, Blockchain Researcher, Former Competitive Programmer
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 
 bio: "Incoming Ph.D. student at Princeton University starting Fall 2023, B.Eng at the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of Tsinghua University "
 
