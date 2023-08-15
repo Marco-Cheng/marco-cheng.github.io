@@ -1,6 +1,6 @@
 ---
 title: Zerui Cheng (程泽瑞)
-role: First-year Ph.D. student at Princeton University, B.Eng from the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of Tsinghua University
+role: Ph.D. student at Princeton University, B.Eng from the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of Tsinghua University
 
 avatar_filename: avatar.jpg
 
@@ -14,10 +14,14 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: graduation-cap
+  - display:
+      header: true
+    icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en
-  - icon: github
+  - display:
+      header: true
+    icon: github
     icon_pack: fab
     link: https://github.com/Marco-Cheng
   - display:
@@ -26,8 +30,8 @@ social:
     link: https://twitter.com/ZeruiCheng
     icon_pack: fab
 organizations:
-  - name: IIIS, Tsinghua University
-    url: https://iiis.tsinghua.edu.cn/
+  - name: Electical and Computer Engineering, Princeton University
+    url: https://ece.princeton.edu/
 education:
   courses:
     - year: ""
@@ -49,11 +53,17 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
   
 
+  
+
   Previously, I received B.Eng. from the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of IIIS, Tsinghua University. During my undergraduate journey, I was fortunate to be the recipient of [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) (the highest honor for a Yao Class student), Yao Class summa cum laude, and the Excellent Diploma Thesis Award of Tsinghua University. 
 
   
 
+  
+
   I'm also an experienced competitive programmer with notable achievements.
+
+  
 
   
 
@@ -63,17 +73,15 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
 * #### RECENT HIGHLIGHTS
 
-  * [Jun 2023] I successfully graduated from Yao Class, Tsinghua University with B.Eng. degree in June! 
+  * [Jun 2023] I successfully graduated from Yao Class, Tsinghua University with B.Eng. degree in June! I felt happy and excited to receive the Tsinghua University Excellent Diploma Thesis Award for my graduation dissertation. And I also felt humbled to be awarded the Yao Class summa cum laude.
   
-    I felt happy and excited to receive the Tsinghua University Excellent Diploma Thesis Award for my graduation dissertation. 
-  
-    And I also felt humbled to be awarded the Yao Class summa cum laude.
+  * [May 2023] Our paper "Crowdsourcing Work as Mining: A Decentralized Computation and Storage Paradigm" was accepted to APNet 2023 (poster session)! 
   
   * [Feb 2023] I accepted the offer from Princeton University and will be an incoming Ph.D. student starting in Fall 2023. 
   
   * [Jan 2023] I‘m fortunate to be selected as a participant in this year's TV program <Super Brain: Season 10> on Jiangsu channel (broadcast at 21:10 every Friday, Beijing time). Stay tuned for my performance!
   
-  * [Nov 2022] After serving as the vice president and deputy secretary for a year, I was honored to be elected the president of Yao Class Students' Congress!
+  * [Nov 2022] After serving as the vice president and deputy secretary for a year, I was grateful to be elected the president of Yao Class Students' Congress!
   
   * [Oct 2022] I felt honored to receive this year's Scholarship for Comprehensive Excellence at Tsinghua University!
   
@@ -129,4 +137,4 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
   * Amateur yet enthusiastic player of Geoguessr and Sporcle (especially in geography and sports).
   * Fan of stand-up comedies (including both Chinese-style cross-talk and American-style talk shows) and musicals. My favorite musicals include "Hamilton" and "Les Miserables".
   * Fan of music, especially those in musicals or in "Gu-Feng" (ancient Chinese) style.
-  * Amateur but enthusiastic basketball player, although I don't have strong skills :(
+  * I am also fond of playing basketball, although I don't have strong skills and can't often win a game :(
