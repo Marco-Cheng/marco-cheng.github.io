@@ -1,6 +1,6 @@
 ---
 title: Zerui Cheng (程泽瑞)
-role: Ph.D. student at Princeton Univ., B.Eng from the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of Tsinghua Univ.
+role: Ph.D. student at Princeton Univ., B.Eng from the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of Tsinghua University
 
 avatar_filename: avatar.jpg
 
@@ -28,7 +28,8 @@ social:
     link: https://twitter.com/ZeruiCheng
     icon_pack: fab
 organizations:
-  - name: Electical and Computer Engineering,  <br /> Princeton University
+  - name: Electical and Computer Engineering,  
+          Princeton University
     url: https://ece.princeton.edu/
 education:
   courses:
@@ -47,19 +48,19 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
 * #### **SHORT BIOGRAPHY**
 
-  I’m a first-year Ph.D. student at Princeton University, and my first-year academic advisor is [Prof. Maria Apostolaki](https://ece.princeton.edu/people/maria-apostolaki). My current research interests lie in an intersection of blockchains, web3 technologies, applied cryptography, and mechanism design.
+  I’m a first-year Ph.D. student at Princeton University, and my first-year academic advisor is [Prof. Maria Apostolaki](https://ece.princeton.edu/people/maria-apostolaki). My current research interests lie in an intersection of blockchains, web3 technologies, applied cryptography, and mechanism design.  
 
   
 
   
 
-  Previously, I received B.Eng. from the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of IIIS, Tsinghua University. During my undergraduate journey, I was fortunate to be the recipient of [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) (the highest honor for a Yao Class student), Yao Class summa cum laude, and the Excellent Diploma Thesis Award of Tsinghua University. 
+  Previously, I received B.Eng. from the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of IIIS, Tsinghua University. During my undergraduate journey, I was fortunate to be the recipient of [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) (the highest honor for a Yao Class student), Yao Class summa cum laude, and the Excellent Diploma Thesis Award of Tsinghua University.   
 
   
 
   
 
-  I'm also an experienced competitive programmer with notable achievements.
+  I'm also an experienced competitive programmer with notable achievements.  
 
   
 
