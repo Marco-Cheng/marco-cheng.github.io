@@ -34,7 +34,10 @@ organizations:
 education:
   courses:
     - year: ""
-      course: B.Eng. (2019- )
+      course: Ph.D. (2023.8 - )
+      institution: Electrical and Computer Engineering, Princeton University
+    - year: ""
+      course: B.Eng. (2019.8 - 2023.6)
       institution: Yao Class, the Insititute for Interdisciplinary Sciences (IIIS), Tsinghua University
 email: marco.cheng712@gmail.com
 superuser: true
@@ -74,9 +77,9 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
   * [Jun 2023] I successfully graduated from Yao Class, Tsinghua University with B.Eng. degree in June! I felt happy and excited to receive the Tsinghua University Excellent Diploma Thesis Award for my graduation dissertation. And I also felt humbled to be awarded the Yao Class summa cum laude.
   
-  * [May 2023] Our paper "Crowdsourcing Work as Mining: A Decentralized Computation and Storage Paradigm" was accepted to APNet 2023 (poster session)! 
+  * [May 2023] Our paper "Crowdsourcing Work as Mining: A Decentralized Computation and Storage Paradigm" was accepted to APNet 2023 Poster! 
   
-  * [Feb 2023] I accepted the offer from Princeton University and will be an incoming Ph.D. student starting in Fall 2023. 
+  * [Feb 2023] I have accepted the offer from Princeton University and will be an incoming Ph.D. student starting in Fall 2023! 
   
   * [Jan 2023] I‘m fortunate to be selected as a participant in this year's TV program <Super Brain: Season 10> on Jiangsu channel (broadcast at 21:10 every Friday, Beijing time). Stay tuned for my performance!
   
