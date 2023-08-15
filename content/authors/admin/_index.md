@@ -24,13 +24,11 @@ social:
     icon: github
     icon_pack: fab
     link: https://github.com/Marco-Cheng
-  - display:
-      header: true
-    icon: twitter
+  - icon: twitter
     link: https://twitter.com/ZeruiCheng
     icon_pack: fab
 organizations:
-  - name: Electical and Computer Engineering, Princeton University
+  - name: Electical and Computer Engineering, \\ Princeton University
     url: https://ece.princeton.edu/
 education:
   courses:
