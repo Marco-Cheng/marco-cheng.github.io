@@ -57,7 +57,7 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
   
 
-  Previously, I received B.Eng. from the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of IIIS, Tsinghua University. During my undergraduate journey, I was fortunate to be the recipient of [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) (the highest honor for a Yao Class student), Yao Class summa cum laude, and the Excellent Diploma Thesis Award of Tsinghua University.   <br/>
+  Previously, I received B.Eng. in Computer Science from the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of IIIS, Tsinghua University. During my undergraduate journey, I was fortunate to be the recipient of [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) (the highest honor for a Yao Class student), Yao Class summa cum laude, and the Excellent Diploma Thesis Award of Tsinghua University.   <br/>
 
   <br/>
 
