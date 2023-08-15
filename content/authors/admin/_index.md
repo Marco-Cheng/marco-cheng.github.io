@@ -28,7 +28,7 @@ social:
     link: https://twitter.com/ZeruiCheng
     icon_pack: fab
 organizations:
-  - name: Electical and Computer Engineering,  
+  - name: ECE,  
           Princeton University
     url: https://ece.princeton.edu/
 education:
@@ -48,19 +48,19 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
 * #### **SHORT BIOGRAPHY**
 
-  I’m a first-year Ph.D. student at Princeton University, and my first-year academic advisor is [Prof. Maria Apostolaki](https://ece.princeton.edu/people/maria-apostolaki). My current research interests lie in an intersection of blockchains, web3 technologies, applied cryptography, and mechanism design.  
+  I’m a first-year Ph.D. student at Princeton University, and my first-year academic advisor is [Prof. Maria Apostolaki](https://ece.princeton.edu/people/maria-apostolaki). My current research interests lie in an intersection of blockchains, web3 technologies, applied cryptography, and mechanism design.  <br/>
 
   
 
   
 
-  Previously, I received B.Eng. from the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of IIIS, Tsinghua University. During my undergraduate journey, I was fortunate to be the recipient of [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) (the highest honor for a Yao Class student), Yao Class summa cum laude, and the Excellent Diploma Thesis Award of Tsinghua University.   
+  Previously, I received B.Eng. from the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of IIIS, Tsinghua University. During my undergraduate journey, I was fortunate to be the recipient of [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) (the highest honor for a Yao Class student), Yao Class summa cum laude, and the Excellent Diploma Thesis Award of Tsinghua University.   <br/>
 
   
 
   
 
-  I'm also an experienced competitive programmer with notable achievements.  
+  I'm also an experienced competitive programmer with notable achievements.  <br/>
 
   
 
@@ -90,9 +90,7 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
   
     
   
-* ##### Last revised on: Aug 15, 2023
-
-
+  
 
 
 
@@ -133,7 +131,15 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 * #### AVOCATION
 
   * Fan of NBA, Formula 1, and European Soccer. My favorite sporting stars include Stephen Curry (Golden State Warriors, NBA), Lewis Hamilton (Mercedes, F1), Charles Leclerc (Ferrari, F1), and Marco Reus (BVB Dortmund, Bundesliga). 
+  
   * Amateur yet enthusiastic player of Geoguessr and Sporcle (especially in geography and sports).
+  
   * Fan of stand-up comedies (including both Chinese-style cross-talk and American-style talk shows) and musicals. My favorite musicals include "Hamilton" and "Les Miserables".
+  
   * Fan of music, especially those in musicals or in "Gu-Feng" (ancient Chinese) style.
+  
   * I am also fond of playing basketball, although I don't have strong skills and can't often win a game :(
+  
+    
+  
+* **Last Revised on: Aug 15, 2023**
