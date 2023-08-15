@@ -1,6 +1,6 @@
 ---
 title: Zerui Cheng (程泽瑞)
-role: Ph.D. student at Princeton University, B.Eng from the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of Tsinghua University
+role: Ph.D. student at Princeton Univ., B.Eng from the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of Tsinghua Univ.
 
 avatar_filename: avatar.jpg
 
@@ -28,7 +28,7 @@ social:
     link: https://twitter.com/ZeruiCheng
     icon_pack: fab
 organizations:
-  - name: Electical and Computer Engineering, \\ Princeton University
+  - name: Electical and Computer Engineering,  <br /> Princeton University
     url: https://ece.princeton.edu/
 education:
   courses:
