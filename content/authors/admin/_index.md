@@ -51,7 +51,7 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
 * #### **SHORT BIOGRAPHY**
 
-  I’m a first-year Ph.D. student at Princeton University, and my first-year academic advisor is [Prof. Maria Apostolaki](https://ece.princeton.edu/people/maria-apostolaki). My current research interests lie in an intersection of blockchains, web3 technologies, applied cryptography, and mechanism design. <br/>
+  I’m a first-year Ph.D. student at Princeton University. My current research interests lie in an intersection of blockchains, web3 technologies, applied cryptography, and mechanism design. <br/>
 
   <br/>
 
