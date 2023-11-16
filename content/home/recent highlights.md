@@ -12,12 +12,7 @@ weight: 26
 title: Recent Highlights
 subtitle: ''
 
-  
-
 ---
-
-  * #### RECENT HIGHLIGHTS
-
   * [Oct 2023] Representing Princeton University, our team (Princeton-1) ranked third place and won bronze medal in ICPC Greater New York Regional ([Live Stream Replay](https://www.youtube.com/watch?v=8imxmuXyOCY), [Event Website](http://acmgnyr.org/year2023/), [Final Scoreboard](http://acmgnyr.org/year2023/scoreboard_final/index.html)). It's a shame we didn't manage to bring the trophy back to Princeton by a narrow margin, but good news is that we advanced to the ICPC North America Championship 2024, and we'll come back stronger. See you in Orlando in May 2024!
     
   * [Aug 2023] Started my Ph.D. journey in  [Prof. Pramod Viswanath's research group](https://web3.princeton.edu/) at Princeton University!

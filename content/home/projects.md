@@ -40,3 +40,5 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+Here are some of the undergraduate course projects and research projects authored by me.
