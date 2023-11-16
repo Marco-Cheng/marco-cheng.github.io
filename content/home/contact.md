@@ -30,7 +30,7 @@ content:
       link: 'https://weibo.com/zeruicheng'
     - icon: weixin
       icon_pack: fab
-      name: WeChat ID available upon request
+      name: WeChat ID available upon email request
       link: 'https://wechat.com'
 
 design:

@@ -71,7 +71,7 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
    {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Check my CV here for more information :){{< /staticref >}}. 
 
-   [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao)  [LinkedIn profile](https://www.linkedin.com/in/zerui-cheng-003b08235/)
+   [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao)  ,   [LinkedIn profile](https://www.linkedin.com/in/zerui-cheng-003b08235/)
 
   
 
