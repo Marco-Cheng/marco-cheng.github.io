@@ -51,7 +51,7 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
 * #### **SHORT BIOGRAPHY**
 
-  I’m a first-year Ph.D. student at Princeton University fortunately advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath). My current research lies in the intersection of generative AI, blockchains, and mechanism design, with the goal of bringing advances of AI to the web3 world. <br/>
+  I’m a first-year Ph.D. student fortunately advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath) at Princeton. My current research lies in the intersection of generative AI, blockchains, and mechanism design, with the goal of bringing advances of AI to the web3 world. <br/>
 
   <br/>
 
@@ -69,7 +69,11 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
   
 
-   {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Check my CV here for more information :){{< /staticref >}}.
+   {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Check my CV here for more information :){{< /staticref >}}. 
+
+   [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao)
+
+   [LinkedIn profile](https://www.linkedin.com/in/zerui-cheng-003b08235/)
 
   
 
@@ -119,7 +123,7 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
   * For online contests, I rank 16/182781 worldwide (and 2nd in China) on [Hackerrank](https://www.hackerrank.com/) ([leaderboard here](https://www.hackerrank.com/leaderboard)).  I also compete on [Codeforces](https://codeforces.com/) ([see my profile here](https://codeforces.com/profile/Marco_L_T)) and [CSAcademy](https://csacademy.com/) ([see my profile here](https://csacademy.com/user/Marco_L_T)).
 
-  * Besides, I'm also an experienced problem setter for competitive programming contests. I have set and tested a number of problems for various contests. For example, I'm the main author of [Codeforces Round #447](https://codeforces.com/blog/entry/55858) ([problemset here](https://codeforces.com/contest/894)) and a problem setter of the Chinese National Olympiad in Informatics in 2021, and here is the problem I set([中文题面(original version in Chinese)](https://uoj.ac/problem/676), [English Translation](https://www.acmicpc.net/problem/25068)). 
+  * Besides, I'm also an experienced problem setter for competitive programming contests. I have set and tested a number of problems for various contests. For example, I'm the main author of [Codeforces Round #447](https://codeforces.com/blog/entry/55858) ([problemset here](https://codeforces.com/contest/894)) and a problem setter of the Chinese National Olympiad in Informatics in 2021. Here is the problem I set ([original version in Chinese](https://uoj.ac/problem/676), [English translation](https://www.acmicpc.net/problem/25068)). 
 
     
 
