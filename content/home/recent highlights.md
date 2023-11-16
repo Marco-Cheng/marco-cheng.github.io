@@ -12,7 +12,9 @@ weight: 26
 title: Recent Highlights
 subtitle: ''
 
-content:
+  
+
+---
 
   * #### RECENT HIGHLIGHTS
 
@@ -33,6 +35,3 @@ content:
   * [Sep 2022] I felt honored and extremely excited to receive this year's [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) for my undergraduate achievements!
   
   * [Aug 2022] Our paper [zkBridge: Trustless Cross-chain Bridges Made Practical](https://dl.acm.org/doi/abs/10.1145/3548606.3560652) was accepted to ACM CCS 2022! 
-  
-
----
