@@ -46,15 +46,10 @@ highlight_name: true
 
   I’m a first-year Ph.D. student fortunately advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath) at Princeton. My current research lies in the intersection of generative AI, blockchains, and mechanism design, with the goal of bringing advances of AI to the web3 world. <br/>
 
-  <br/>
-
-  
-
   Previously, I received B.Eng. in Computer Science from the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at Tsinghua University. During undergrad, I was fortunate to be the recipient of [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html), Yao Class summa cum laude, and the Excellent Diploma Thesis Award.   <br/>
 
-  {{< icon name="graduation-cap" pack="fas" >}  [Check my Google Scholar profile here.](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao) }   
+  {{< icon name="graduation-cap" pack="fas" >}} [Check my Google Scholar profile here.](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao)   
 
   {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Check my CV here for more information :){{< /staticref >}}.<br/> 
-
-   <br/>                                           
+                                       
 * **Last Revised on: Nov 16, 2023**
