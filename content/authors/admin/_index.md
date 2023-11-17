@@ -42,7 +42,7 @@ email: marco.cheng712@gmail.com
 superuser: true
 highlight_name: true
 ---
-## Welcome to Zerui (Marco) Cheng's homepage~
+## Welcome to Zerui Cheng's homepage~
 
   I’m a first-year Ph.D. student fortunately advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath) at Princeton. My current research lies in the intersection of generative AI, blockchains, and mechanism design, with the goal of bringing advances of AI to the web3 world. <br/>
 
