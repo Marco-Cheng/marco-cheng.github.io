@@ -44,7 +44,7 @@ design:
 
 * #### **COMPETITIVE PROGRAMMING**
 
-  ###### * I am also an experienced and proud competitive programmer ([What is competitive programming?](https://en.wikipedia.org/wiki/Competitive_programming)).
+  * I am also an experienced and proud competitive programmer ([What is competitive programming?](https://en.wikipedia.org/wiki/Competitive_programming)).
 
   ###### * Onsite contests:  
   
@@ -74,22 +74,22 @@ design:
 
 * #### **SOCIAL WORK**
 
- ###### * I was gratefully elected and served as the president of Yao Class Students' Congress at Tsinghua University for 2022-23 academic year, and I was the vice president and deputy secretary the year before.
+  * I was gratefully elected and served as the president of Yao Class Students' Congress at Tsinghua University for 2022-23 academic year, and I was the vice president and deputy secretary the year before.
 
- ######  * I'm a member of the Algorithm Association at Tsinghua University. And I served as the problem setter and coordinator of a number of contests (including National Olympiad in Informatics (2021), Tsinghua University Programming Contest (2020, 2021, 2022)).
+  * I'm a member of the Algorithm Association at Tsinghua University. And I served as the problem setter and coordinator of a number of contests (including National Olympiad in Informatics (2021), Tsinghua University Programming Contest (2020, 2021, 2022)).
 
-######   * I was a volunteer for the 110th anniversary of Tsinghua University.
+  * I was a volunteer for the 110th anniversary of Tsinghua University.
 
     
 
 * #### AVOCATION
 
- ######  * Fan of NBA, Formula 1, and European Soccer. My favorite sporting stars include Stephen Curry (Golden State Warriors, NBA), Lewis Hamilton (Mercedes, F1), Charles Leclerc (Ferrari, F1), and Marco Reus (BVB Dortmund, Bundesliga). 
+  * Fan of NBA, Formula 1, and European Soccer. My favorite sporting stars include Stephen Curry (Golden State Warriors, NBA), Lewis Hamilton (Mercedes, F1), Charles Leclerc (Ferrari, F1), and Marco Reus (BVB Dortmund, Bundesliga). 
   
- ######  * Amateur yet enthusiastic player of Geoguessr and HugeQuiz (especially in geography and sports).
+  * Amateur yet enthusiastic player of Geoguessr and HugeQuiz (especially in geography and sports).
   
- ######  * Fan of stand-up comedies (including both Chinese-style cross-talk and American-style talk shows) and musicals. My favorite musicals include "Hamilton" and "Les Miserables".
+   * Fan of stand-up comedies (including both Chinese-style cross-talk and American-style talk shows) and musicals. My favorite musicals include "Hamilton" and "Les Miserables".
   
- ######  * Fan of music, especially those in musicals or in "Gu-Feng" (ancient Chinese) style.
+  * Fan of music, especially those in musicals or in "Gu-Feng" (ancient Chinese) style.
   
- ######  * I am also fond of playing basketball, although I don't have strong skills and can't often win a game :(
+  * I am also fond of playing basketball, although I don't have strong skills and can't often win a game :(
