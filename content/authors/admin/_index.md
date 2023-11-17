@@ -28,8 +28,7 @@ social:
     link: https://twitter.com/ZeruiCheng
     icon_pack: fab
 organizations:
-  - name: ECE,  
-          Princeton University
+  - name: Princeton University
     url: https://ece.princeton.edu/
 education:
   courses:
