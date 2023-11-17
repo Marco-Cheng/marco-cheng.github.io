@@ -9,6 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 26
 
+
 title: Recent Highlights
 subtitle: ''
 
@@ -41,16 +42,26 @@ design:
   flip_alt_rows: false
 ---
 ###### **[Oct 2023] (competitive programming)**
-Representing Princeton University, our team (Princeton-1) ranked third place and won bronze medal in ICPC Greater New York Regional ([Live Stream Replay](https://www.youtube.com/watch?v=8imxmuXyOCY), [Event Website](http://acmgnyr.org/year2023/), [Final Scoreboard](http://acmgnyr.org/year2023/scoreboard_final/index.html)). It's a shame we didn't manage to bring the trophy back to Princeton by a narrow margin, but good news is that we advanced to the ICPC North America Championship 2024, and we'll come back stronger. See you in Orlando in May 2024!
+
+Representing Princeton University, our team (Princeton-1) ranked third place and won bronze medal in ICPC Greater New York Regional ([Live Stream Replay](https://www.youtube.com/watch?v=8imxmuXyOCY), [Event Website](http://acmgnyr.org/year2023/), [Final Scoreboard](http://acmgnyr.org/year2023/scoreboard_final/index.html)).
+
+It's a shame we didn't manage to bring the trophy back to Princeton by a narrow margin, but good news is that we advanced to the ICPC North America Championship 2024, and we'll come back stronger. See you in Orlando in May 2024!
     
 ###### **[Aug 2023] (personal update)**
+
 Started my Ph.D. journey in  [Prof. Pramod Viswanath's research group](https://web3.princeton.edu/) at Princeton University!
 
 ###### **[Jul 2023] (paper alert)**
+
 The whitepaper of our newly established decentralized AI platform [SAKSHI](https://arxiv.org/pdf/2307.16562.pdf) is online now! 
 
 ###### **[Jun 2023] (personal update)**
-Graduated from Yao Class, Tsinghua University with B.Eng. degree. I felt happy and excited to receive the Tsinghua University Excellent Diploma Thesis Award for my graduation dissertation (5 out of 94 are selected in Yao Class). And I also felt humbled to be awarded the Yao Class summa cum laude (23 out of 94 are selected in Yao Class).
+
+Graduated from Yao Class, Tsinghua University with B.Eng. degree. 
+
+I felt happy and excited to receive the Tsinghua University Excellent Diploma Thesis Award for my graduation dissertation (5 out of 94 are selected in Yao Class). 
+
+And I also felt humbled to be awarded the Yao Class summa cum laude (23 out of 94 are selected in Yao Class).
   
 ###### **[May 2023] (paper alert)**
 Our paper [Crowdsourcing Work as Mining: A Decentralized Computation and Storage Paradigm](https://dl.acm.org/doi/abs/10.1145/3600061.3603177) was accepted to APNet 2023! 

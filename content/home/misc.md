@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 121
 
-title: Misc
+title: Miscellaneous
 subtitle: ''
 
 content:
