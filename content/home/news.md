@@ -1,7 +1,7 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: content
+widget: portfolio
 
 # This file represents a page section.
 headless: true
@@ -12,6 +12,33 @@ weight: 26
 title: Recent Highlights
 subtitle: ''
 
+content:
+  # Page type to display. E.g. project.
+  page_type: publications
+
+  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  filter_default: 0
+
+  # Filter toolbar (optional).
+  # Add or remove as many filters (`filter_button` instances) as you like.
+  # To show all items, set `tag` to "*".
+  # To filter by a specific tag, set `tag` to an existing tag name.
+  # To remove the toolbar, delete the entire `filter_button` block.
+
+
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '2'
+
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view: 2
+
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows: false
 ---
   * [Oct 2023] Representing Princeton University, our team (Princeton-1) ranked third place and won bronze medal in ICPC Greater New York Regional ([Live Stream Replay](https://www.youtube.com/watch?v=8imxmuXyOCY), [Event Website](http://acmgnyr.org/year2023/), [Final Scoreboard](http://acmgnyr.org/year2023/scoreboard_final/index.html)). It's a shame we didn't manage to bring the trophy back to Princeton by a narrow margin, but good news is that we advanced to the ICPC North America Championship 2024, and we'll come back stronger. See you in Orlando in May 2024!
     
