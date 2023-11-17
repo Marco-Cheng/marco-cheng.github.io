@@ -65,10 +65,11 @@ The pronunciation of "Zerui" is similar to "the ray". You can also call me Marco
 
   I'm also an experienced competitive programmer with notable achievements.  <br/><br/>
 
+     [Check my Google Scholar profile here.](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao)    
 
    {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Check my CV here for more information :){{< /staticref >}}. 
 
-   [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao)                                                               
+                                                           
 
 
 

@@ -41,4 +41,4 @@ design:
   flip_alt_rows: false
 ---
 
-Here are some of the undergraduate course projects and research projects authored by me.
+Here are some of my undergraduate course projects and research projects.
