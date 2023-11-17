@@ -37,7 +37,7 @@ education:
       institution: Electrical and Computer Engineering, Princeton University
     - year: ""
       course: B.Eng. (2019.8 - 2023.6)
-      institution: Yao Class, the Insititute for Interdisciplinary Sciences (IIIS), Tsinghua University
+      institution: Yao Class, the Insititute for Interdisciplinary Information Sciences (IIIS), Tsinghua University
 email: marco.cheng712@gmail.com
 superuser: true
 highlight_name: true
@@ -48,8 +48,5 @@ highlight_name: true
 
   Previously, I received B.Eng. in Computer Science from the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at Tsinghua University. During undergrad, I was fortunate to be the recipient of [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html), Yao Class summa cum laude, and the Excellent Diploma Thesis Award.   <br/>
 
-  {{< icon name="graduation-cap" pack="fas" >}} [Check my Google Scholar profile here.](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao)   
-
-  {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Check my CV here for more information :){{< /staticref >}}.<br/> 
-                                       
-* **Last Revised on: Nov 16, 2023**
+  {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao)   {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.<br/> 
+                                      
