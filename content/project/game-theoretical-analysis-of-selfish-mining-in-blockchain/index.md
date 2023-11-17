@@ -8,9 +8,6 @@ authors:
   - Shutong Qu
   - Zhixuan Fang
 tags:
-  - game theory
-  - blockchain
-  - security
 image:
   filename: featured
   focal_point: Smart

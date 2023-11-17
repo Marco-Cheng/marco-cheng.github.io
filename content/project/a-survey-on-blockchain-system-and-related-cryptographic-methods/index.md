@@ -6,9 +6,6 @@ featured: false
 authors:
   - Zerui Cheng
 tags:
-  - blockchain
-  - cryptography
-  - cryptocurrency
 image:
   filename: featured
   focal_point: Smart

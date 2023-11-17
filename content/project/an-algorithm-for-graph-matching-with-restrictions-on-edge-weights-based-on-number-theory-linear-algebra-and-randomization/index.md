@@ -7,9 +7,6 @@ featured: false
 authors:
   - Zerui Cheng
 tags:
-  - number theory
-  - linear algebra
-  - randomization
 image:
   filename: featured
   focal_point: Smart
