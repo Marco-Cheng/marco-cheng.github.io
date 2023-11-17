@@ -48,5 +48,5 @@ highlight_name: true
 
   Previously, I received B.Eng. in Computer Science from the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at Tsinghua University. During undergrad, I was fortunate to be the recipient of [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html), Yao Class summa cum laude, and the Excellent Diploma Thesis Award.   <br/>
 
-  {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao)                                 {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+  {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao) &emsp; &emsp; &emsp;{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}
                                       
