@@ -50,13 +50,13 @@ design:
   
     In high school, I was a two-time silver medalist of the Chinese National Olympiad in Informatics (both in 2017 and 2018). 
   
-    During undergrad, representing Tsinghua University, I won a gold prize in ICPC (International Collegiate Programming Contest) Yinchuan Regional, a silver prize in ICPC East Asia Continental Final of, and 2 gold prizes in CCPC (Chinese Collegiate Programming Contest). 
+    During undergrad, representing Tsinghua University, I won a gold prize in ICPC (International Collegiate Programming Contest) Regional, a silver prize in ICPC East Asia Continental Final, and 2 gold prizes in CCPC (Chinese Collegiate Programming Contest). 
   
     Now, representing Princeton University, I won an overall third place and bronze medal in ICPC Greater New York Regional 2023 and advanced to ICPC North America Continental Championship 2024.
 
   ######  * Online contests:
   
-    I rank 16/182781 worldwide (and 2nd in China) on [Hackerrank](https://www.hackerrank.com/) ([leaderboard here](https://www.hackerrank.com/leaderboard)).  
+    I rank 16/182,781 worldwide (and 2nd in China) on [Hackerrank](https://www.hackerrank.com/) ([leaderboard here](https://www.hackerrank.com/leaderboard)).  
   
     I also compete on [Codeforces](https://codeforces.com/) ([see my profile here](https://codeforces.com/profile/Marco_L_T)) and [CSAcademy](https://csacademy.com/) ([see my profile here](https://csacademy.com/user/Marco_L_T)).
 

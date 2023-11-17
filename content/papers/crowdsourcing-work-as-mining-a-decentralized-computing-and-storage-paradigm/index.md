@@ -1,5 +1,5 @@
 ---
-title: "Crowdsourcing Work as Mining: A Decentralized Computing Paradigm"
+title: "Crowdsourcing Work as Mining: A Decentralized Computing and Storage Paradigm"
 date: 2022-02-25T01:00:33.802Z
 draft: false
 featured: false

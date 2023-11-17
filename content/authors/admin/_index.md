@@ -4,7 +4,7 @@ role: Ph.D. student at Princeton Univ., B.Eng from the Honored [Yao Class](https
 
 avatar_filename: avatar.jpg
 
-bio: "Incoming Ph.D. student at Princeton University starting Fall 2023, B.Eng at the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) of Tsinghua University "
+bio: " "
 
 interests:
   - Generative AI
@@ -48,5 +48,5 @@ highlight_name: true
 
   Previously, I received B.Eng. in Computer Science from the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at Tsinghua University. During undergrad, I was fortunate to be the recipient of [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html), Yao Class summa cum laude, and the Excellent Diploma Thesis Award.   <br/>
 
-  {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao)   {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.<br/> 
+  {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao)                                 {{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
                                       
