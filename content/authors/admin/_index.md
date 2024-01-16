@@ -44,7 +44,7 @@ highlight_name: true
 ---
 ## Welcome to Zerui Cheng's homepage~
 
-  I’m a first-year Ph.D. student fortunately advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath) at Princeton. My current research lies in the intersection of generative AI, blockchains, and mechanism design, with the goal of bringing advances of AI to the web3 world. <br/>
+  I’m a first-year Ph.D. student fortunately advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath) at Princeton. My current research lies in the intersection of AI and blockchains, the two technologies which I believe will have groundbreaking impact on shaping our future society, with two main goals: "AI for Blockchains" to energize today's blockchains with advances in AI, "Blockchains for AI" to bring fairness and transparency to the era of AI. <br/>
 
   Previously, I received B.Eng. in Computer Science from the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at Tsinghua University. During undergrad, I was fortunate to be the recipient of [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html), Yao Class summa cum laude, and the Excellent Diploma Thesis Award.   <br/>
 
