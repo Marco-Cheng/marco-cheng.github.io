@@ -41,6 +41,11 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+###### **[Dec 2023] (competitive programming)**
+
+Our team ranked 1st place in the Princeton Computer Science Contest (COSCON) Fall 2023! ([Event Website](https://princetonacm.github.io/coscon/), [Final Scoreboard](https://princetonacm.github.io/coscon/leaderboard))
+
+
 ###### **[Oct 2023] (competitive programming)**
 
 Representing Princeton University, our team (Princeton-1) ranked third place and won bronze medal in ICPC Greater New York Regional ([Live Stream Replay](https://www.youtube.com/watch?v=8imxmuXyOCY), [Event Website](http://acmgnyr.org/year2023/), [Final Scoreboard](http://acmgnyr.org/year2023/scoreboard_final/index.html)).
