@@ -41,6 +41,19 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+###### **[May 2024] (personal update)**
+
+Started my internship as an AI fellow at [Sentient](https://twitter.com/sentient_agi), hoping to build and innovate at the intersection of AI and blockchains!
+
+
+###### **[May 2024] (competitive programming)**
+
+Representing Princeton University and sitting on top of the leaderboard for the opening 40 minutes during the contest, our team (Princeton-1) finally ranked 22nd place at ICPC North America Championship 2024. We were the awardee of "First solution in the contest" and "First Solve of Problem D", and won a $3,000 prize for this achievement. ([Team Reaction Cut on Youtube ICPC Official Channel](https://www.youtube.com/watch?v=84Zfi-4Kpg0), [Award Ceremony](https://www.youtube.com/watch?v=1YmSAfRicsw), [Final Scoreboard](https://image.icpc.global/nac2024/scoreboard/index.html))
+
+###### **[May 2024] (competitive programming)**
+
+I was grateful to be invited as a finalist to compete in MIT Informatics Tournament Spring Invitational 2024. Only top-16 contestants in the United States qualify for the final.
+
 ###### **[Dec 2023] (competitive programming)**
 
 Our team ranked 1st place in the Princeton Computer Science Contest (COSCON) Fall 2023! ([Event Website](https://princetonacm.github.io/coscon/), [Final Scoreboard](https://princetonacm.github.io/coscon/leaderboard))
