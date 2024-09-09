@@ -47,8 +47,8 @@ highlight_name: true
   I’m a second-year Ph.D. student fortunately advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath) at Princeton University. My current research lies in the intersection of AI and blockchains, the two technologies which I believe will reshape our future society, with two main goals: **"AI for Blockchains"** to energize today's blockchains with advances in AI, **"Blockchains for AI"** to bring fairness and transparency to the era of AI. <br/> 
   
   I'm proud to have contributed in the following projects: <br/> 
-  [Sentient](https://sentient.foundation/): A community-built Open AGI foundation via OML (Open, Monetizable, Loyal) [has raised an $85 million seed round];<br/> 
-  [zkBridge](https://www.zkbridge.com/): Cross-chain bridges made practical with state-of-the-art zero-knwoledge proof protocols [Its industrial product, PolyhedraZK, has a valuation of over $1 billion as of Mar 2024];<br/> 
+  [Sentient](https://sentient.foundation/): A community-built Open AGI foundation via OML (Open, Monetizable, Loyal) [has recently raised an $85 million seed round];<br/> 
+  [zkBridge](https://www.zkbridge.com/): Cross-chain bridges made practical with state-of-the-art zero-knowledge proof protocols [Its industrial product, PolyhedraZK, has a valuation of over $1 billion as of Mar 2024];<br/> 
   [SAKSHI](https://arxiv.org/pdf/2307.16562): A paradigm for decentralized AI platforms via PoI (Proof-of-Interence);<br/> 
   [PoCW](https://arxiv.org/pdf/2211.06669): A paradigm that innovatively proposes to use the computation for AI model training / Crowdsourcing Work as PoW in blockchain consensus through PoCW mechanism (Proof-of-Crowdsourcing-Work).<br/> 
 
