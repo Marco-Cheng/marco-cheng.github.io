@@ -71,9 +71,9 @@ design:
     I'm also a problem setter of the Chinese National Olympiad in Informatics in 2021. Here is the problem I set ([original version in Chinese](https://uoj.ac/problem/676), [English translation](https://www.acmicpc.net/problem/25068)). 
 
     
-* #### **TV Appearance**
+* #### **TV APPEARANCE**
 
-I was fortunate to be the participant of the well-known TV show "Super Brain" (最强大脑 in Chinese) in 2023. It's truly a fun and unforgettable experience.
+* I was fortunate to be the participant of the well-known TV show "Super Brain" (最强大脑 in Chinese) in 2023. It's truly a fun and unforgettable experience.
 
 * #### **SOCIAL WORK**
 
