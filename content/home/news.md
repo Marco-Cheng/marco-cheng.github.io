@@ -41,6 +41,10 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+###### **[Aug 2024] (personal update)**
+
+Started my one-month internship as a Quantitative Researcher at [JQ Investment](https://www.linkedin.com/company/jq-investments)! It's an entirely different experience outside my research area, and I would like to broaden my horizons through the chance. 
+
 ###### **[May 2024] (personal update)**
 
 Started my internship as an AI fellow at [Sentient](https://twitter.com/sentient_agi), hoping to build and innovate at the intersection of AI and blockchains!
@@ -48,7 +52,7 @@ Started my internship as an AI fellow at [Sentient](https://twitter.com/sentient
 
 ###### **[May 2024] (competitive programming)**
 
-Representing Princeton University and sitting on top of the leaderboard for the opening 40 minutes during the contest, our team (Princeton-1) finally ranked 22nd place at ICPC North America Championship 2024. We were the awardee of "First solution in the contest" and "First Solve of Problem D", and won a $3,000 prize for this achievement. ([Team Reaction Cut on Youtube ICPC Official Channel](https://www.youtube.com/watch?v=84Zfi-4Kpg0), [Award Ceremony](https://www.youtube.com/watch?v=1YmSAfRicsw), [Final Scoreboard](https://image.icpc.global/nac2024/scoreboard/index.html))
+Representing Princeton University and sitting on 1st of the leaderboard for the opening 40 minutes during the contest, our team (Princeton-1) finally ranked 22nd place at ICPC North America Championship 2024. We were the awardee of "First solution in the contest" and "First Solve of Problem D", and won a $3,000 prize for this achievement. ([Team Reaction Cut on Youtube ICPC Official Channel](https://www.youtube.com/watch?v=84Zfi-4Kpg0), [Award Ceremony](https://www.youtube.com/watch?v=1YmSAfRicsw), [Final Scoreboard](https://image.icpc.global/nac2024/scoreboard/index.html))
 
 ###### **[May 2024] (competitive programming)**
 
@@ -63,7 +67,7 @@ Our team ranked 1st place in the Princeton Computer Science Contest (COSCON) Fal
 
 Representing Princeton University, our team (Princeton-1) ranked third place and won bronze medal in ICPC Greater New York Regional ([Live Stream Replay](https://www.youtube.com/watch?v=8imxmuXyOCY), [Event Website](http://acmgnyr.org/year2023/), [Final Scoreboard](http://acmgnyr.org/year2023/scoreboard_final/index.html)).
 
-It's a shame we didn't manage to bring the trophy back to Princeton by a narrow margin, but good news is that we advanced to the ICPC North America Championship 2024, and we'll come back stronger. See you in Orlando in May 2024!
+Being among the top 5 teams in greater new york region, we advanced to the ICPC North America Championship 2024! See you in Orlando in May 2024!
     
 ###### **[Aug 2023] (personal update)**
 
