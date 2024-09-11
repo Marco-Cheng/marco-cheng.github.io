@@ -30,7 +30,7 @@ content:
       link: 'https://weibo.com/zeruicheng'
     - icon: weixin
       icon_pack: fab
-      name: WeChat ID: Marco_Z_Cheng
+      name: Fine me on WeChat by ID Marco_Z_Cheng
       link: 'https://wechat.com'
 
 design:
