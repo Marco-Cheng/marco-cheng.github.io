@@ -45,8 +45,6 @@ highlight_name: true
 ## Welcome to Zerui Cheng's homepage~
 
   I’m a second-year Ph.D. student advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath) at [Princeton University](https://www.princeton.edu/). My current research lies in the intersection of AI and blockchains. <br/> 
-
-    {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao) &emsp; &emsp; &emsp;{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}
   
   **I'm proud to have contributed in the following projects:** <br/> 
   * [Sentient](https://sentient.foundation/): A community-built Open AGI foundation via OML (Open, Monetizable, Loyal). Sentient has recently raised an $85 million seed round ([Source](https://www.coindesk.com/business/2024/07/02/peter-thiels-founders-fund-leads-85m-seed-investment-into-open-source-ai-platform-sentient/));<br/> 
@@ -57,5 +55,7 @@ highlight_name: true
   Previously, I received B.Eng. in Computer Science from the Honored [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at [Tsinghua University](https://tsinghua.edu/). During undergrad, I worked closely with [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/index.html), and I was fortunate to be the recipient of [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html), Yao Class summa cum laude, and the Excellent Diploma Thesis Award.  I was also grateful to be funded by Yao Class to visit [Prof. Fan Zhang](https://www.fanzhang.me/)'s research group at Duke University and [Prof. Dawn Song](https://dawnsong.io/)'s research group at the University of California, Berkeley as an intern in 2022. <br/>
 
   Besides, I'm an experienced competitive programmer with notable achievements in ICPC contests; I served as the president of Yao Class Students' Congress in 2022-2023; I was a participant of the TV show "Super Brain" (最强大脑 in Chinese) in 2023. 
+
+  {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao) &emsp; &emsp; &emsp;{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}
 
                                       
