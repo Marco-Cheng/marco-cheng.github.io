@@ -41,6 +41,9 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+###### **[Sep 2024] (paper alert)**
+The whitepaper of OML and Sentient is live. I'm proud to contribute to the paper which also concludes my work in the past several months. Don't hesitate to check it out! {{< staticref "uploads/OML_and_Sentient_Whitepaper.pdf" "newtab" >}}Link to Whitepaper{{< /staticref >}}
+
 ###### **[Aug 2024] (personal update)**
 
 Started my one-month internship as a Quantitative Researcher at [JQ Investment](https://www.linkedin.com/company/jq-investments)! It's an entirely different experience outside my research area, and I would like to broaden my horizons through the chance. 
