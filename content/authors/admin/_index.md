@@ -44,7 +44,7 @@ highlight_name: true
 ---
 ## Welcome to Zerui Cheng's homepage~
 
-  I’m a second-year Ph.D. student advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath) at [Princeton University](https://www.princeton.edu/). My current research lies in the intersection of AI and blockchains, exploring methods to ensure AI agents interact openly, fairly, and efficiently in the forthcoming AGI era, with a [first-principle approach](https://en.wikipedia.org/wiki/First_principle). <br/> 
+  I’m a second-year Ph.D. student advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath) at [Princeton University](https://www.princeton.edu/). My current research lies in the intersection of AI and blockchains, exploring interdisciplinary methods to ensure **AI agents interact openly, fairly, and efficiently** in the forthcoming AGI era, with a [first-principle approach](https://en.wikipedia.org/wiki/First_principle). <br/> 
 
   {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao) &emsp; &emsp; &emsp;{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}
   
