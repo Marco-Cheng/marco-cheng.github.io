@@ -42,7 +42,7 @@ design:
   flip_alt_rows: false
 ---
 ###### **[Sep 2024] (paper alert)**
-The whitepaper of OML and Sentient is live. I'm proud to contribute to the paper which also concludes my work in the past several months. Don't hesitate to check it out! {{< staticref "uploads/OML_and_Sentient_Whitepaper.pdf" "newtab" >}}Link to Whitepaper{{< /staticref >}}
+The research paper on OML: Open, Monetizable and Loyal AI is live. I'm proud to contribute to the paper which also concludes my work in the past several months. Don't hesitate to check it out! {{< staticref "uploads/OML_and_Sentient_Whitepaper.pdf" "newtab" >}}Link to Paper{{< /staticref >}}
 
 ###### **[Aug 2024] (personal update)**
 
