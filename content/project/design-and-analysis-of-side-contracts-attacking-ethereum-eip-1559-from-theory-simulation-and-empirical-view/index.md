@@ -6,7 +6,7 @@ featured: false
 authors:
   - Zerui Cheng
   - Shutong Qu
-  - Zhixuan Fang
+  - Fan Zhang
 tags:
 image:
   filename: featured

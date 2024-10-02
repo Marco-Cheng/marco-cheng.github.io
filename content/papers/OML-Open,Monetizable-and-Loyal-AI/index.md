@@ -1,5 +1,5 @@
 ---
-title: "zkBridge: Trustless Cross-chain Bridges Made Practical"
+title: "OML: Open, Monetizable, and Loyal AI"
 date: 2022-02-25T01:00:33.802Z
 draft: false
 featured: false
@@ -24,7 +24,7 @@ image:
 ---
 This work is on a new primitive for AI era: OML, which stands for Open, Monetizable and Loyal AI. It is also the whitepaper of the AI+crypto startup Sentient.
 
-[The website for the project](sentient.foundation ) 
+Here is [the website for the project](sentient.foundation).
 
  [Link to the paper](https://www.zerui-cheng.com/uploads/OML_and_Sentient_Whitepaper.pdf) 
 

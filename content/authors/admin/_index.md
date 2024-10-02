@@ -51,7 +51,6 @@ highlight_name: true
 
   During undergraduate, I worked closely with [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/index.html). I was an intern at [Prof. Fan Zhang](https://www.fanzhang.me/)'s research group at Duke University and [Prof. Dawn Song](https://dawnsong.io/)'s research group at the University of California, Berkeley in 2022. <br/>
 
-  {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao) &emsp; &emsp; &emsp;{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}
   
 
   <br/> <br/>
@@ -62,7 +61,13 @@ highlight_name: true
   * **[SAKSHI](https://arxiv.org/pdf/2307.16562)**: A paradigm for decentralized AI platforms via PoI (Proof-of-Inference);<br/> 
   * **[PoCW](https://arxiv.org/pdf/2211.06669)**: A paradigm that innovatively proposes to use the computation for AI model training / Crowdsourcing Work as PoW in blockchain consensus through PoCW mechanism (Proof-of-Crowdsourcing-Work).<br/> 
 
+  {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao) &emsp; &emsp; &emsp;{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}
 
-  Besides, I'm an experienced competitive programmer with notable achievements in OI/ICPC contests (both as contestant and problem setter); I served as the president of Yao Class Students' Congress in 2022-2023; I was a participant of the TV show "Super Brain" (最强大脑 in Chinese) in 2023. 
+
+  Besides, I'm an experienced competitive programmer with notable achievements in OI/ICPC contests (both as contestant and problem setter).
+
+  I served as the president of Yao Class Students' Congress in 2022-2023.
+  
+  I was a participant of the TV show "Super Brain" (最强大脑 in Chinese) in 2023. 
 
                                       
