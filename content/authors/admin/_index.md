@@ -51,18 +51,16 @@ highlight_name: true
 
   During undergraduate, I worked closely with [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/index.html). I was an intern at [Prof. Fan Zhang](https://www.fanzhang.me/)'s research group at Duke University and [Prof. Dawn Song](https://dawnsong.io/)'s research group at the University of California, Berkeley in 2022. <br/>
 
-    {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao) &emsp; &emsp; &emsp;{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}
+  {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao) &emsp; &emsp; &emsp;{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}
 
 
   <br/> 
 
   **I'm proud to have contributed in the following projects:** <br/> 
   * **[Sentient](https://sentient.foundation/)**: A community-built Open AGI foundation via OML (Open, Monetizable, Loyal AI) ({{< staticref "uploads/OML_and_Sentient_Whitepaper.pdf" "newtab" >}}Link to OML Full Paper{{< /staticref >}}). Sentient has recently [raised an $85 million seed round](https://www.coindesk.com/business/2024/07/02/peter-thiels-founders-fund-leads-85m-seed-investment-into-open-source-ai-platform-sentient/);<br/> 
-  * **[zkBridge](https://www.zkbridge.com/)**: Cross-chain bridges made practical with state-of-the-art zero-knowledge proof protocols ([Link to Paper (ACM CCS 2022)](https://dl.acm.org/doi/pdf/10.1145/3548606.3560652)). Its industrial product, PolyhedraZK, has a valuation of over $1 billion as of Mar 2024 ([Source](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round));<br/> 
+  * **[zkBridge](https://www.zkbridge.com/)**: Cross-chain bridges made practical with zero-knowledge proofs ([Link to Paper (ACM CCS 2022)](https://dl.acm.org/doi/pdf/10.1145/3548606.3560652)). Its industrial realization, PolyhedraZK, [has a valuation of over $1 billion as of Mar 2024] (https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round);<br/> 
   * **[SAKSHI](https://arxiv.org/pdf/2307.16562)**: A paradigm for decentralized AI platforms via PoI (Proof-of-Inference);<br/> 
-  * **[PoCW](https://arxiv.org/pdf/2211.06669)**: A paradigm that innovatively proposes to use the computation for AI model training / Crowdsourcing Work as PoW in blockchain consensus through PoCW mechanism (Proof-of-Crowdsourcing-Work).<br/> 
-
-  {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao) &emsp; &emsp; &emsp;{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}
+  * **[PoCW](https://arxiv.org/pdf/2211.06669)**: How to use the computation for AI model training as PoW in blockchain consensus.<br/> 
 
 
   Besides, 
