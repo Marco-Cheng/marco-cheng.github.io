@@ -62,7 +62,7 @@ highlight_name: true
   * **[SAKSHI](https://arxiv.org/pdf/2307.16562)**: A paradigm for decentralized AI platforms via PoI (Proof-of-Inference);<br/> 
   * **[PoCW](https://arxiv.org/pdf/2211.06669)**: How to use the computation for AI model training as PoW in blockchains.<br/> 
 
-
+<br/> 
   Besides, 
   * I'm an experienced competitive programmer with notable achievements in OI/ICPC contests (both as contestant and problem setter).
   * I served as the president of Yao Class Students' Congress in 2022-2023.
