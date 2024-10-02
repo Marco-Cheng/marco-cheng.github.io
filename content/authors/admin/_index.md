@@ -36,7 +36,7 @@ organizations:
 education:
   courses:
     - year: ""
-      course: Ph.D. Student (2023.8 - now)
+      course: Ph.D. student (2023.8 - now)
       institution: Electrical and Computer Engineering, Princeton University
     - year: ""
       course: Bachelor in Engineering (2019.8 - 2023.6)
@@ -61,7 +61,7 @@ highlight_name: true
   * **[zkBridge](https://www.zkbridge.com/)**: Cross-chain bridges with zero-knowledge proofs ([Link to paper (CCS 2022)](https://dl.acm.org/doi/pdf/10.1145/3548606.3560652)). Its industrial realization, [PolyhedraZK, has a valuation of over $1 billion](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round);<br/> 
   * **[SAKSHI](https://arxiv.org/pdf/2307.16562)**: A paradigm for decentralized AI platforms via PoI (Proof-of-Inference);<br/> 
   * **[PoCW](https://arxiv.org/pdf/2211.06669)**: How to use the computation for AI model training as PoW in blockchains.<br/> 
-  <br/> 
+  <br/> <br/> 
 
   Besides, 
   * I'm an experienced competitive programmer with notable achievements in OI/ICPC contests (both as contestant and problem setter).
