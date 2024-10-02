@@ -51,9 +51,10 @@ highlight_name: true
 
   During undergraduate, I worked closely with [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/index.html). I was an intern at [Prof. Fan Zhang](https://www.fanzhang.me/)'s research group at Duke University and [Prof. Dawn Song](https://dawnsong.io/)'s research group at the University of California, Berkeley in 2022. <br/>
 
-  
+    {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao) &emsp; &emsp; &emsp;{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}
 
-  <br/> <br/>
+
+  <br/> 
 
   **I'm proud to have contributed in the following projects:** <br/> 
   * **[Sentient](https://sentient.foundation/)**: A community-built Open AGI foundation via OML (Open, Monetizable, Loyal AI) ({{< staticref "uploads/OML_and_Sentient_Whitepaper.pdf" "newtab" >}}Link to OML Full Paper{{< /staticref >}}). Sentient has recently [raised an $85 million seed round](https://www.coindesk.com/business/2024/07/02/peter-thiels-founders-fund-leads-85m-seed-investment-into-open-source-ai-platform-sentient/);<br/> 
@@ -64,10 +65,9 @@ highlight_name: true
   {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao) &emsp; &emsp; &emsp;{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}
 
 
-  Besides, I'm an experienced competitive programmer with notable achievements in OI/ICPC contests (both as contestant and problem setter).
-
-  I served as the president of Yao Class Students' Congress in 2022-2023.
-  
-  I was a participant of the TV show "Super Brain" (最强大脑 in Chinese) in 2023. 
+  Besides, 
+  * I'm an experienced competitive programmer with notable achievements in OI/ICPC contests (both as contestant and problem setter).
+  * I served as the president of Yao Class Students' Congress in 2022-2023.
+  * I was a participant of the TV show "Super Brain" (最强大脑 in Chinese) in 2023. 
 
                                       
