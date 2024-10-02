@@ -24,6 +24,10 @@ content:
       icon_pack: fab
       name: Find me on Twitter by ID ZeruiCheng
       link: 'https://twitter.com/ZeruiCheng'
+    - icon: linkedin
+      icon_pack: fab
+      name: Find me on LinkedIn by ID zerui-cheng
+      link: 'https://www.linkedin.com/in/zerui-cheng/'
     - icon: weibo
       icon_pack: fab
       name: Find me on Weibo by ID ZeruiCheng
