@@ -46,7 +46,7 @@ The research paper on OML: Open, Monetizable and Loyal AI is live. I'm proud to 
 
 ###### **[Aug 2024] (personal update)**
 
-Started my one-month internship as a Quantitative Researcher at [JQ Investment](https://www.linkedin.com/company/jq-investments)! It's an entirely different experience outside my research area, and I would like to broaden my horizons through the chance. 
+Started my one-month internship as a Quantitative Researcher at [JQ Investment](https://www.linkedin.com/company/jq-investments)! 
 
 ###### **[May 2024] (personal update)**
 
