@@ -50,7 +50,6 @@ highlight_name: true
   I’m a second-year Ph.D. student advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath) at [Princeton University](https://www.princeton.edu/). I received B.Eng. in Computer Science from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at [Tsinghua University](https://tsinghua.edu/) with the honor [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) and Yao Class summa cum laude. My current research lies in the intersection of AI and blockchains, exploring interdisciplinary methods for **AI agents to interact openly, fairly, and efficiently** , with a [first-principle approach](https://en.wikipedia.org/wiki/First_principle). <br/> 
 
   During undergraduate, I worked closely with [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/index.html). I was an intern at [Prof. Fan Zhang](https://www.fanzhang.me/)'s research group at Duke University and [Prof. Dawn Song](https://dawnsong.io/)'s research group at the University of California, Berkeley in 2022. <br/>
-  <br/>
 
   {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao) &emsp; &emsp; &emsp;{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}
 
@@ -62,7 +61,7 @@ highlight_name: true
   * **[zkBridge](https://www.zkbridge.com/)**: Cross-chain bridges with zero-knowledge proofs ([Link to paper (CCS 2022)](https://dl.acm.org/doi/pdf/10.1145/3548606.3560652)). Its industrial realization, [PolyhedraZK, has a valuation of over $1 billion](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round);<br/> 
   * **[SAKSHI](https://arxiv.org/pdf/2307.16562)**: A paradigm for decentralized AI platforms via PoI (Proof-of-Inference);<br/> 
   * **[PoCW](https://arxiv.org/pdf/2211.06669)**: How to use the computation for AI model training as PoW in blockchains.<br/> 
-
+  <br/> 
 
   Besides, 
   * I'm an experienced competitive programmer with notable achievements in OI/ICPC contests (both as contestant and problem setter).
