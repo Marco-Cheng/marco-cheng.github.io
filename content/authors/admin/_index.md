@@ -27,6 +27,9 @@ social:
   - icon: twitter
     link: https://twitter.com/ZeruiCheng
     icon_pack: fab
+  - icon: linkedin
+    link: https://www.linkedin.com/in/zerui-cheng/
+    icon_pack: fab
 organizations:
   - name: Princeton University
     url: https://ece.princeton.edu/
@@ -48,6 +51,9 @@ highlight_name: true
 
   {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao) &emsp; &emsp; &emsp;{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}
   
+
+
+
   **I'm proud to have contributed in the following projects:** <br/> 
   * [Sentient](https://sentient.foundation/): A community-built Open AGI foundation via OML (Open, Monetizable, Loyal AI) ({{< staticref "uploads/OML_and_Sentient_Whitepaper.pdf" "newtab" >}}Link to OML Full Paper{{< /staticref >}}). Sentient has recently [raised an $85 million seed round](https://www.coindesk.com/business/2024/07/02/peter-thiels-founders-fund-leads-85m-seed-investment-into-open-source-ai-platform-sentient/);<br/> 
   * [zkBridge](https://www.zkbridge.com/): Cross-chain bridges made practical with state-of-the-art zero-knowledge proof protocols ([Link to Paper (ACM CCS 2022)](https://dl.acm.org/doi/pdf/10.1145/3548606.3560652)). Its industrial product, PolyhedraZK, has a valuation of over $1 billion as of Mar 2024 ([Source](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round));<br/> 
