@@ -26,5 +26,6 @@ This work is on a new primitive for AI era: OML, which stands for Open, Monetiza
 
 Here is [the website for the project](sentient.foundation).
 
- [Link to the paper](https://www.zerui-cheng.com/uploads/OML_and_Sentient_Whitepaper.pdf) 
+ [Link to the whitepaper](https://sentient-cdn.s3.amazonaws.com/whitepaper/OML_and_Sentient_Whitepaper.pdf) 
 
+ [Link to the OML research paper](https://ia.cr/2024/1573)

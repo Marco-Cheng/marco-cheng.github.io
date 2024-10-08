@@ -42,7 +42,9 @@ design:
   flip_alt_rows: false
 ---
 ###### **[Sep 2024] (paper alert)**
-The research paper on OML: Open, Monetizable and Loyal AI is live. Don't hesitate to check it out! ({{< staticref "uploads/OML_and_Sentient_Whitepaper.pdf" "newtab" >}}Link to Paper{{< /staticref >}})
+Update on Oct 8: The research paper on OML is now live on ePrint: [Link to OML research paper](https://ia.cr/2024/1573)!
+The whitepaper on OML: Open, Monetizable and Loyal AI is live. Don't hesitate to check it out! [Link to Whitepaper](https://sentient-cdn.s3.amazonaws.com/whitepaper/OML_and_Sentient_Whitepaper.pdf)
+
 
 ###### **[Aug 2024] (personal update)**
 

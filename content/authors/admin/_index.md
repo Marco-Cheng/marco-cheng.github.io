@@ -57,7 +57,7 @@ highlight_name: true
   <br/> 
 
   **Here are some spotlight projects that I contribute to:** ([Full paper list](https://www.zerui-cheng.com/#papers), [Full project list](https://www.zerui-cheng.com/#projects))<br/> 
-  * **[Sentient](https://sentient.foundation/)**: A community-built Open AGI foundation via OML (Open, Monetizable, Loyal AI) ({{< staticref "uploads/OML_and_Sentient_Whitepaper.pdf" "newtab" >}}Link to OML Full Paper{{< /staticref >}}). Sentient has recently [raised an $85 million seed round](https://www.coindesk.com/business/2024/07/02/peter-thiels-founders-fund-leads-85m-seed-investment-into-open-source-ai-platform-sentient/);<br/> 
+  * **[Sentient](https://sentient.foundation/)**: A community-built Open AGI foundation via OML (Open, Monetizable, Loyal AI) [Link to OML research paper](https://ia.cr/2024/1573). Sentient has recently [raised an $85 million seed round](https://www.coindesk.com/business/2024/07/02/peter-thiels-founders-fund-leads-85m-seed-investment-into-open-source-ai-platform-sentient/);<br/> 
   * **[zkBridge](https://www.zkbridge.com/)**: Cross-chain bridges with zero-knowledge proofs ([Link to paper (CCS 2022)](https://dl.acm.org/doi/pdf/10.1145/3548606.3560652)). Its industrial realization, [PolyhedraZK, has a valuation of over $1 billion](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round);<br/> 
   * **[SAKSHI](https://arxiv.org/pdf/2307.16562)**: A paradigm for decentralized AI platforms via PoI (Proof-of-Inference);<br/> 
   * **[PoCW](https://arxiv.org/pdf/2211.06669)**: How to use AI training/inference computation as PoW in blockchains.<br/> 
