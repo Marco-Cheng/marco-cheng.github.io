@@ -47,7 +47,7 @@ Two AI benchmark papers that I co-authored are online now! ([Paper 1: Humanity's
 
 
 ###### **[Sep 2024] (paper alert)**
-The whitepaper on OML: Open, Monetizable and Loyal AI is live. Don't hesitate to check it out! Here is the [link to Whitepaper](https://arxiv.org/pdf/2411.03887)
+The whitepaper on OML: Open, Monetizable and Loyal AI is live. Don't hesitate to check it out! Here is the [link to whitepaper](https://arxiv.org/pdf/2411.03887).
 
 
 ###### **[Aug 2024] (personal update)**
