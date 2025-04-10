@@ -32,7 +32,7 @@ social:
     icon_pack: fab
 organizations:
   - name: Princeton University
-    url: https://ece.princeton.edu/
+    url: https://www.princeton.edu/
 education:
   courses:
     - year: ""
@@ -47,25 +47,24 @@ highlight_name: true
 ---
 ## Welcome to Zerui Cheng's homepage~
 
-  I’m a second-year Ph.D. student advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath) at [Princeton University](https://www.princeton.edu/). I received B.Eng. in Computer Science from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at [Tsinghua University](https://tsinghua.edu/) with the honor [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) and Yao Class summa cum laude. My current research lies in the intersection of AI and blockchains, exploring interdisciplinary methods for **AI agents to interact openly, fairly, and efficiently** , with a [first-principle approach](https://en.wikipedia.org/wiki/First_principle). <br/> 
+I'm a second-year Ph.D. student advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath) at [Princeton University](https://www.princeton.edu/). I received B.Eng. in Computer Science from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at [Tsinghua University](https://tsinghua.edu/) with the honor [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) and Yao Class summa cum laude. My research focuses on **decentralized and community-driven AI**. I employ interdisciplinary methodologies to **ensure transparency, fairness, and traceability across the entire AI lifecycle,** from data and GPU acquisition, training and inference, to fine-tuning, agentic frameworks, and evaluation. My goal is to establish an idealistic ecosystem where everyone can contribute to AI development, with each contribution recognized and rewarded equitably. This approach aims to overcome prevalent challenges such as monopolization, competitive arms races in data and GPUs, unreliable and noisy metrics, false claim and misinformation. My research is grounded in a [first-principle approach](https://en.wikipedia.org/wiki/First_principle). `<br/>`
 
-  During undergraduate, I worked closely with [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/index.html). I was an intern at [Prof. Fan Zhang](https://www.fanzhang.me/)'s research group at Duke University and [Prof. Dawn Song](https://dawnsong.io/)'s research group at the University of California, Berkeley in 2022. <br/>
+During my undergraduate studies, I had the privilege of working closely with [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/index.html). In 2022, I was grateful to have the chance to improve my research skills as an intern with [Prof. Fan Zhang](https://www.fanzhang.me/)'s group at Duke University and [Prof. Dawn Song](https://dawnsong.io/)'s group at the University of California, Berkeley. `<br/>`
 
   {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao) &emsp; &emsp; &emsp;{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}
 
+<br/>
 
-  <br/> 
+  **Below are some highlighted projects to which I contribute. (More exciting new works are under way — stay tuned!) For a complete overview, please refer to** [Full paper list](https://www.zerui-cheng.com/#papers) and [Full project list](https://www.zerui-cheng.com/#projects)`<br/>`
 
-  **Here are some spotlight projects that I contribute to:** ([Full paper list](https://www.zerui-cheng.com/#papers), [Full project list](https://www.zerui-cheng.com/#projects))<br/> 
-  * **[Sentient](https://sentient.foundation/)**: A community-built Open AGI foundation via OML (Open, Monetizable, Loyal AI) [Link to OML research paper](https://ia.cr/2024/1573). Sentient has recently [raised an $85 million seed round](https://www.coindesk.com/business/2024/07/02/peter-thiels-founders-fund-leads-85m-seed-investment-into-open-source-ai-platform-sentient/);<br/> 
-  * **[zkBridge](https://www.zkbridge.com/)**: Cross-chain bridges with zero-knowledge proofs ([Link to paper (CCS 2022)](https://dl.acm.org/doi/pdf/10.1145/3548606.3560652)). Its industrial realization, [PolyhedraZK, has a valuation of over $1 billion](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round);<br/> 
-  * **[SAKSHI](https://arxiv.org/pdf/2307.16562)**: A paradigm for decentralized AI platforms via PoI (Proof-of-Inference);<br/> 
-  * **[PoCW](https://arxiv.org/pdf/2211.06669)**: How to use AI training/inference computation as PoW in blockchains.<br/> 
-  <br/> <br/> 
+* **[OML](https://arxiv.org/pdf/2411.03887)**: OML (Open, Monetizable, Loyal AI) model deployment scheme towards the vision of community-built AI. It is the whitepaper of [Sentient](https://sentient.xyz), a startup that has recently [raised an $85 million seed round](https://www.coindesk.com/business/2024/07/02/peter-thiels-founders-fund-leads-85m-seed-investment-into-open-source-ai-platform-sentient/);`<br/>`
+* **[zkBridge](https://arxiv.org/pdf/2210.00264)**: Cross-chain bridges with zero-knowledge proofs (Published in [ACM CCS 2022](https://dl.acm.org/doi/pdf/10.1145/3548606.3560652)). It is the whitepaper of Polyhedra Network, which has a valuation of over $1 billion](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round);`<br/>`
+* **[SAKSHI](https://arxiv.org/pdf/2307.16562)**: A paradigm for decentralized AI platforms via PoI (Proof-of-Inference);`<br/>`
+* **[PoCW](https://arxiv.org/pdf/2211.06669)**: How to use AI training/inference computation as PoW in blockchains.`<br/>`
+  `<br/>` `<br/>`
 
-  Besides, 
-  * I'm an experienced competitive programmer with notable achievements in OI/ICPC contests (both as contestant and problem setter).
-  * I served as the president of Yao Class Students' Congress in 2022-2023.
-  * I was a participant of the TV show "Super Brain" (最强大脑 in Chinese) in 2023. 
+  Besides,
 
-                                      
+* I'm an experienced competitive programmer with notable achievements in OI/ICPC contests (both as contestant and problem setter).
+* I served as the president of Yao Class Students' Congress in 2022-2023.
+* I was a participant of the TV show "Super Brain" (最强大脑 in Chinese) in 2023.

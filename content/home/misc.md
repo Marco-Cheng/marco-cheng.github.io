@@ -87,12 +87,8 @@ design:
 
 * #### AVOCATION
 
-  * Fan of NBA, Formula 1, and European Soccer. My favorite sporting stars include Stephen Curry (Golden State Warriors, NBA), Lewis Hamilton (Mercedes, F1 [will be Ferrari soon!]), Charles Leclerc (Ferrari, F1), and Marco Reus (LA Galaxy, previously BVB Dortmund). 
+  * Fan of NBA, Formula 1, and European Soccer. My favorite sporting stars include Stephen Curry (Golden State Warriors, NBA), Lewis Hamilton (Ferrari, F1), Charles Leclerc (Ferrari, F1), and Marco Reus (LA Galaxy, previously BVB Dortmund). 
   
   * Amateur yet enthusiastic player of Geoguessr and HugeQuiz (especially in geography and sports).
   
-   * Fan of stand-up comedies (including both Chinese-style cross-talk and American-style talk shows) and musicals. My favorite musicals include "Hamilton" and "Les Miserables".
-  
-  * Fan of music, especially those in musicals or in "Gu-Feng" (古风 in Chinese, means "ancient Chinese") style.
-  
-  * I am also fond of playing basketball, although I don't have strong skills and can't often win a game :(
+  * Fan of TV shows, stand-up comedies (including both Chinese-style cross-talk and American-style talk shows) and musicals. My favorite musicals include "Hamilton" and "Les Miserables".

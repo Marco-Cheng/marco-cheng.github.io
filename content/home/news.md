@@ -41,9 +41,15 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+###### **[Mar 2025] (paper alert)**
+Two AI benchmark papers that I co-authored are online now!
+[Humanity's Last Exam](https://arxiv.org/pdf/2501.14249)
+[SPIN-Bench](https://arxiv.org/pdf/2503.12349)
+
+
 ###### **[Sep 2024] (paper alert)**
-Update on Oct 8: The research paper on OML is now live on ePrint: [Link to OML research paper](https://ia.cr/2024/1573)!
-The whitepaper on OML: Open, Monetizable and Loyal AI is live. Don't hesitate to check it out! [Link to Whitepaper](https://sentient-cdn.s3.amazonaws.com/whitepaper/OML_and_Sentient_Whitepaper.pdf)
+The whitepaper on OML: Open, Monetizable and Loyal AI is live. Don't hesitate to check it out! [Link to Whitepaper](https://arxiv.org/pdf/2411.03887)
 
 
 ###### **[Aug 2024] (personal update)**
