@@ -55,13 +55,13 @@ During my undergraduate studies, I had the privilege of working closely with [Pr
 
 <br/>
 
-  **Below are some highlighted projects to which I contribute. (More exciting new works are under way — stay tuned!) For a complete overview, please refer to** [Full paper list](https://www.zerui-cheng.com/#papers) and [Full project list](https://www.zerui-cheng.com/#projects)
-
+  **Below are some highlighted projects to which I contribute. More exciting new works are under way — stay tuned! 
+  
 * **[OML](https://arxiv.org/pdf/2411.03887)**: OML (Open, Monetizable, Loyal AI) model deployment scheme towards the vision of community-built AI. It is the whitepaper of [Sentient](https://sentient.xyz), a startup that has recently [raised an $85 million seed round](https://www.coindesk.com/business/2024/07/02/peter-thiels-founders-fund-leads-85m-seed-investment-into-open-source-ai-platform-sentient/);
-* **[zkBridge](https://arxiv.org/pdf/2210.00264)**: Cross-chain bridges with zero-knowledge proofs (Published in [ACM CCS 2022](https://dl.acm.org/doi/pdf/10.1145/3548606.3560652)). It is the whitepaper of Polyhedra Network, which has a valuation of over $1 billion](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round);
+* **[zkBridge](https://arxiv.org/pdf/2210.00264)**: Cross-chain bridges with zero-knowledge proofs (Published in [ACM CCS 2022](https://dl.acm.org/doi/pdf/10.1145/3548606.3560652)). It is the whitepaper of Polyhedra Network, which [has a valuation of over $1 billion](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round);
 * **[SAKSHI](https://arxiv.org/pdf/2307.16562)**: A paradigm for decentralized AI platforms via PoI (Proof-of-Inference);
 * **[PoCW](https://arxiv.org/pdf/2211.06669)**: How to use AI training/inference computation as PoW in blockchains.
-  `<br/>` `<br/>`
+  <br/>
 
   Besides,
 
