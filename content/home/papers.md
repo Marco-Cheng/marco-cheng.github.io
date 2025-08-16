@@ -55,7 +55,7 @@ design:
   - Trustless cross-chain bridges using zero-knowledge proofs
   - Foundation for [Polyhedra Network](https://polyhedra.network/) (valued at [$1 billion](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round))
 
-### Recent Benchmarking Contributions
+### Recent Papers on AI Evaluation
 
 * **[LiveCodeBench Pro](https://arxiv.org/pdf/2506.11928)** (2025) - Comprehensive, hard, and contamination-free code generation benchmark
 * **[SPIN-Bench](https://arxiv.org/abs/2503.12349)** (COLM 2025) - Strategic planning & social reasoning for LLMs
@@ -64,5 +64,5 @@ design:
 
 ### Decentralized AI Platforms
 
-* **[SAKSHI](https://arxiv.org/pdf/2307.16562)** - Proof-of-Inference for decentralized AI
-* **[PoCW](https://arxiv.org/pdf/2211.06669)** - AI computation as Proof-of-Work
+* **[Sakshi](https://arxiv.org/pdf/2307.16562)** (2023) - Proof-of-Inference for decentralized AI
+* **[PoCW](https://arxiv.org/pdf/2211.06669)** (APNET 2023) - AI computation as Proof-of-Work in blockchains
