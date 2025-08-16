@@ -54,7 +54,7 @@ Two AI benchmark papers that I co-authored are online now! Check them out!
 
 ###### **[Jun 2025] (talk)**
 
-- Gave an online talk on OML at [Bethge Lab](https://bethgelab.org/) of the University of Tubingen hosted by [Prof. Matthias Bethge](https://scholar.google.com/citations?user=0z0fNxUAAAAJ&hl=en)!
+- Gave an online talk on OML at [Bethge Lab](https://bethgelab.org/) of the University of Tübingen hosted by [Prof. Matthias Bethge](https://scholar.google.com/citations?user=0z0fNxUAAAAJ&hl=en)!
 
 ###### **[May 2025] (personal update)**
 
