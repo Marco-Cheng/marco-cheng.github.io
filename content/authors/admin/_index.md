@@ -1,10 +1,10 @@
 ---
 title: Zerui Cheng (程泽瑞)
-role: Ph.D. Candidate at Princeton ECE | AI & Blockchain Researcher
+role: Ph.D. Candidate at Princeton, B.Eng from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), Tsinghua
 
 avatar_filename: avatar.jpg
 
-bio: "Building the future of decentralized AI systems with cryptographic guarantees"
+bio: " "
 
 interests:
   - Large Language Models & Code Generation
@@ -25,59 +25,52 @@ social:
       header: true
     icon: github
     icon_pack: fab
-    link: https://github.com/zeruich
+    link: https://github.com/Marco-Cheng
   - icon: twitter
     link: https://twitter.com/ZeruiCheng
     icon_pack: fab
   - icon: linkedin
     link: https://www.linkedin.com/in/zerui-cheng/
     icon_pack: fab
-
 organizations:
   - name: Princeton University
     url: https://www.princeton.edu/
-  - name: ByteDance Research
-    url: https://www.bytedance.com/
-
 education:
   courses:
-    - year: "2023 - 2028"
-      course: Ph.D. in Electrical and Computer Engineering
-      institution: Princeton University (GPA: 4.00/4.00)
+    - year: "2023 - now"
+      course: Ph.D. student, GPA 4.00/4.00
+      institution: Electrical and Computer Engineering, Princeton University
     - year: "2019 - 2023"
-      course: B.Eng. in Computer Science, summa cum laude
-      institution: Yao Class, Tsinghua University (GPA: 3.91/4.00)
-
-email: zerui.cheng@princeton.edu
+      course: B.Eng. in Computer Science, summa cum laude, GPA 3.91/4.00
+      institution: Yao Class, the Insititute for Interdisciplinary Information Sciences (IIIS), Tsinghua University
+email: marco.cheng712@gmail.com
 superuser: true
 highlight_name: true
 ---
+## Hi there, I'm Zerui Cheng (in Chinese：程泽瑞)~ Welcome~
 
-## Welcome! I'm Zerui Cheng (程泽瑞)
+I'm a Ph.D. candidate at [Princeton University](https://www.princeton.edu/) advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath), and will be a part-time student researcher at [ByteDance Seed Team](https://seed.bytedance.com/en/) starting Sep 2025. I obtained my B.Eng. in Computer Science from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at [Tsinghua University](https://tsinghua.edu/) with the honor [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) and Yao Class summa cum laude. `<br/>`
 
-I'm a Ph.D. candidate at [Princeton University](https://www.princeton.edu/) advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath), and a part-time student researcher at [ByteDance](https://www.bytedance.com/) working on LLMs and code generation. I graduated from the prestigious [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at Tsinghua University with the highest honors: **[Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html)** (top 10% of class) and **summa cum laude**.
+I do research in AI (evaluation and deployment) and blockchains, with the goal of bringing fairness and transparency with the power of technology, especially in the AI era today. I believe in research that has real-world impact, and my research has contributed to the whitepapers of the following startups: [Sentient](https://sentient.foundation/research), [Kite AI](https://gokite.ai/), and [PolyHedra](https://polyhedra.network/research/).
 
-My research lies at the intersection of **AI and blockchain systems**, focusing on building decentralized, transparent, and fair AI platforms. I'm passionate about ensuring AI development benefits the entire community through cryptographic guarantees and blockchain technology.
+To learn more about me: 
+  {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao) &emsp; &emsp; &emsp;{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}
 
-{{< icon name="graduation-cap" pack="fas" >}} [Google Scholar](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en) &emsp; {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}Full CV{{< /staticref >}} &emsp; {{< icon name="trophy" pack="fas" >}} [Competitive Programming](#competitions)
-
----
-
-## 🚀 Featured Research & Impact
+<br/>
 
 ### Major Projects with Real-World Impact
 
-* **[OML: Open, Monetizable, Loyal AI](https://arxiv.org/pdf/2411.03887)** (First Author, 2024)
+* **[OML: Open, Monetizable, Loyal AI](https://arxiv.org/pdf/2411.03887)** (AI deployment with blockchains)
   - Whitepaper for [Sentient](https://sentient.xyz), which raised [$85M seed funding](https://www.coindesk.com/business/2024/07/02/peter-thiels-founders-fund-leads-85m-seed-investment-into-open-source-ai-platform-sentient/)
   - **Featured at Citadel Securities PhD Summit 2025**
   - **Invited talk at University of Tübingen**
   - Pioneering AI-native cryptography for IP protection
 
-* **[zkBridge](https://arxiv.org/pdf/2210.00264)** (ACM CCS 2022)
+* **[zkBridge](https://arxiv.org/pdf/2210.00264)** (Cross-chain operations backed by cryptography, ACM CCS 2022)
   - Trustless cross-chain bridges using zero-knowledge proofs
-  - Foundation for [Polyhedra Network](https://polyhedra.network/) (valued at [$1 billion](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round))
+  - Foundation of [Polyhedra Network](https://polyhedra.network/) (valued at [$1 billion](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round))
 
-### Recent Benchmarking Contributions
+### Recent AI Benchmarking Contributions
 
 * **[LiveCodeBench Pro](https://wenhaochai.com/livecodebenchpro/)** (2025) - Comprehensive code generation benchmark
 * **[SPIN-Bench](https://arxiv.org/abs/2503.12349)** (COLM 2025) - Strategic planning & social reasoning for LLMs
@@ -89,63 +82,9 @@ My research lies at the intersection of **AI and blockchain systems**, focusing 
 * **[SAKSHI](https://arxiv.org/pdf/2307.16562)** - Proof-of-Inference for decentralized AI
 * **[PoCW](https://arxiv.org/pdf/2211.06669)** - AI computation as Proof-of-Work
 
----
 
-## 🏆 Competitive Programming Excellence
+Besides,
 
-I'm an internationally recognized competitive programmer with achievements spanning from high school to graduate level:
-
-### Recent Highlights
-- **26th Place**, ICPC North America Championship 2025
-- **4th Place**, ICPC Greater New York Regional 2024 (qualified team for NAC)
-- **93rd worldwide** (top 0.4%), Meta HackerCup 2024
-- **$3,000 prize** for first solutions at ICPC NAC 2024
-
-### Problem Setting
-- **Problem Setter**, National Olympiad in Informatics of China (NOI 2021)
-  - My problem was **voted best in the entire contest**
-
-[View all competition achievements →](#full-competitions)
-
----
-
-## 💼 Industry Experience
-
-- **ByteDance** - Student Researcher (2024-present)
-- **Kite AI** - Researcher & Whitepaper Co-author (2025-present)
-- **Sentient Foundation** - AI Fellow (2024)
-- **JQ Investment** - Quantitative Research Intern (2024)
-- **Polyhedra Network** - Research Intern (2022)
-
----
-
-## 🎓 Teaching & Service
-
-### Teaching
-- **Head TA**, Princeton COS/ECE 470: Principles of Blockchains (2024-2025)
-  - Redesigned final project combining blockchain & AI
-  - Managing 80+ students
-
-### Academic Service
-- Reviewer: IEEE/ACM Transactions on Networking (2025)
-- Reviewer: IEEE Journal on Selected Areas in Communications (2022)
-
-### Leadership
-- **President**, Yao Class Students' Congress, Tsinghua University (2022-2023)
-- Connected students with leading tech companies and VCs
-
----
-
-## 📺 Beyond Research
-
-- **TV Personality**: Participant on "Super Brain" (最强大脑), China's premier intellectual competition show (2023)
-  - Selected as one of Top 50 contestants nationwide
-- **Mentor**: Coached high school students for Olympiad in Informatics (2019-2021)
-
----
-
-## 📫 Contact
-
-Feel free to reach out for research collaborations, speaking opportunities, or general discussions about AI and blockchain!
-
-Email: zerui.cheng@princeton.edu
+* I'm an experienced competitive programmer with notable achievements in OI/ICPC contests (both as contestant and problem setter).
+* I served as the president of Yao Class Students' Congress in 2022-2023.
+* I was a participant of the TV show "Super Brain" (最强大脑 in Chinese) in 2023.
