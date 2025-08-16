@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 55
 
-title: Research
+title: Papers
 subtitle: ''
 
 content:
@@ -40,13 +40,11 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-* For most recent updates, please refer to [my Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao).
-
-## Featured Research & Impact
+* For most recent updates, please refer to [my Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao). Here are some selected publications.
 
 ### Major Projects with Real-World Impact
 
-* **[OML: Open, Monetizable, Loyal AI](https://arxiv.org/pdf/2411.03887)** (First Author, 2024)
+* **[OML: Open, Monetizable, Loyal AI](https://arxiv.org/pdf/2411.03887)** (2024)
 
   - Whitepaper for [Sentient](https://sentient.xyz), which raised [$85M seed funding](https://www.coindesk.com/business/2024/07/02/peter-thiels-founders-fund-leads-85m-seed-investment-into-open-source-ai-platform-sentient/)
   - **Featured at Citadel Securities PhD Summit 2025**
@@ -59,10 +57,10 @@ design:
 
 ### Recent Benchmarking Contributions
 
-* **[LiveCodeBench Pro](https://wenhaochai.com/livecodebenchpro/)** (2025) - Comprehensive code generation benchmark
+* **[LiveCodeBench Pro](https://arxiv.org/pdf/2506.11928)** (2025) - Comprehensive, hard, and contamination-free code generation benchmark
 * **[SPIN-Bench](https://arxiv.org/abs/2503.12349)** (COLM 2025) - Strategic planning & social reasoning for LLMs
-* **[PeerBench](https://github.com/PeerBench)** (2025) - Academic peer review evaluation
-* **[Humanity&#39;s Last Exam](https://arxiv.org/abs/2501.14249)** (2025) - Ultimate test for AI capabilities
+* **[PeerBench](https://github.com/PeerBench)** (2025) - New paradigm for AI evaluation based on peer review
+* **[Humanity's Last Exam](https://arxiv.org/abs/2501.14249)** (2025) - Ultimate test for AI capabilities
 
 ### Decentralized AI Platforms
 
