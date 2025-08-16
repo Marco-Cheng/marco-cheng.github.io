@@ -49,7 +49,8 @@ design:
 ###### **[Jun 2025] (papers)**
 
 Two AI benchmark papers that I co-authored are online now! Check them out!
-- [Paper 1: LiveCodeBench Pro](https://arxiv.org/pdf/2506.11928): Hard and contamination-free code generation benchmark; Covered by MIT Tech Review; Has already accumulated more than 1 million views on X;
+
+- [Paper 1: LiveCodeBench Pro](https://arxiv.org/pdf/2506.11928): Hard and contamination-free code generation benchmark which is covered by MIT Tech Review and has already accumulated more than 1 million views on X;
 - [Paper 2: PeerBench](https://digitalcommons.odu.edu/cgi/viewcontent.cgi?article=1384&context=computerscience_fac_pubs): A new paradigm for AI benchmarking towards better openness and fairness;
 
 ###### **[Jun 2025] (talk)**
@@ -67,7 +68,8 @@ Two AI benchmark papers that I co-authored are online now! Check them out!
 
 ###### **[Mar 2025] (papers)**
 
-- Two AI benchmark papers that I co-authored are online now! Check them out!
+ Two AI benchmark papers that I co-authored are online now! Check them out!
+
 - [Paper 1: SPIN-Bench](https://arxiv.org/pdf/2503.12349): LLM reasoning and planning; Accepted to COLM 2025;
 - [Paper 2: Humanity's Last Exam](https://arxiv.org/pdf/2501.14249): Ultimate test for AI capabilities;
 

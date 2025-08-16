@@ -40,7 +40,7 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-* For most recent updates, please refer to [my Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao). Here are some selected publications.
+For most recent updates, please refer to [my Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao). Here are some selected publications.
 
 ### Major Projects with Real-World Impact
 
@@ -53,11 +53,15 @@ design:
 * **[zkBridge](https://arxiv.org/pdf/2210.00264)** (ACM CCS 2022)
 
   - Trustless cross-chain bridges using zero-knowledge proofs
-  - Foundation for [Polyhedra Network](https://polyhedra.network/) (valued at [$1 billion](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round))
+  - Foundation for [Polyhedra Network](https://polyhedra.network/) (valued at [$1 billion](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round) by the end of 2024)
 
 ### Recent Papers on AI Evaluation
 
 * **[LiveCodeBench Pro](https://arxiv.org/pdf/2506.11928)** (2025) - Comprehensive, hard, and contamination-free code generation benchmark
+
+  - Featured in [MIT Technology Review](https://www.technologyreview.com/2025/06/24/1119187/fix-ai-evaluation-crisis/) on Jun 24, 2025;
+  - Accumulated over 1 million views on X;
+  - Invited talks at [OpenAGI Symposium](https://openagi.xyz/symposium) and [AI4Science Community at AlphaXiv](https://lu.ma/v45b9ltc?tk=4HvaMr);
 * **[SPIN-Bench](https://arxiv.org/abs/2503.12349)** (COLM 2025) - Strategic planning & social reasoning for LLMs
 * **[PeerBench](https://github.com/PeerBench)** (2025) - New paradigm for AI evaluation based on peer review
 * **[Humanity's Last Exam](https://arxiv.org/abs/2501.14249)** (2025) - Ultimate test for AI capabilities
