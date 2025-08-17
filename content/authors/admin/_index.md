@@ -54,7 +54,7 @@ My research interests lie at the intersection of **AI evaluation, deployment, an
 
 Beyond research, I am an avid competitive programmer and a member of [the Competitive Programming Hall of Fame](https://cphof.org/). I previously served as President of the Yao Class Students’ Congress and was a contestant on the TV show "Super Brain Season 10" (最强大脑).
 
-** I'm always open to new research and industry collaborations. Feel free to {{< staticref "contact" "newtab" >}}contact me{{< /staticref >} and chat! **
+** I'm always open to new research and industry collaborations. Feel free to {{< staticref "contact" "newtab" >}}contact me{{< /staticref >}} and chat! **
 
   {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao) &emsp; &emsp; &emsp;{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}
 
