@@ -50,7 +50,7 @@ highlight_name: true
 
 I am a Ph.D. candidate at [Princeton University](https://www.princeton.edu/) advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath). Starting Sep 2025, I will also be a part-time student researcher at [ByteDance Seed](https://seed.bytedance.com/en/). Before Princeton, I completed my B.Eng. in Computer Science from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at [Tsinghua](https://tsinghua.edu/), graduating summa cum laude and earning the prestigious [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html).
 
-My research interests lie at the intersection of **AI evaluation, deployment, and blockchains**. I aim to leverage technology to promote fairness and transparency in the AI era, with a strong focus on real-world impact. My work has contributed to whitepapers for high-profile startups including [Sentient](https://sentient.foundation/research), [Kite AI](https://gokite.ai/), and [PolyHedra](https://polyhedra.network/research/).
+My research interests lie at the intersection of **AI evaluation, deployment, and blockchains**. I aim to leverage technology to promote fairness and transparency in the AI era, with a strong focus on real-world impact. My work has contributed to high-profile startups including [Sentient](https://sentient.foundation/research), [Kite AI](https://gokite.ai/), and [PolyHedra](https://polyhedra.network/research/).
 
 Beyond research, I am an avid competitive programmer and a member of [the Competitive Programming Hall of Fame](https://cphof.org/). I previously served as President of the Yao Class Students’ Congress and was a contestant on the TV show "Super Brain Season 10" (最强大脑).
 
