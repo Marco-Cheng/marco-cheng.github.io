@@ -47,12 +47,12 @@ Several papers that I contributed to are online now, and will be presented in di
 
 First-author papers:
 
-- [Paper 1: PeerBench Paradigm](https://arxiv.org/pdf/2510.07575): We analyze the systematic challenges faced by AI benchmark paradigm today—data contamination, collusion, overfitting, etc, and propose PeerBench, a novel mechanism based on community contribution and reputation to reliably and efficiently measure data quality and build fair leaderboards. Our vision is to return AI evaluation to its role as a public good, aligning tech development with all humanity's needs, not just those of a few giants. [Aceepted to NeurIPS 2025]
+- [Paper 1: PeerBench Paradigm](https://arxiv.org/pdf/2510.07575): We analyze the systematic challenges faced by AI benchmark paradigm today—data contamination, collusion, overfitting, etc, and propose PeerBench, a novel mechanism based on community contribution and reputation to reliably and efficiently measure data quality and build fair leaderboards. Our vision is to return AI evaluation to its role as a public good, aligning tech development with all humanity's needs, not just those of a few giants. [Accepted to NeurIPS 2025]
 - [Paper 2: OML Primitive](https://arxiv.org/pdf/2411.03887v4): Are openness and commercial value mutually exclusive? In this paper, we go one step further than the original OML whitepaper of Sentient last year. We formalize the OML framework, exploring a path where models are open-access, but technical safeguards prevent misuse. OML offers a blueprint for sustainable, open AI governance and operation of next-gen AI. [Accepted to NeurIPS 2025 Lock-LLM]
 
 Co-first-author papers:
 
-- [Paper 3: CAIA (Crypto AI Agent Benchmark)](https://arxiv.org/pdf/2510.00332): The first AI agent benchmark in crypto and web3. Our results show that models aren't yet reliable in this high-stakes, high-misinformation adversarial domain, and there is a giant gap to an ideal world where we can let AI reliably control users' wallets and manage real funds without risks. [Aceepted to ICAIF 2025 AI4F, AI-R2D2]
+- [Paper 3: CAIA (Crypto AI Agent Benchmark)](https://arxiv.org/pdf/2510.00332): The first AI agent benchmark in crypto and web3. Our results show that models aren't yet reliable in this high-stakes, high-misinformation adversarial domain, and there is a giant gap to an ideal world where we can let AI reliably control users' wallets and manage real funds without risks. [Accepted to ICAIF 2025 AI4F, AI-R2D2]
 - [Paper 4: AutoCode](https://arxiv.org/pdf/2510.12803):  The follow-up work to LiveCodeBench Pro crafted by [the LiveCodeBench Pro dream team](https://livecodebenchpro.com/). We create a robust and efficient AI system that auto-generates coding problems to solve the data scarcity bottleneck.
 
 Co-author papers:
