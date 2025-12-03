@@ -44,7 +44,7 @@ For most recent updates, please refer to [my Google Scholar profile](https://sch
 
 ### Major Projects with Real-World Impact
 
-* **[OML: Open, Monetizable, Loyal AI](https://arxiv.org/pdf/2411.03887)** (2024)
+* **[OML: Open, Monetizable, Loyal AI](https://arxiv.org/pdf/2411.03887)** (2024, NeurIPS 2025 Lock-LLM)
 
   - Whitepaper for [Sentient](https://sentient.xyz), which raised [$85M seed funding](https://www.coindesk.com/business/2024/07/02/peter-thiels-founders-fund-leads-85m-seed-investment-into-open-source-ai-platform-sentient/)
   - **Featured at Citadel Securities PhD Summit 2025**
@@ -57,13 +57,13 @@ For most recent updates, please refer to [my Google Scholar profile](https://sch
 
 ### Recent Papers on AI Evaluation
 
-* **[LiveCodeBench Pro](https://arxiv.org/pdf/2506.11928)** (2025) - Comprehensive, hard, and contamination-free code generation benchmark
+* **[LiveCodeBench Pro](https://arxiv.org/pdf/2506.11928)** (NeurIPS 2025) - Comprehensive, hard, and contamination-free code generation benchmark
 
   - Featured in [MIT Technology Review](https://www.technologyreview.com/2025/06/24/1119187/fix-ai-evaluation-crisis/) on Jun 24, 2025;
   - Accumulated over 1 million views on X;
   - Invited talks at [OpenAGI Symposium](https://openagi.xyz/symposium) and [AI4Science Community at AlphaXiv](https://lu.ma/v45b9ltc?tk=4HvaMr);
 * **[SPIN-Bench](https://arxiv.org/abs/2503.12349)** (COLM 2025) - Strategic planning & social reasoning for LLMs
-* **[PeerBench](https://github.com/PeerBench)** (2025) - New paradigm for AI evaluation based on peer review
+* **[PeerBench](https://github.com/PeerBench)** (NeurIPS 2025) - New paradigm for AI evaluation based on peer review
 * **[Humanity's Last Exam](https://arxiv.org/abs/2501.14249)** (2025) - Ultimate test for AI capabilities
 
 ### Decentralized AI Platforms
