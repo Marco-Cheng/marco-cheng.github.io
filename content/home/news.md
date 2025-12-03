@@ -41,6 +41,14 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+###### **[Dec 2025] (talk)**
+
+- Dec 4: Will give a talk on "Open-Source AI for Competitive Programming" at the OpenAGI Symposium at NeurIPS! Looking forward to seeing you there!
+
+###### **[Dec 2025] (acceptance notification)**
+
+[CAIA (Crypto AI Agent Benchmark)](https://arxiv.org/pdf/2510.00332) gets accepted and selected for **oral presentation** (top 10%) to AAAI'26 Workshop on Agentic AI in Financial Services! 
+
 ###### **[Oct 2025] (papers and acceptance notifications)**
 
 Several papers that I contributed to are online now, and will be presented in different venues in the near future!
@@ -52,7 +60,7 @@ First-author papers:
 
 Co-first-author papers:
 
-- [Paper 3: CAIA (Crypto AI Agent Benchmark)](https://arxiv.org/pdf/2510.00332): The first AI agent benchmark in crypto and web3. Our results show that models aren't yet reliable in this high-stakes, high-misinformation adversarial domain, and there is a giant gap to an ideal world where we can let AI reliably control users' wallets and manage real funds without risks. [Accepted to ICAIF 2025 AI4F, AI-R2D2]
+- [Paper 3: CAIA (Crypto AI Agent Benchmark)](https://arxiv.org/pdf/2510.00332): The first AI agent benchmark in crypto and web3. Our results show that models aren't yet reliable in this high-stakes, high-misinformation adversarial domain, and there is a giant gap to an ideal world where we can let AI reliably control users' wallets and manage real funds without risks. [Accepted to ICAIF 2025 AI4F (poster), AI-R2D2 (oral)]
 - [Paper 4: AutoCode](https://arxiv.org/pdf/2510.12803):  The follow-up work to LiveCodeBench Pro crafted by [the LiveCodeBench Pro dream team](https://livecodebenchpro.com/). We create a robust and efficient AI system that auto-generates coding problems to solve the data scarcity bottleneck.
 
 Co-author papers:
