@@ -43,11 +43,11 @@ design:
 ---
 ###### **[Dec 2025] (talk)**
 
-- Dec 4: Will give a talk on "Open-Source AI for Competitive Programming" at the OpenAGI Symposium at NeurIPS! Looking forward to seeing you there!
+- Dec 4: Will give a talk on "Open-Source AI for Competitive Programming" at the OpenAGI Symposium at NeurIPS! [Ticket here](https://luma.com/3wy9hhmm)
 
 ###### **[Dec 2025] (acceptance notification)**
 
-[CAIA (Crypto AI Agent Benchmark)](https://arxiv.org/pdf/2510.00332) gets accepted and selected for **oral presentation** (top 10%) to AAAI'26 Workshop on Agentic AI in Financial Services! 
+[CAIA](https://arxiv.org/pdf/2510.00332) gets accepted and selected for **oral presentation** (top 10%) to AAAI26 AI4Finance! 
 
 ###### **[Oct 2025] (papers and acceptance notifications)**
 
