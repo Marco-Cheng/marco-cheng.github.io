@@ -41,6 +41,13 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+###### **[Dec 2025] (project updates)**
+The official websites of 2 projects accepted to NeurIPS 2025 are live now! Don't hesitate to check them out!
+
+- [Website of PeerBench Platform](https://peerbench.ai):  The platform built upon [the NeurIPS paper](https://arxiv.org/pdf/2510.07575) is live! Everyone is welcome to sign up, join the community, collectively define what is real progress in AI, and shape the future of AI evaluation!
+
+- [LiveCodeBench Pro Team Website](https://livecodebenchpro.com): The official website of LiveCodeBench Pro Team. Check it out for the latest updates on LiveCodeBench Pro, AutoCode, and many more exciting projects delivered by our team!
+
 ###### **[Dec 2025] (talk)**
 
 - Dec 4: Will give a talk on "Open-Source AI for Competitive Programming" at the OpenAGI Symposium at NeurIPS! [Ticket here](https://luma.com/3wy9hhmm)
