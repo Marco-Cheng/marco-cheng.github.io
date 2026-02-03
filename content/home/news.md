@@ -41,6 +41,17 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+###### **[Jan 2026] (paper acceptance)**
+
+Three papers are accepted in various venues this month!
+
+- One paper ([HLE](https://www.nature.com/articles/s41586-025-09962-4)) accepted to Nature!
+
+- One paper ([DeML](https://arxiv.org/pdf/2510.16028)) accepted to EuroSys 2026!
+
+- One paper ([AutoCode](https://arxiv.org/pdf/2510.12803)) accepted to ICLR 2026!
+
+
 ###### **[Dec 2025] (project updates)**
 The official websites of 2 projects accepted to NeurIPS 2025 are live now! Don't hesitate to check them out!
 
