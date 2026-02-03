@@ -48,12 +48,9 @@ highlight_name: true
 ---
 ## Hi there, I'm Zerui Cheng (in Chinese：程泽瑞)~
 
-I am a Ph.D. candidate at [Princeton University](https://www.princeton.edu/) advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath). I am also a part-time student researcher at [ByteDance Seed](https://seed.bytedance.com/en/) mentored by [Dr. Jiashuo Liu](https://ljsthu.github.io/).  Before Princeton, I completed my B.Eng. in Computer Science from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at [Tsinghua](https://tsinghua.edu/), graduating summa cum laude and earning the prestigious [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html).
+I am a Ph.D. candidate at [Princeton University](https://www.princeton.edu/) advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath). I was a part-time student researcher at [ByteDance Seed](https://seed.bytedance.com/en/) mentored by [Dr. Jiashuo Liu](https://ljsthu.github.io/).  Before Princeton, I completed my B.Eng. in Computer Science from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at [Tsinghua](https://tsinghua.edu/), graduating summa cum laude and earning the prestigious [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html).
 
-My research interests are primarily centered around **data, evaluation, mechanism design, and blockchains**, with the goal of promoting fairness and transparency in AI era and **a strong focus on real-world impact**. My research has contributed to high-profile startups:
- - [Sentient](https://sentient.xyz) ($85M raised in seed funding, whitepaper ([OML primitive](https://sentient-cdn.s3.amazonaws.com/whitepaper/OML_and_Sentient_Whitepaper-22.pdf)) first author);
- - [Kite AI](https://gokite.ai/) ($33M raised after Series A, whitepaper ([agentic payment](https://gokite.ai/kite-whitepaper)) second author);
- - [PolyHedra](https://polyhedra.network/research/) (over $1B valuation, whitepaper ([zkBridge](https://dl.acm.org/doi/pdf/10.1145/3548606.3560652)) third author).
+My research interests are primarily centered around **data, evaluation, mechanism design, and blockchains**, with the goal of promoting fairness and transparency in AI era and **a strong focus on real-world impact**. My research has been featured in various venues including **Nature, NeurIPS, ICLR, CCS,  EuroSys**, etc., and has contributed to the technical whitepapers of high-profile startups including [Sentient](https://sentient.xyz), [Kite AI](https://gokite.ai/), and [PolyHedra](https://polyhedra.network).
 
 Beyond research, I am a member of [the Competitive Programming Hall of Fame](https://cphof.org/). I served as the **President of the Yao Class Students’ Congress** during undergraduate; and I was once a contestant on the TV show "Super Brain" (江苏卫视“最强大脑第10季”).
 

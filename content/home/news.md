@@ -42,7 +42,6 @@ design:
   flip_alt_rows: false
 ---
 ###### **[Jan 2026] (paper acceptance)**
-
 Three papers are accepted in various venues this month!
 
 - One paper ([HLE](https://www.nature.com/articles/s41586-025-09962-4)) accepted to Nature!
