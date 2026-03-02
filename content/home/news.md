@@ -41,6 +41,13 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+###### **[Jan 2026] (new papers)**
+Two first-authored papers done at ByteDance Seed are online now!
+
+- [VeRA: Verified Reasoning Data Augmentation at Scale](https://arxiv.org/pdf/2602.13217)
+
+- [TabularMath: Evaluating Computational Extrapolation in Tabular Learning via Program-Verified Synthesis](https://arxiv.org/pdf/2602.02523)
+
 ###### **[Jan 2026] (paper acceptance)**
 Three papers are accepted in various venues this month!
 
