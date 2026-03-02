@@ -41,7 +41,7 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-###### **[Jan 2026] (new papers)**
+###### **[Feb 2026] (new papers)**
 Two first-authored papers done at ByteDance Seed are online now!
 
 - [VeRA: Verified Reasoning Data Augmentation at Scale](https://arxiv.org/pdf/2602.13217)
