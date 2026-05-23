@@ -66,7 +66,7 @@ My research has been featured in venues including **Nature, NeurIPS, ICLR, ICML,
 
 ### Beyond the Lab
 
-Beyond research, I am a member of [the Competitive Programming Hall of Fame](https://cphof.org/). I served as the **President of the Yao Class Students’ Congress** during my undergraduate years, and I was once a contestant on the TV show *Super Brain* (江苏卫视《最强大脑》第10季).
+Beyond research, I am a member of [the Competitive Programming Hall of Fame](https://cphof.org/profile/ucup:Zerui%20Cheng). I served as the **President of the Yao Class Students’ Congress** during my undergraduate years, and I was once a contestant on the TV show *Super Brain* (江苏卫视《最强大脑》第10季).
 
 ### Let’s Collaborate
 
