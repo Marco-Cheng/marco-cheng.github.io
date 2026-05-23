@@ -1,6 +1,6 @@
 ---
 title: Zerui Cheng (程泽瑞)
-role: Ph.D. Candidate at Princeton Univ., AI and Blockchain Researcher
+role: Ph.D. Candidate at Princeton Univ., AI Researcher
 avatar_filename: avatar.jpg
 
 bio: " "
