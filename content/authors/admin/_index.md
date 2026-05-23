@@ -50,9 +50,9 @@ highlight_name: true
 
 Hi there, I'm Zerui Cheng (程泽瑞), a Ph.D. candidate at [Princeton University](https://www.princeton.edu/) advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath). I was a student researcher at [ByteDance Seed](https://seed.bytedance.com/en/) (contributor to Seed 2.0 Pro) and [Tencent Hunyuan](https://hunyuan.tencent.com/) (contributor to Hy3 Preview). Before Princeton, I completed my B.Eng. in Computer Science from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at [Tsinghua University](https://tsinghua.edu/), graduating summa cum laude and receiving the prestigious [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html).
 
-My research focuses on **LLM evaluation** and **synthetic data**, two areas that I believe are central to the next major leap in AI which features self-evolving agents for long-horizon tasks.
+My research focuses on **evaluation of LLMs and agents** and **synthetic data**, two areas that I believe are central to the next major leap in AI which features **self evolving agents for long horizon tasks**. 
 
-### LLM Evaluation: Measuring What Matters
+### Evaluation of LLMs and Agents: Measuring What Matters
 
 LLM evaluation is critical for two reasons. First, for frontier AI labs, **evaluation defines and formalizes the tasks, goals, and benchmarks that guide the direction of AI progress**. Second, for the broader public, it helps users **understand which models are best suited for different use cases**. At its core, the philosophy of LLM evaluation concerns how we define tasks, goals, and rubrics, as well as how we ensure that evaluation results and leaderboards are unbiased, robust, and trustworthy.
 
