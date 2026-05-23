@@ -50,7 +50,7 @@ highlight_name: true
 
 Hi there, I'm Zerui Cheng (程泽瑞), a Ph.D. candidate at [Princeton University](https://www.princeton.edu/) advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath). I was a student researcher at [ByteDance Seed](https://seed.bytedance.com/en/) (contributor to Seed 2.0 Pro) and [Tencent Hunyuan](https://hunyuan.tencent.com/) (contributor to Hy3 Preview). Before Princeton, I completed my B.Eng. in Computer Science from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at [Tsinghua University](https://tsinghua.edu/), graduating summa cum laude and receiving the prestigious [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html).
 
-My research focuses on **Evaluation of LLMs and Agents** and **Synthetic Data**, two areas that I believe are central to building **self-evolving agents for long-horizon tasks** towards the next major leap in AI. 
+My research focuses on **Evaluation of LLMs and Agents** and **Synthetic Data**, two areas that I believe are foundational to the goal of **self-evolving agents for long-horizon tasks**. 
 
 ### Evaluation of LLMs and Agents: Measuring What Matters
 
