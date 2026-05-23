@@ -48,9 +48,15 @@ highlight_name: true
 ---
 ## Hi there, I'm Zerui Cheng (in Chinese：程泽瑞)~
 
-I am a Ph.D. candidate at [Princeton University](https://www.princeton.edu/) advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath). I was a part-time student researcher at [ByteDance Seed](https://seed.bytedance.com/en/) mentored by [Dr. Jiashuo Liu](https://ljsthu.github.io/).  Before Princeton, I completed my B.Eng. in Computer Science from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at [Tsinghua](https://tsinghua.edu/), graduating summa cum laude and earning the prestigious [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html).
+I am a Ph.D. candidate at [Princeton University](https://www.princeton.edu/) advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath). I was a student researcher at [ByteDance Seed](https://seed.bytedance.com/en/) (contributor of Seed 2.0 Pro) and [Tencent Hy](https://hunyuan.tencent.com/) (contributor of Hy3 Preview).  Before Princeton, I completed my B.Eng. in Computer Science from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at [Tsinghua](https://tsinghua.edu/), graduating summa cum laude and earning the prestigious [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html).
 
-My research interests are primarily centered around **data, evaluation, mechanism design, and blockchains**, with the goal of promoting fairness and transparency in AI era and **a strong focus on real-world impact**. My research has been featured in various venues including **Nature, NeurIPS, ICLR, CCS,  EuroSys**, etc., and has contributed to the technical whitepapers of high-profile startups including [Sentient](https://sentient.xyz), [Kite AI](https://gokite.ai/), and [PolyHedra](https://polyhedra.network).
+My research is primarily centered on **LLM evaluation and synthetic data**, two areas that I believe are among the most important drivers of the next major leap in AI.
+
+- LLM evaluation is critical for two reasons. First, for frontier AI labs, **evaluation defines and formalizes the tasks, goals, and benchmarks that guide the direction of AI progress**. Second, for the broader public, it helps users **understand which models are best suited for different use cases**. At its core, the philosophy of LLM evaluation concerns how we define tasks, goals, and rubrics, as well as how we ensure that evaluation results and leaderboards are unbiased, robust, and trustworthy.
+- Synthetic data is equally important because **human expertise is ultimately scarce, difficult to scale, and unable to keep pace with the rapid development of AI**. For AI systems to continue improving in the future, they must increasingly learn to **evolve themselves**. The most foundational step toward this vision is providing AI with the “fuel” it needs to progress: data. In the long run, this data should not only be consumed by AI, but also proposed, generated, and refined by AI itself.
+
+
+My research has been featured in various venues including **Nature, NeurIPS, ICLR, ICML, COLM, AAAI, CCS, EuroSys**, etc., and has contributed to the technical whitepapers of high-profile startups including [Sentient](https://sentient.xyz), [Kite AI](https://gokite.ai/), and [PolyHedra](https://polyhedra.network).
 
 Beyond research, I am a member of [the Competitive Programming Hall of Fame](https://cphof.org/). I served as the **President of the Yao Class Students’ Congress** during undergraduate; and I was once a contestant on the TV show "Super Brain" (江苏卫视“最强大脑第10季”).
 

@@ -41,6 +41,10 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+###### **[May 2026] (paper acceptance)**
+Two papers accepted to ICML 2026!
+
 ###### **[Feb 2026] (new papers)**
 Two first-authored papers done at ByteDance Seed are online now!
 
