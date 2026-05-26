@@ -62,7 +62,7 @@ Synthetic data is equally important because **human expertise is ultimately scar
 
 ### Research Impact
 
-My research has been featured in venues including **Nature, NeurIPS, ICLR, ICML, COLM, AAAI, CCS, and EuroSys**, and has contributed to the technical whitepapers of high-profile startups including [Sentient](https://sentient.xyz), [Kite AI](https://gokite.ai/), and [PolyHedra](https://polyhedra.network).
+My research has been featured in venues including **Nature, NeurIPS, ICLR, ICML, COLM, AAAI, ACM CCS, EuroSys, and IEEE Transactions on Networking**, and has contributed to the technical whitepapers of high-profile startups including [Sentient](https://sentient.xyz), [Kite AI](https://gokite.ai/), and [PolyHedra](https://polyhedra.network).
 
 ### Beyond the Lab
 
