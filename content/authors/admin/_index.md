@@ -1,6 +1,6 @@
 ---
 title: Zerui Cheng (程泽瑞)
-role: Ph.D. Candidate at Princeton Univ., AI Researcher
+role: Ph.D. Candidate at Princeton Univ., LLM and AI Researcher
 avatar_filename: avatar.jpg
 
 bio: " "
@@ -50,26 +50,11 @@ highlight_name: true
 
 Hi there, I'm Zerui Cheng (程泽瑞), a Ph.D. candidate at [Princeton University](https://www.princeton.edu/) advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath). I was a student researcher at [ByteDance Seed](https://seed.bytedance.com/en/) (contributor to Seed 2.0 Pro) and [Tencent Hunyuan](https://hunyuan.tencent.com/) (contributor to Hy3 Preview). Before Princeton, I completed my B.Eng. in Computer Science from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at [Tsinghua University](https://tsinghua.edu/), graduating summa cum laude and receiving the prestigious [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html).
 
-My research focuses on **Evaluation of LLMs and Agents** and **Synthetic Data**, two areas that I believe are foundational to the goal of **self-evolving agents for long-horizon tasks**. 
 
-### Evaluation of LLMs and Agents: Measuring What Matters
 
-LLM evaluation is critical for two reasons. First, for frontier AI labs, **evaluation defines and formalizes the tasks, goals, and benchmarks that guide the direction of AI progress**. Second, for the broader public, it helps users **understand which models are best suited for different use cases**. At its core, the philosophy of LLM evaluation concerns how we define tasks, goals, and rubrics, as well as how we ensure that evaluation results and leaderboards are unbiased, robust, and trustworthy.
-
-### Synthetic Data: Fuel for Self-Improving AI
-
-Synthetic data is equally important because **human expertise is ultimately scarce, difficult to scale, and unable to keep pace with the rapid development of AI**. For AI systems to continue improving in the future, they must increasingly learn to **evolve themselves**. The most foundational step toward this vision is providing AI with the “fuel” it needs to progress: data. In the long run, this data should not only be consumed by AI, but also proposed, generated, and refined by AI itself.
-
-### Research Impact
-
-My research has been featured in venues including **Nature, NeurIPS, ICLR, ICML, COLM, AAAI, ACM CCS, EuroSys, and IEEE Transactions on Networking**, and has contributed to the technical whitepapers of high-profile startups including [Sentient](https://sentient.xyz), [Kite AI](https://gokite.ai/), and [PolyHedra](https://polyhedra.network).
-
-### Beyond the Lab
+My research focuses on **Evaluation of LLMs and Agents** and **Synthetic Data**, two areas that I believe are foundational to the goal of **self-evolving agents for long-horizon tasks**.  My research has been published in **Nature** and leading venues including **NeurIPS, ICLR, ICML, COLM, AAAI, ACM CCS, EuroSys, and IEEE Transactions on Networking**. I have also been a core contributor to technical whitepapers for high-profile startups, including [Sentient](https://sentient.xyz) (first author), [Kite AI](https://gokite.ai/) (second author), and [PolyHedra](https://polyhedra.network) (third author). Beyond academia and industry, my work has received international media coverage: **MIT Technology Review** covered our [LiveCodeBench Pro](https://arxiv.org/pdf/2506.11928) work in its June 2025 overview of the AI evaluation crisis, while in June 2026, **Sciences et Avenir** featured [PeerBench](https://arxiv.org/pdf/2510.07575) and my broader views on the philosophy of LLM evaluation.
 
 Beyond research, I am a member of [the Competitive Programming Hall of Fame](https://cphof.org/profile/ucup:Zerui%20Cheng). I served as the **President of the Yao Class Students’ Congress** during my undergraduate years, and I was once a contestant on the TV show *Super Brain* (江苏卫视《最强大脑》第10季).
 
-### Let’s Collaborate
-
-I’m always open to research and industry collaborations, especially around LLM evaluation, synthetic data, and frontier AI systems. Feel free to {{< staticref "#contact" "newtab" >}}contact{{< /staticref >}} me and chat!
 
 {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao) &emsp; &emsp; &emsp;{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}

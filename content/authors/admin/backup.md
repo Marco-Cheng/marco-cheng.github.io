@@ -194,3 +194,12 @@ The AI benchmark paper LiveCodeBench Pro that I co-first-authored is online now!
 ###### **[May 2024] (personal update)**
 
 - Started my internship as an AI fellow at [Sentient](https://twitter.com/sentient_agi).
+
+
+### Evaluation of LLMs and Agents: Measuring What Matters
+
+LLM evaluation is critical for two reasons. First, for frontier AI labs, **evaluation defines and formalizes the tasks, goals, and benchmarks that guide the direction of AI progress**. Second, for the broader public, it helps users **understand which models are best suited for different use cases**. At its core, the philosophy of LLM evaluation concerns how we define tasks, goals, and rubrics, as well as how we ensure that evaluation results and leaderboards are unbiased, robust, and trustworthy.
+
+### Synthetic Data: Fuel for Self-Improving AI
+
+Synthetic data is equally important because **human expertise is ultimately scarce, difficult to scale, and unable to keep pace with the rapid development of AI**. For AI systems to continue improving in the future, they must increasingly learn to **evolve themselves**. The most foundational step toward this vision is providing AI with the “fuel” it needs to progress: data. In the long run, this data should not only be consumed by AI, but also proposed, generated, and refined by AI itself.
