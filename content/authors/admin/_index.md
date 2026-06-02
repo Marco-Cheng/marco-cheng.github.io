@@ -41,24 +41,19 @@ education:
       institution: Electrical and Computer Engineering, Princeton University
     - year: ""
       course: B.Eng. in Computer Science (2019 - 2023)
-      institution: Yao Class, the Insititute for Interdisciplinary Information Sciences (IIIS), Tsinghua University
+      institution: Yao Class, the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University
 email: marco.cheng712@gmail.com
 superuser: true
 highlight_name: true
 ---
 ## Evaluating AI. Generating Data. Scaling Intelligence.
 
-Hi there, I'm Zerui Cheng (程泽瑞), a Ph.D. candidate at [Princeton University](https://www.princeton.edu/) advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath). I was a student researcher at [ByteDance Seed](https://seed.bytedance.com/en/) (contributor to Seed 2.0 Pro) and [Tencent Hunyuan](https://hunyuan.tencent.com/) (contributor to Hy3 Preview). Before Princeton, I completed my B.Eng. in Computer Science from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at [Tsinghua University](https://tsinghua.edu/), graduating summa cum laude and receiving the prestigious [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html).
+I am Zerui Cheng (程泽瑞), a Ph.D. candidate at [Princeton University](https://www.princeton.edu/) advised by [Prof. Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath). My research focuses on **Evaluation of LLMs and Agents** and **Synthetic Data**, two pillars for building self-evolving agents capable of long-horizon tasks.
 
+I'm a Quantitative Research Intern at **Citadel Securities**, and previously a Student Researcher at [ByteDance Seed](https://seed.bytedance.com/en/) and [Tencent Hunyuan](https://hunyuan.tencent.com/), contributing to Seed 2.0 Pro and Hy3 Preview. Before Princeton, I received my B.Eng. in Computer Science from the [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at [Tsinghua University](https://tsinghua.edu/), graduating **summa cum laude** and receiving the prestigious **Yao Award**.
 
+My research has been published in **Nature** and leading venues including **NeurIPS, ICLR, ICML, COLM, AAAI, ACM CCS, EuroSys, and IEEE Transactions on Networking**. I have also contributed to technical whitepapers for [Sentient](https://sentient.xyz), [Kite AI](https://gokite.ai/), and [PolyHedra](https://polyhedra.network).
 
-I do research in **Evaluation of LLMs and Agents** and **Synthetic Data**, two areas that I believe are foundational to the goal of **self-evolving agents for long-horizon tasks**.  
-My research has been published in **Nature** and leading venues including **NeurIPS, ICLR, ICML, COLM, AAAI, ACM CCS, EuroSys, and IEEE Transactions on Networking**. 
-I have also been a core contributor to technical whitepapers for high-profile startups, including [Sentient](https://sentient.xyz) (first author), [Kite AI](https://gokite.ai/) (second author), and [PolyHedra](https://polyhedra.network) (third author). 
-
-Beyond academia and industry, my work has received international media coverage including **MIT Technology Review** (covered [LiveCodeBench Pro](https://arxiv.org/pdf/2506.11928))  and **Sciences et Avenir** (featured [PeerBench](https://arxiv.org/pdf/2510.07575) and my thoughts on the philosophy of LLM evaluation).
-
-Beyond research, I am a member of [the Competitive Programming Hall of Fame](https://cphof.org/profile/ucup:Zerui%20Cheng). I served as the **President of the Yao Class Students’ Congress** during my undergraduate years, and I was once a contestant on the TV show *Super Brain* (江苏卫视《最强大脑》第10季).
-
+My work has been covered by **MIT Technology Review** and **Sciences et Avenir**. Beyond research, I am a member of the [Competitive Programming Hall of Fame](https://cphof.org/profile/ucup:Zerui%20Cheng), a former contestant on *Super Brain* (江苏卫视《最强大脑》), and previously served as President of the Yao Class Students' Congress.
 
 {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao) &emsp; &emsp; &emsp;{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}
