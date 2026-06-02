@@ -92,16 +92,16 @@ For most recent updates, please refer to [my Google Scholar profile](https://sch
 ### Other Publications with One-sentence Description
 
 * LLM and Agent Evaluation
-- [FrontierCS](https://arxiv.org/pdf/2512.15699) (**ICML 2026**): An evolving benchmark for evolving intelligence on open problems in computer science;
-- [FutureX Pro](https://arxiv.org/pdf/2601.12259): Done at ByteDance Seed; An agent benchmark for real-life future prediction in various high-value domains;
-- [PeerBench](https://arxiv.org/pdf/2510.07575) (also part of Decentralized AI, **NeurIPS 2025**): A new paradigm on how we fairly evaluate LLM and agents in a robust and reliable way;
-- [SPIN-Bench](https://arxiv.org/pdf/2503.12349) (**COLM 2025**): A benchmark on LLM's long-horizon reasoning and planning abilities.
+  - [FrontierCS](https://arxiv.org/pdf/2512.15699) (**ICML 2026**): An evolving benchmark for evolving intelligence on open problems in computer science;
+  - [FutureX Pro](https://arxiv.org/pdf/2601.12259): Done at ByteDance Seed; An agent benchmark for real-life future prediction in various high-value domains;
+  - [PeerBench](https://arxiv.org/pdf/2510.07575) (also part of Decentralized AI, **NeurIPS 2025**): A new paradigm on how we fairly evaluate LLM and agents in a robust and reliable way;
+  - [SPIN-Bench](https://arxiv.org/pdf/2503.12349) (**COLM 2025**): A benchmark on LLM's long-horizon reasoning and planning abilities.
 
 * Synthetic Data Generation
-- [AutoCode](https://arxiv.org/pdf/2510.12803) (**ICLR 2026**): An agentic framework for generating tests on competitive programming problems to scale training and evaluation in coding;
-- [TabularMath](https://arxiv.org/pdf/2602.02523) : Done at ByteDance Seed; A framework for generating high-quality tabular datasets for tabular foundation models. 
+  - [AutoCode](https://arxiv.org/pdf/2510.12803) (**ICLR 2026**): An agentic framework for generating tests on competitive programming problems to scale training and evaluation in coding;
+  - [TabularMath](https://arxiv.org/pdf/2602.02523) : Done at ByteDance Seed; A framework for generating high-quality tabular datasets for tabular foundation models. 
 
 * Decentralized AI
-- [TAO](https://dl.acm.org/doi/pdf/10.1145/3767295.3803612) (**EuroSys 2026**): Verifiable and reproducible LLM inference results to ensure accountability in MLaaS. 
-- [Sakshi](https://arxiv.org/pdf/2307.16562): A roadmap for ideal decentralized AI platform where every step is transparent and auditable, ensuring AI benefits the humanity at the end of the day. 
-- [PoCW](https://arxiv.org/pdf/2211.06669) (**IEEE Transactions in Networks**): A paradigm for making Proof-of-Work in blockchains useful (e.g. for model training, inference, etc.) to avoid the huge waste in computation power caused by cryptocurrencies. 
+  - [TAO](https://dl.acm.org/doi/pdf/10.1145/3767295.3803612) (**EuroSys 2026**): Verifiable and reproducible LLM inference results to ensure accountability in MLaaS. 
+  - [Sakshi](https://arxiv.org/pdf/2307.16562): A roadmap for ideal decentralized AI platform where every step is transparent and auditable, ensuring AI benefits the humanity at the end of the day. 
+  - [PoCW](https://arxiv.org/pdf/2211.06669) (**IEEE Transactions in Networks**): A paradigm for making Proof-of-Work in blockchains useful (e.g. for model training, inference, etc.) to avoid the huge waste in computation power caused by cryptocurrencies. 
