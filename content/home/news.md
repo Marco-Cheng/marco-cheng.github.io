@@ -42,7 +42,7 @@ design:
   flip_alt_rows: false
 ---
 
-###### **[May 2026] (media coverage)**
+###### **[Jun 2026] (media coverage)**
 
 I'm honored to be interviewed by [Sciences et Avenir](https://www.sciencesetavenir.fr/), **the leading popular science magazine in France**, which later featured [PeerBench](https://arxiv.org/pdf/2510.07575) and my broader views on the philosophy of LLM evaluation in the article [Que valent les comparateurs d'IA ?](https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/que-valent-les-comparateurs-d-ia_192619) in June 2026.
 
@@ -81,5 +81,5 @@ Three papers are accepted in various venues this month!
 
 Two papers ([LiveCodeBench Pro](https://arxiv.org/pdf/2506.11928), [PeerBench](https://arxiv.org/pdf/2510.07575)) accepted to **NeurIPS 2025**!
 
-###### **[June 2025] (media coverage)**
+###### **[Jun 2025] (media coverage)**
 [LiveCodeBench Pro](https://arxiv.org/pdf/2506.11928) is covered by MIT Technology Review in their article [Can we fix AI's evaluation crisis?](https://www.technologyreview.com/2025/06/24/1119187/fix-ai-evaluation-crisis/).
