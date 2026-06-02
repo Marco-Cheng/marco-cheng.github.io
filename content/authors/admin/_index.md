@@ -52,7 +52,13 @@ Hi there, I'm Zerui Cheng (程泽瑞), a Ph.D. candidate at [Princeton Universit
 
 
 
-My research focuses on **Evaluation of LLMs and Agents** and **Synthetic Data**, two areas that I believe are foundational to the goal of **self-evolving agents for long-horizon tasks**.  My research has been published in **Nature** and leading venues including **NeurIPS, ICLR, ICML, COLM, AAAI, ACM CCS, EuroSys, and IEEE Transactions on Networking**. I have also been a core contributor to technical whitepapers for high-profile startups, including [Sentient](https://sentient.xyz) (first author), [Kite AI](https://gokite.ai/) (second author), and [PolyHedra](https://polyhedra.network) (third author). Beyond academia and industry, my work has received international media coverage: **MIT Technology Review** covered our [LiveCodeBench Pro](https://arxiv.org/pdf/2506.11928) work in its June 2025 overview of the AI evaluation crisis, while in June 2026, **Sciences et Avenir** featured [PeerBench](https://arxiv.org/pdf/2510.07575) and my broader views on the philosophy of LLM evaluation.
+My research focuses on **Evaluation of LLMs and Agents** and **Synthetic Data**, two areas that I believe are foundational to the goal of **self-evolving agents for long-horizon tasks**.  
+
+My research has been published in **Nature** and leading venues including **NeurIPS, ICLR, ICML, COLM, AAAI, ACM CCS, EuroSys, and IEEE Transactions on Networking**. 
+
+I have also been a core contributor to technical whitepapers for high-profile startups, including [Sentient](https://sentient.xyz) (first author), [Kite AI](https://gokite.ai/) (second author), and [PolyHedra](https://polyhedra.network) (third author). 
+
+Beyond academia and industry, my work has received international media coverage: **MIT Technology Review** covered our [LiveCodeBench Pro](https://arxiv.org/pdf/2506.11928) work in its June 2025 overview of the AI evaluation crisis, while in June 2026, **Sciences et Avenir** featured [PeerBench](https://arxiv.org/pdf/2510.07575) and my broader views on the philosophy of LLM evaluation.
 
 Beyond research, I am a member of [the Competitive Programming Hall of Fame](https://cphof.org/profile/ucup:Zerui%20Cheng). I served as the **President of the Yao Class Students’ Congress** during my undergraduate years, and I was once a contestant on the TV show *Super Brain* (江苏卫视《最强大脑》第10季).
 
