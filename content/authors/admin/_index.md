@@ -56,7 +56,7 @@ I do research in **Evaluation of LLMs and Agents** and **Synthetic Data**, two a
 My research has been published in **Nature** and leading venues including **NeurIPS, ICLR, ICML, COLM, AAAI, ACM CCS, EuroSys, and IEEE Transactions on Networking**. 
 I have also been a core contributor to technical whitepapers for high-profile startups, including [Sentient](https://sentient.xyz) (first author), [Kite AI](https://gokite.ai/) (second author), and [PolyHedra](https://polyhedra.network) (third author). 
 
-Beyond academia and industry, my work has received international media coverage including **MIT Technology Review** ([LiveCodeBench Pro](https://arxiv.org/pdf/2506.11928))  and **Sciences et Avenir** ([PeerBench](https://arxiv.org/pdf/2510.07575) and my broader views on the philosophy of LLM evaluation during the interview).
+Beyond academia and industry, my work has received international media coverage including **MIT Technology Review** (covered [LiveCodeBench Pro](https://arxiv.org/pdf/2506.11928))  and **Sciences et Avenir** (featured [PeerBench](https://arxiv.org/pdf/2510.07575) and my thoughts on the philosophy of LLM evaluation).
 
 Beyond research, I am a member of [the Competitive Programming Hall of Fame](https://cphof.org/profile/ucup:Zerui%20Cheng). I served as the **President of the Yao Class Students’ Congress** during my undergraduate years, and I was once a contestant on the TV show *Super Brain* (江苏卫视《最强大脑》第10季).
 
