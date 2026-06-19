@@ -42,6 +42,9 @@ design:
   flip_alt_rows: false
 ---
 
+###### **[Jun 2026] (paper acceptance)**
+3 papers (Multi-agent Debate, VeRA, TabularMath) accepted to **ICML 2026 AI4Math**!
+
 ###### **[Jun 2026] (media coverage)**
 
 I'm honored to be interviewed by [Sciences et Avenir](https://www.sciencesetavenir.fr/), **the leading popular science magazine in France**, which later featured [PeerBench](https://arxiv.org/pdf/2510.07575) and my broader views on the philosophy of LLM evaluation in the article [Que valent les comparateurs d'IA ?](https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/que-valent-les-comparateurs-d-ia_192619) in June 2026.
@@ -51,7 +54,6 @@ I'm honored to be interviewed by [Sciences et Avenir](https://www.sciencesetaven
 Two papers (FrontierCS, the Generalization Spectrum) accepted to **ICML 2026**!
 
 One paper (ValueMine) accepted to the journal **IEEE Transactions on Networking**!
-
 
 ###### **[Feb 2026] (new papers)**
 Two first-authored papers done at ByteDance Seed are online now!
