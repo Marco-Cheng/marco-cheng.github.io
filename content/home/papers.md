@@ -42,12 +42,12 @@ design:
 ---
 For most recent updates, please refer to [my Google Scholar profile](https://scholar.google.com/citations?user=BK4DaPAAAAAJ&hl=en&oi=ao). Here are some selected publications.
 
-### High-Real-Value Technical Whitepapers for Superstar Startups
+### High-Real-Value Technical Foundation for Superstar Startups
 
 
 * **[OML: Open, Monetizable, Loyal AI](https://arxiv.org/pdf/2411.03887)** (2024, NeurIPS 2025 Lock-LLM)
 
-  - Technical whitepaper for the AI startup [Sentient](https://sentient.xyz), which raised [$85M seed funding](https://www.coindesk.com/business/2024/07/02/peter-thiels-founders-fund-leads-85m-seed-investment-into-open-source-ai-platform-sentient/) led by Peter Thiel's Founders' Fund.
+  - Technical foundation for the AI startup [Sentient](https://sentient.xyz), which raised [$85M seed funding](https://www.coindesk.com/business/2024/07/02/peter-thiels-founders-fund-leads-85m-seed-investment-into-open-source-ai-platform-sentient/) led by Peter Thiel's Founders' Fund.
   - **Featured at Citadel Securities PhD Summit 2025**
   - **Invited talk at University of Tübingen**
   - **Invited talk at [Decentralized AI Institute](https://lu.ma/bh6qy11y)** [Link to recording](https://youtu.be/z2_YYoREbKA)
@@ -56,12 +56,12 @@ For most recent updates, please refer to [my Google Scholar profile](https://sch
 * **[zkBridge](https://arxiv.org/pdf/2210.00264)** (ACM CCS 2022)
 
   - Trustless cross-chain bridges using zero-knowledge proofs
-  - Foundation for the blockchain startup [Polyhedra Network](https://polyhedra.network/) (valued at [$1 billion](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round) by the end of 2024)
+  - Technical foundation for the blockchain startup [Polyhedra Network](https://polyhedra.network/) (valued at [$1 billion](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round) by the end of 2024)
 
-* **[Kite AI Whitepaper](https://3039141165-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FDEZV8Q9oZUOJOgG9QuuI%2Fuploads%2Fgit-blob-69656b91281013e5164a455f5784606c9e912760%2Fkite_whitepaper.pdf?alt=media)**
+* **[Agent-Native Payment Network](https://www.zerui-cheng.com/uploads/Kite_whitepaper.pdf)**
 
-  - Revolutionary infrastructure design for a stablecoin payment network dedicated for AI agents
-  - The technical whitepaper of Kite AI, a blockchain payment startup which secured [$33M funding](https://newsroom.paypal-corp.com/2025-09-02-Kite-Raises-18M-in-Series-A-Funding-To-Enforce-Trust-in-the-Agentic-Web) led by PayPal Ventures in seed ($15M) and series A ($18M) combined. 
+  - Revolutionary infrastructure design of a payment network dedicated for AI agents
+  - The technical foundation of Kite AI, a blockchain payment startup which secured [$33M funding](https://newsroom.paypal-corp.com/2025-09-02-Kite-Raises-18M-in-Series-A-Funding-To-Enforce-Trust-in-the-Agentic-Web) led by PayPal Ventures in seed ($15M) and series A ($18M) combined. 
 
 ### (Selected) Research in Industry Grounded in Real Practice
 

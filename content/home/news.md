@@ -42,7 +42,7 @@ design:
   flip_alt_rows: false
 ---
 ###### **[Aug 2026] (paper acceptance)**
-AEGIS-D accepted to **EMNLP 2026**!
+AEGIS-D accepted to **EMNLP 2026**! Huge congrats to Jiayang!
 
 ###### **[Jun 2026] (paper acceptance)**
 3 papers (AEGIS-D (Multi-agent Debate), VeRA, TabularMath) accepted to **ICML 2026 AI4Math**!
