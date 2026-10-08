@@ -41,6 +41,9 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+###### **[Sep 2026] (paper acceptance)**
+OML accepted to **NeurIPS 2026** as a **Spotlight paper (top 2%)**! 
+
 ###### **[Aug 2026] (paper acceptance)**
 AEGIS-D accepted to **EMNLP 2026**! Huge congrats to Jiayang!
 
